@@ -18,10 +18,11 @@
 - [in-line configuration](http://docs.mathjax.org/en/latest/configuration.html#using-in-line-configuration-options)
 - [plain JavaScript](http://docs.mathjax.org/en/latest/configuration.html#using-plain-javascript)
 - [defining macros](http://docs.mathjax.org/en/latest/tex.html#defining-tex-macros)
+- [override Jekyll](https://help.github.com/en/articles/files-that-start-with-an-underscore-are-missing)
 
 <script>
   var xhr = new XMLHttpRequest();
-  xhr.open("GET", ".vscode/settings.json", true);
+  xhr.open("GET", "settings.json", true);
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
       var json = JSON.parse(xhr.responseText);
