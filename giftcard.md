@@ -7,8 +7,8 @@ at a location of your choice.
 Cycling may also be involved
 but this is not mandatory.
 
-Click on an image below
-to learn more:
+Click an image below
+to learn more...
 
 [![Inn on the Twenty][InnOnTheTwentyPhoto]][InnOnTheTwenty]
 
