@@ -27,12 +27,6 @@ $$
   \mat{v} &= \mat{0} \\
   \crs{a}{b} &= \mat{c}
 \end{aligned}
-$$
-
-$$
-\begin{aligned}
-  f = g
-\end{aligned}
 \gdef\kap{\operatorname{kap}}
 \gdef\mat#1{\mathbf{#1}}
 \gdef\crs#1#2{\mathbf{#1}^\times\mathbf{#2}}
