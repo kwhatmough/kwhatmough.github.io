@@ -16,13 +16,6 @@
 
 <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-  MathJax.Hub.Config({
-    TeX: {
-      Macros: {
-        sinc: "\\operatorname{sinc}"
-      }
-    }
-  });
 </script>
 
 $$
@@ -41,3 +34,13 @@ $$
   + ...
 \end{aligned}
 $$
+
+<script type="text/javascript">
+  MathJax.Hub.Config({
+    TeX: {
+      Macros: {
+        sinc: "\\operatorname{sinc}"
+      }
+    }
+  });
+</script>
