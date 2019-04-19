@@ -5,7 +5,7 @@ to dinner with your Significant Other
 at a location of your choice.
 
 Cycling may also be involved
-but is not mandatory.
+but this is not mandatory.
 
 Click on an image below
 to learn more:
