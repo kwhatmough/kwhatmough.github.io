@@ -19,5 +19,16 @@
 </script>
 
 $$
-  x=\sqrt{w}
+\begin{aligned}
+  E &= mc^2
+  \\
+  \sinc(x) &= \frac{\sin x}{x}
+  \\
+  \f{a}{b}{c}{z}
+  &=
+  1
+  + \frac{ab}{c}\frac{z}{1!}
+  + \frac{a(a+1)b(b+1)}{c(c+1)}\frac{z^2}{2!}
+  + ...
+\end{aligned}
 $$
