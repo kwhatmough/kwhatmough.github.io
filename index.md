@@ -16,15 +16,16 @@
 
 ## MathJax
 - [in-line configuration](http://docs.mathjax.org/en/latest/configuration.html#using-in-line-configuration-options)
+- [plain JavaScript](http://docs.mathjax.org/en/latest/configuration.html#using-plain-javascript)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
+<script>
+  window.MathJax = {
     TeX: {
       Macros: {
         sinc: "\\operatorname{sinc}"
       }
     }
-  });
+  };
 </script>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
