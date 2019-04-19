@@ -1,9 +1,14 @@
 # Gift Certificate
 This certificate entitles you
-to a cycling adventure
-and dinner with your Significant Other
-(hopefully me)
+to dinner with your Significant Other
+(hopefully me!)
 at a location of your choice.
+
+Cycling may also be involved
+but is not mandatory.
+
+Click on an image below
+to learn more:
 
 [![Inn on the Twenty][InnOnTheTwentyPhoto]][InnOnTheTwenty]
 
