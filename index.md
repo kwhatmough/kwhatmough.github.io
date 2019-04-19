@@ -23,7 +23,8 @@
     TeX: {
       Macros: {
         sinc: "\\operatorname{sinc}",
-        v: ["\\mathbf{#1}", 1]
+        v: ["\\mathbf{#1}", 1],
+        f: ["{F({#1},{#2};{#3};{#4})}", 4]
       }
     }
   };
