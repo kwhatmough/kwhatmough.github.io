@@ -15,7 +15,8 @@
 - GMP gift card
 
 <script type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"
+  onload="configMathJax()">
 </script>
 
 $$
@@ -36,11 +37,13 @@ $$
 $$
 
 <script type="text/javascript">
-  MathJax.Hub.Config({
-    TeX: {
-      Macros: {
-        sinc: "\\operatorname{sinc}"
+  function configMathJax() {
+    MathJax.Hub.Config({
+      TeX: {
+        Macros: {
+          sinc: "\\operatorname{sinc}"
+        }
       }
-    }
-  });
+    });
+  }
 </script>
