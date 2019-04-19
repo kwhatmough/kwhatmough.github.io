@@ -20,6 +20,17 @@
 
 $$
 \begin{aligned}
+  E &= mc^2 \\
+  \v{f} &= m\v{a} \\
+  \f{0}{b}{c}{z} &= 1 \\
+  \kap{1} &= 0 \\
+  \mat{v} &= \mat{0} \\
+  \crs{a}{b} &= \mat{c}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
   f = g
 \end{aligned}
 \gdef\kap{\operatorname{kap}}
