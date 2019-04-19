@@ -26,7 +26,9 @@
 </script>
 
 $$
+\begingroup
 \global\def\braket#1{\langle{#1}\rangle}
+\endgroup
 \braket{x}
 $$
 
