@@ -19,9 +19,11 @@
 </script>
 
 <div style="visibility: hidden;">
+
 $$
 \global\def\braket#1{\langle{#1}\rangle}
 $$
+
 </div>
 
 $$
