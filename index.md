@@ -18,11 +18,23 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
 </script>
 
+<script>
+  MathJax.Hub.Config({
+    TeX: {
+      Macros: {
+        sinc: "\\operatorname{sinc}"
+      }
+    }
+  });
+</script>
+
 $$
 \begin{aligned}
   E &= mc^2
   \\
   \sinc(x) &= \frac{\sin x}{x}
+  \\
+  \v{v} &= \v{0}
   \\
   \f{a}{b}{c}{z}
   &=
