@@ -23,7 +23,7 @@
     TeX: {
       Macros: {
         sinc: "\\operatorname{sinc}",
-        v: "\\mathbf{#1}"
+        v: ["\\mathbf{#1}", 1]
       }
     }
   };
