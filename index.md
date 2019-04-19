@@ -24,6 +24,8 @@
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "settings.json", true);
   xhr.onreadystatechange = function () {
+    console.log("xhr.readyState=" + xhr.readyState);
+    console.log("xhr.status=" + xhr.status);
     if (xhr.readyState == 4 && xhr.status == 200) {
       var json = JSON.parse(xhr.responseText);
       window.MathJax = json.mdmath.macros;
