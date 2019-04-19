@@ -14,16 +14,20 @@
 - list SDBs and accounts
 - GMP gift card
 
-<script type="text/javascript">
-  function configMathJax() {
-    MathJax.Hub.Config({
-      TeX: {
-        Macros: {
-          sinc: "\\operatorname{sinc}"
-        }
+## MathJax
+- [in-line configuration](http://docs.mathjax.org/en/latest/configuration.html#using-in-line-configuration-options)
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      Macros: {
+        sinc: "\\operatorname{sinc}"
       }
-    });
-  }
+    }
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 $$
@@ -42,8 +46,3 @@ $$
   + ...
 \end{aligned}
 $$
-
-<script type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"
-  onload="configMathJax()">
-</script>
