@@ -22,7 +22,8 @@
   window.MathJax = {
     TeX: {
       Macros: {
-        sinc: "\\operatorname{sinc}"
+        sinc: "\\operatorname{sinc}",
+        v: "\\mathbf{#1}"
       }
     }
   };
