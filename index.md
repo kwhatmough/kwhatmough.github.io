@@ -17,8 +17,18 @@
 ## MathJax
 - [in-line configuration](http://docs.mathjax.org/en/latest/configuration.html#using-in-line-configuration-options)
 - [plain JavaScript](http://docs.mathjax.org/en/latest/configuration.html#using-plain-javascript)
+- [defining macros](http://docs.mathjax.org/en/latest/tex.html#defining-tex-macros)
 
 <script>
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", ".vscode/settings.json", true);
+  xhr.onreadystatechange() = function () {
+    if (xhr.readyState == 4 && xhr.status == 200) {
+      var json = JSON.parse(xhr.responseText);
+      window.MathJax = json.mdmath.macros;
+    }
+  };
+  /*
   window.MathJax = {
     TeX: {
       Macros: {
@@ -28,6 +38,7 @@
       }
     }
   };
+  */
 </script>
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
