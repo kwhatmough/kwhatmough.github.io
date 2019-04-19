@@ -22,7 +22,7 @@
 <script>
   var xhr = new XMLHttpRequest();
   xhr.open("GET", ".vscode/settings.json", true);
-  xhr.onreadystatechange() = function () {
+  xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
       var json = JSON.parse(xhr.responseText);
       window.MathJax = json.mdmath.macros;
