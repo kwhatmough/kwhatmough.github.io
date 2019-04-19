@@ -28,7 +28,7 @@
     console.log("xhr.status=" + xhr.status);
     if (xhr.readyState == 4 && xhr.status == 200) {
       var json = JSON.parse(xhr.responseText);
-      window.MathJax = json.mdmath.macros;
+      window.MathJax = json["mdmath.macros"];
     }
   };
   xhr.send();
