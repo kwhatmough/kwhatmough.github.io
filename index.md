@@ -31,6 +31,7 @@
       window.MathJax = json.mdmath.macros;
     }
   };
+  xhr.send();
   /*
   window.MathJax = {
     TeX: {
