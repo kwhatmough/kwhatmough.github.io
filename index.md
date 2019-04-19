@@ -19,17 +19,7 @@
 </script>
 
 $$
-\begin{aligned}
-  E &= mc^2 \\
-  \v{f} &= m\v{a} \\
-  \f{0}{b}{c}{z} &= 1 \\
-  \kap{1} &= 0 \\
-  \mat{v} &= \mat{0} \\
-  \crs{a}{b} &= \mat{c}
-\end{aligned}
 \gdef\kap{\operatorname{kap}}
-\gdef\mat#1{\mathbf{#1}}
-\gdef\crs#1#2{\mathbf{#1}^\times\mathbf{#2}}
 $$
 
 $$
