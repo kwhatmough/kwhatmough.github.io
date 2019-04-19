@@ -19,7 +19,8 @@
 </script>
 
 $$
-\gdef\kap{\operatorname{kap}}
+\newcommand{\braket}[1]{\langle{#1}\rangle}
+\braket{x}
 $$
 
 $$
