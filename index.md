@@ -19,13 +19,13 @@
 </script>
 
 $$
-\newcommand{\braket}[1]{\langle{#1}\rangle}
+\def\braket#1{\langle{#1}\rangle}
 \braket{x}
 $$
 
 $$
 \begin{aligned}
-  E &= mc^2 \\
+  E &= \braket{x} \\
   \v{f} &= m\v{a} \\
   \f{0}{b}{c}{z} &= 1 \\
   \kap{1} &= 0 \\
