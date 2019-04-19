@@ -18,7 +18,7 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-<div style="visibility: hidden;">
+<div style="display: none;">
 
 $$
 \global\def\braket#1{\langle{#1}\rangle}
