@@ -19,7 +19,7 @@
 </script>
 
 $$
-\def\braket#1{\langle{#1}\rangle}
+\gdef\braket#1{\langle{#1}\rangle}
 \braket{x}
 $$
 
