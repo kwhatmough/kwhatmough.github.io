@@ -18,7 +18,7 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-$$\gdef\dual#1{\check{#1}}$$
+$$\global\def\dual#1{\check{#1}}$$
 
 This is a test. Let $$\dual{x}=1$$
 and $$y=2$$.
