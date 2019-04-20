@@ -13,3 +13,7 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
+
+$$\gdef\positive{\text{negative}}$$
+
+$$\text{Bug detected: }\positive$$

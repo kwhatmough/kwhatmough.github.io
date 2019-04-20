@@ -1,0 +1,6 @@
+{
+    "mdmath.delimiters": "kramdown",
+    "mdmath.macros": {
+        "\\placeholder": "\text{placeholder}"
+    }
+}
