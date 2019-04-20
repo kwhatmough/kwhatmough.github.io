@@ -18,11 +18,13 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-This is a test. Let $$x=1$$
+$$\gdef\dual#1{\check{#1}}$$
+
+This is a test. Let $$\dual{x}=1$$
 and $$y=2$$.
 
-$$x+y=3$$
+$$\dual{x}+y=3$$
 
 That was just a test.
-Seriously, $$x+y=3$$.
+Seriously, $$\dual{x}+y=3$$.
 Can't fool you.
