@@ -17,8 +17,9 @@
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-
+<div style="display: none;">
 $$\global\def\dual#1{\check{#1}}$$
+</div>
 
 This is a test. Let $$\dual{x}=1$$
 and $$y=2$$.
