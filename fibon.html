@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<title>Fibonacci</title>
+<script type="text/javascript">
+function modifyFibonacci(step) {
+    var gratio = (1 + Math.sqrt(5)) / 2;
+    var curr = parseInt(document.getElementById('readout').value, 10);
+
+    if (curr > 1) {
+        curr = Math.floor(Math.log(curr * Math.sqrt(5) + 0.5) / Math.log(gratio));
+    } else {
+        curr = 2;
+    }
+
+    curr += step;
+
+    curr = Math.floor(Math.pow(gratio, curr) / Math.sqrt(5) + 0.5);
+
+    document.getElementById('readout').value = curr;
+    return curr;
+}
+</script>
+</head>
+<body>
+<center>
+  <div>
+    <input id="readout" value="1" style="font-size:2000%;border:none;width:100%;text-align:center" readonly="readonly"/>
+  </div>
+  <div>
+    <button id="down" onclick="modifyFibonacci(-1)" style="width:40%;height:10em">&lt;</button>
+    <button id="up" onclick="modifyFibonacci(1)" style="width:40%;height:10em">&gt;</button>
+  </div>
+</center>
+</body>
+</html>
