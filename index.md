@@ -1,4 +1,4 @@
-- 9am: card, water, cups, food
+- 9am: matress pad, water, cups, food
 - tax returns
 - final list to Bill (late clm)
 - rebook vacation
