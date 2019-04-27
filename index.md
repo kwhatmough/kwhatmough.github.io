@@ -1,3 +1,4 @@
+- 9am: card, water, cups, food
 - tax returns
 - final list to Bill (late clm)
 - rebook vacation
