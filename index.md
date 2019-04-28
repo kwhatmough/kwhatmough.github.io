@@ -1,5 +1,4 @@
 - pickup matress pad
-- tax returns
 - final list to Bill (late clm)
 - rebook vacation
 - fix grout in main
