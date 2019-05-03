@@ -11,3 +11,4 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
+- new ms repo and notes in kwio with name|year|feedback|contributing footer
