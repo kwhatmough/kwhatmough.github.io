@@ -11,4 +11,8 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
-- new ms repo and notes in kwio with name|year|feedback|contributing footer
+- notes that use ms
+  - new repo just for ms
+  - notes (kwio? custom?)
+    - refs incl my derivs
+    - footer: name|year|feedback|contributing
