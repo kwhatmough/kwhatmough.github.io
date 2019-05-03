@@ -11,8 +11,9 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
-- notes that use ms
-  - new repo just for ms
-  - notes (kwio? custom?)
-    - refs incl my derivs
-    - footer: name|year|feedback|contributing
+- a lib and notes that use it
+  - a repo just for the lib (VSp)
+  - my notes (either in kwio or their own repo)
+    - refs incl links to original work
+    - footer with bar separators:
+      - name | year | Feedback | Contributing
