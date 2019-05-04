@@ -9,6 +9,8 @@ Cargo behind 2nd: 1077 L
 
 Headed Steering Wheel: All models
 
+Crossbar Spread: May be a concern
+
 LX | EX 2.4 | LX V6 | EX | EX Prem | SX | SXL
 --- | --- | --- | --- | --- | --- | ---
 5 | 7 | 7 | 7 | 7 | 7 | 7
@@ -24,6 +26,8 @@ Cargo behind 1st: 2455 L
 Cargo behind 2nd: 1304 L
 
 Headed Steering Wheel: All models
+
+Crossbar Spread: May be a concern
 
 EX | SX | SX Ltd
 --- | --- | ---
@@ -41,6 +45,8 @@ Cargo behind 2nd: 1198 L
 
 Headed Steering Wheel: Ltd model
 
+Crossbar Spread: May be a concern
+
 LE | LE AWD | XLE | Ltd
 --- | --- | --- | ---
 8 | 8 | 8 | 7
@@ -57,6 +63,8 @@ Cargo behind 2nd: 1430 L
 
 Headed Steering Wheel: All models
 
+Crossbar Spread: Variable
+
 Sport | EX-L | Touring
 --- | --- | ---
 5 | 5 | 5
@@ -72,6 +80,8 @@ Cargo behind 1st: 2008 L
 Cargo behind 2nd: 935 L
 
 Headed Steering Wheel: Limited and Premier models
+
+Crossbar Spread: Variable
 
 Convenience | Touring | Sport | Limited | Premier
 --- | --- | --- | --- | ---
