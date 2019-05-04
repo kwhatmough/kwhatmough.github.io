@@ -1,36 +1,79 @@
-# Sorento
+# Kia Sorento
 Consumption: 10 L / 100km
 
 Warranty: 5 yr / 100,000km Basic
 
-LX | EX | LX Prem | EX V6 | EX Prem V6 | SX | SXL
---- | --- | --- | --- | --- | --- | ---
-$31k | $33k | $35k | $39k | $41k | $45k | $50k
+Cargo behind 1st: 2066 L
 
-# Telluride
+Cargo behind 2nd: 1077 L
+
+Headed Steering Wheel: All models
+
+LX | EX 2.4 | LX V6 | EX | EX Prem | SX | SXL
+--- | --- | --- | --- | --- | --- | ---
+5 | 7 | 7 | 7 | 7 | 7 | 7
+31k | 33k | 35k | 39k | 41k | 45k | 50k
+
+# Kia Telluride
+Consumption: 11 L / 100km
+
+Warranty: 5 yr / 100,000km Basic
+
+Cargo behind 1st: 2455 L
+
+Cargo behind 2nd: 1304 L
+
+Headed Steering Wheel: All models
+
 EX | SX | SX Ltd
 --- | --- | ---
-$45k | $50k | $54k
+8 | 8 | 7
+45k | 50k | 54k
 
-# Highlander
-Consumption: 10 L / 100km
+# Toyota Highlander
+Consumption: 10.6 L / 100km
 
-LE | LE AWD | XLE | Limited
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 2356 L
+
+Cargo behind 2nd: 1198 L
+
+Headed Steering Wheel: Ltd model
+
+LE | LE AWD | XLE | Ltd
 --- | --- | --- | ---
-$37k | $40k | $46k | $52k
+8 | 8 | 8 | 7
+37k | 40k | 46k | 52k
 
-# Passport
-Consumption: 11 L / 100km
+# Honda Passport
+Consumption: 11.3 L / 100km
+
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 2852 L
+
+Cargo behind 2nd: 1430 L
+
+Headed Steering Wheel: All models
 
 Sport | EX-L | Touring
 --- | --- | ---
-$42k | $46k | $49k
+5 | 5 | 5
+42k | 46k | 49k
 
-# Forester
+# Subaru Forester
 Consumption: 8.2 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
 
+Cargo behind 1st: 2008 L
+
+Cargo behind 2nd: 935 L
+
+Headed Steering Wheel: Limited and Premier models
+
 Convenience | Touring | Sport | Limited | Premier
 --- | --- | --- | --- | ---
-$32k | $33k | $35k | $38k | $40k
+5 | 5 | 5 | 5 | 5
+32k | 33k | 35k | 38k | 40k
