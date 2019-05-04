@@ -87,3 +87,21 @@ Convenience | Touring | Sport | Limited | Premier
 --- | --- | --- | --- | ---
 5 | 5 | 5 | 5 | 5
 32k | 33k | 35k | 38k | 40k
+
+# Subaru Ascent
+Consumption: 10.4 L / 100km
+
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 2435 L
+
+Cargo behind 2nd: 1331 L
+
+Headed Steering Wheel: Limited model
+
+Crossbar Spread: Variable
+
+Convenience | Touring | Limited
+--- | --- | ---
+8 | 8 | 8
+36k | 41k | 47k
