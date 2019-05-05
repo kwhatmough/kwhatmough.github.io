@@ -107,6 +107,7 @@ Convenience | Touring | Limited
 36k | 41k | 47k
 
 # Measurements
+
 m | Length | Width | Height
 --- | --- | --- | ---
 Sorento | 4.8 | 1.9 | 1.7
@@ -115,4 +116,4 @@ Highlander | 4.9 | 1.9 | 1.7
 Passport | 4.8 | 2.1 | 1.8
 Forester | 4.6 | 1.8 | 1.7
 Ascent | 5.0 | 2.0 | 1.8
-08 RAV4 | 4.6 | 1.8 | 1.7
+2008 RAV4 | 4.6 | 1.8 | 1.7
