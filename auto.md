@@ -119,4 +119,4 @@ Forester | 4.6 | 1.8 | 1.7
 Ascent | 5.0 | 2.0 | 1.8
 
 1. Honda Passport width with mirrors folded is 2.1 m or 84".
-Our garage door width is 93". __In the US, the Touring trim comes with power folding side mirros. In Canada, power folding side mirros are not available.__
+Our garage door width is 93". __In the US, the Touring trim comes with power folding side mirrors. In Canada, power folding side mirrors are not available.__
