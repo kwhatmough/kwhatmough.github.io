@@ -114,6 +114,9 @@ Convenience | Touring | Limited
 Sorento | 4.8 | 1.9 | 1.7
 Telluride | 5.0 | 2.0 | 1.8
 Highlander | 4.9 | 1.9 | 1.7
-Passport | 4.8 | 2.1 | 1.8
+Passport | 4.8 | 2.3<sup>1</sup> | 1.8
 Forester | 4.6 | 1.8 | 1.7
 Ascent | 5.0 | 2.0 | 1.8
+
+1. Honda Passport width with mirrors folded is 2.1 m or 84".
+Our garage door width is 93". __In the US, the Touring trim comes with power folding side mirros. In Canada, power folding side mirros are not available.__
