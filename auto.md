@@ -108,12 +108,12 @@ Convenience | Touring | Limited
 
 # Measurements
 
-m | Length | Width | Height
+|| Length (m) | Width (m) | Height (m)
 --- | --- | --- | ---
+'08 RAV4 | 4.6 | 1.8 | 1.7
 Sorento | 4.8 | 1.9 | 1.7
 Telluride | 5.0 | 2.0 | 1.8
 Highlander | 4.9 | 1.9 | 1.7
 Passport | 4.8 | 2.1 | 1.8
 Forester | 4.6 | 1.8 | 1.7
 Ascent | 5.0 | 2.0 | 1.8
-2008 RAV4 | 4.6 | 1.8 | 1.7
