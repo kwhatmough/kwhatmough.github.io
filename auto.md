@@ -110,15 +110,15 @@ Convenience | Touring | Limited
 
 # Measurements
 
-|| Length (m) | Width (m) | Height (m)
---- | --- | --- | ---
-'08 RAV4 | 4.6 | 1.8 | 1.7
-Atlas | 5.0 | 2.0 | 1.8
-Telluride | 5.0 | 2.0 | 1.8
-Highlander | 4.9 | 1.9 | 1.7
-Passport | 4.8 | 2.3 | 1.8
-Forester | 4.6 | 1.8 | 1.7
-Ascent | 5.0 | 2.0 | 1.8
+|| Length (m) | Width (m) | Height (m) | Turn Radius (m)
+--- | --- | --- | --- | ---
+'08 RAV4 | 4.6 | 1.8 | 1.7 | 5.6
+Atlas | 5.0 | 2.0 | 1.8 | 6.2
+Telluride | 5.0 | 2.0 | 1.8 | 6.0
+Highlander | 4.9 | 1.9 | 1.7 | 6.0
+Passport | 4.8 | 2.3 | 1.8 | 6.0
+Forester | 4.6 | 1.8 | 1.7 | 5.4
+Ascent | 5.0 | 2.0 | 1.8 | 5.8
 
 # Things to be aware of
 1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption.
@@ -134,8 +134,8 @@ desired items:
 crossbar spread is too narrow for carrying the V8 and the Eze. V-bars would be needed. The total additional cost would be about $1000.
 1. <a name="N006"></a>The Honda Passport is
 about 30cm wider than other vehicles in its class.
-The vehicle width with mirrors folded is 2.1 m or 84".
-Our garage door width is 93". In the US, the Touring trim comes with power folding door mirrors. In Canada, power folding door mirrors are not available.
+Power folding side mirrors are available
+on the Touring trim.
 1. <a name="N007"></a>The Subaru Forester has a CVT.
 Reviews indicate that vehicle acceleration is poor.
 1. <a name="N008"></a>The Subaru Ascent has a CVT.
