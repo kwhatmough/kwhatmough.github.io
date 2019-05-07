@@ -1,22 +1,24 @@
-# Kia Sorento
-Consumption: 10 L / 100km
+# Cars
 
-Warranty: 5 yr / 100,000km Basic
+## Volkswagen Atlas
+Consumption: 12 L / 100km
 
-Cargo behind 1st: 2066 L
+Warranty:  4 yr / 80,000km Basic
 
-Cargo behind 2nd: 1077 L
+Cargo behind 1st: 2741 L
 
-Headed Steering Wheel: All models
+Cargo behind 2nd: n/a
 
-Crossbar Spread: May be a concern
+Headed Steering Wheel: Comfortline
 
-LX | EX 2.4 | LX V6 | EX | EX Prem | SX | SXL
---- | --- | --- | --- | --- | --- | ---
-5 | 7 | 7 | 7 | 7 | 7 | 7
-31k | 33k | 35k | 39k | 41k | 45k | 50k
+Crossbar Spread: Variable
 
-# Kia Telluride
+Trandline | Comfortline | Highline | Execline
+--- | --- | --- | ---
+7 | 7 | 7 | 7
+37k | 41k | 50k | 54k
+
+## Kia Telluride
 Consumption: 11 L / 100km
 
 Warranty: 5 yr / 100,000km Basic
@@ -34,7 +36,7 @@ EX | SX | SX Ltd
 8 | 8 | 7
 45k | 50k | 54k
 
-# Toyota Highlander
+## Toyota Highlander
 Consumption: 10.6 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -52,7 +54,7 @@ LE | LE AWD | XLE | Ltd
 8 | 8 | 8 | 7
 37k | 40k | 46k | 52k
 
-# Honda Passport
+## Honda Passport
 Consumption: 11.3 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -70,7 +72,7 @@ Sport | EX-L | Touring
 5 | 5 | 5
 42k | 46k | 49k
 
-# Subaru Forester
+## Subaru Forester
 Consumption: 8.2 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -88,7 +90,7 @@ Convenience | Touring | Sport | Limited | Premier
 5 | 5 | 5 | 5 | 5
 32k | 33k | 35k | 38k | 40k
 
-# Subaru Ascent
+## Subaru Ascent
 Consumption: 10.4 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -111,7 +113,7 @@ Convenience | Touring | Limited
 || Length (m) | Width (m) | Height (m)
 --- | --- | --- | ---
 '08 RAV4 | 4.6 | 1.8 | 1.7
-Sorento | 4.8 | 1.9 | 1.7
+Atlas | 5.0 | 2.0 | 1.8
 Telluride | 5.0 | 2.0 | 1.8
 Highlander | 4.9 | 1.9 | 1.7
 Passport | 4.8 | 2.3<sup>1</sup> | 1.8
