@@ -7,7 +7,7 @@ Warranty:  4 yr / 80,000km Basic
 
 Cargo behind 1st: 2741 L
 
-Cargo behind 2nd: n/a
+Cargo behind 2nd: no data
 
 Headed Steering Wheel: Comfortline
 
