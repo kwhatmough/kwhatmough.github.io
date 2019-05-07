@@ -121,7 +121,7 @@ Forester | 4.6 | 1.8 | 1.7 | 5.4
 Ascent | 5.0 | 2.0 | 1.8 | 5.8
 
 # Things to be aware of
-1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption.
+1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption and large turning radius.
 1. <a name="N002"></a>2020 is the first model year for the Kia Telluride.
 1. <a name="N003"></a>Crossbars and other accessories are currently unavailable for the Kia Telluride.
 1. <a name="N004"></a>The 7-seater models of the
