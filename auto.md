@@ -1,24 +1,24 @@
-# Cars
+# Automania
 
 ## Volkswagen Atlas
-Consumption: 12 L / 100km
+Consumption: 12 L / 100km [<sup>1</sup>](#N001)
 
-Warranty:  4 yr / 80,000km Basic
+Warranty: 4 yr / 80,000km Basic
 
 Cargo behind 1st: 2741 L
 
-Cargo behind 2nd: no data
+Cargo behind 2nd: -no data-
 
-Headed Steering Wheel: Comfortline
+Heated Steering Wheel: Comfortline and above
 
-Crossbar Spread: Variable
+Crossbar Spread: Good
 
 Trandline | Comfortline | Highline | Execline
 --- | --- | --- | ---
 7 | 7 | 7 | 7
 37k | 41k | 50k | 54k
 
-## Kia Telluride
+## Kia Telluride [<sup>2</sup>](#N002)
 Consumption: 11 L / 100km
 
 Warranty: 5 yr / 100,000km Basic
@@ -27,9 +27,9 @@ Cargo behind 1st: 2455 L
 
 Cargo behind 2nd: 1304 L
 
-Headed Steering Wheel: All models
+Heated Steering Wheel: All models
 
-Crossbar Spread: May be a concern
+Crossbar Spread: -no data- [<sup>3</sup>](#N003)
 
 EX | SX | SX Ltd
 --- | --- | ---
@@ -45,16 +45,16 @@ Cargo behind 1st: 2356 L
 
 Cargo behind 2nd: 1198 L
 
-Headed Steering Wheel: Ltd model
+Heated Steering Wheel: Ltd model [<sup>4</sup>](#N004)
 
-Crossbar Spread: May be a concern
+Crossbar Spread: Narrow (27") [<sup>5</sup>](#N005)
 
 LE | LE AWD | XLE | Ltd
 --- | --- | --- | ---
 8 | 8 | 8 | 7
 37k | 40k | 46k | 52k
 
-## Honda Passport
+## Honda Passport [<sup>6</sup>](#N006)
 Consumption: 11.3 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -63,16 +63,16 @@ Cargo behind 1st: 2852 L
 
 Cargo behind 2nd: 1430 L
 
-Headed Steering Wheel: All models
+Heated Steering Wheel: All models
 
-Crossbar Spread: Variable
+Crossbar Spread: Good
 
 Sport | EX-L | Touring
 --- | --- | ---
 5 | 5 | 5
 42k | 46k | 49k
 
-## Subaru Forester
+## Subaru Forester [<sup>7</sup>](#N007)
 Consumption: 8.2 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -81,16 +81,16 @@ Cargo behind 1st: 2008 L
 
 Cargo behind 2nd: 935 L
 
-Headed Steering Wheel: Limited and Premier models
+Heated Steering Wheel: Limited and above
 
-Crossbar Spread: Variable
+Crossbar Spread: Good
 
 Convenience | Touring | Sport | Limited | Premier
 --- | --- | --- | --- | ---
 5 | 5 | 5 | 5 | 5
 32k | 33k | 35k | 38k | 40k
 
-## Subaru Ascent
+## Subaru Ascent [<sup>8</sup>](#N008)
 Consumption: 10.4 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -99,9 +99,9 @@ Cargo behind 1st: 2435 L
 
 Cargo behind 2nd: 1331 L
 
-Headed Steering Wheel: Limited model
+Heated Steering Wheel: Limited model
 
-Crossbar Spread: Variable
+Crossbar Spread: Good
 
 Convenience | Touring | Limited
 --- | --- | ---
@@ -116,9 +116,26 @@ Convenience | Touring | Limited
 Atlas | 5.0 | 2.0 | 1.8
 Telluride | 5.0 | 2.0 | 1.8
 Highlander | 4.9 | 1.9 | 1.7
-Passport | 4.8 | 2.3<sup>1</sup> | 1.8
+Passport | 4.8 | 2.3 | 1.8
 Forester | 4.6 | 1.8 | 1.7
 Ascent | 5.0 | 2.0 | 1.8
 
-1. Honda Passport width with mirrors folded is 2.1 m or 84".
-Our garage door width is 93". __In the US, the Touring trim comes with power folding side mirrors. In Canada, power folding side mirrors are not available.__
+# Things to be aware of
+1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption.
+1. <a name="N002"></a>2020 is the first model year for the Kia Telluride.
+1. <a name="N003"></a>Crossbars and other accessories are currently unavailable for the Kia Telluride.
+1. <a name="N004"></a>The 7-seater models of the
+Toyota Highlander are not sufficient for our needs.
+Unfortunately this eliminates the following
+desired items:
+    - Heated steering wheel
+    - SE package with black-on-white badging.
+1. <a name="N005"></a>The Toyota Highlander's 27"
+crossbar spread is too narrow for carrying the V8 and the Eze. V-bars would be needed. The total additional cost would be about $1000.
+1. <a name="N006"></a>The Honda Passport is
+about 30cm wider than other vehicles in its class.
+The vehicle width with mirrors folded is 2.1 m or 84".
+Our garage door width is 93". In the US, the Touring trim comes with power folding door mirrors. In Canada, power folding door mirrors are not available.
+1. <a name="N007"></a>The Subaru Forester has a CVT.
+Reviews indicate that vehicle acceleration is poor.
+1. <a name="N008"></a>The Subaru Ascent has a CVT.
