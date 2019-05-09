@@ -54,6 +54,15 @@ LE | LE AWD | XLE | Ltd
 8 | 8 | 8 | 7
 37k | 40k | 46k | 52k
 
+### Financing
+Term | Rate in May
+--- | ---
+36 | 2.49 %
+48 | 2.99 %
+60 | 3.29 %
+72 | 3.49 %
+84 | 6.44 %
+
 ## Honda Passport [<sup>6</sup>](#N006)
 Consumption: 11.3 L / 100km
 
