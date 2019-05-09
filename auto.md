@@ -90,7 +90,25 @@ Convenience | Touring | Sport | Limited | Premier
 5 | 5 | 5 | 5 | 5
 32k | 33k | 35k | 38k | 40k
 
-## Subaru Ascent [<sup>8</sup>](#N008)
+## Subaru Outback [<sup>8</sup>](#N008)
+Consumption: 11 L / 100km
+
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 2075 L
+
+Cargo behind 2nd: 1005 L
+
+Heated Steering Wheel: Limited and above
+
+Crossbar Spread: (t.b.d.)
+
+Limited | Premier
+--- | ---
+5 | 5
+41k | 42k
+
+## Subaru Ascent [<sup>9</sup>](#N009)
 Consumption: 10.4 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
@@ -139,4 +157,5 @@ Power folding side mirrors are available
 on the Touring trim.
 1. <a name="N007"></a>The Subaru Forester has a CVT.
 Reviews indicate that vehicle acceleration is poor.
-1. <a name="N008"></a>The Subaru Ascent has a CVT.
+1. <a name="N008"></a>The Subaru Outback has a CVT.
+1. <a name="N009"></a>The Subaru Ascent has a CVT.
