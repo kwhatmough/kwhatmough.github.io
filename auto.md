@@ -117,8 +117,9 @@ Atlas | 5.0 | 2.0 | 1.8 | 6.2
 Telluride | 5.0 | 2.0 | 1.8 | 6.0
 Highlander | 4.9 | 1.9 | 1.7 | 6.0
 Passport | 4.8 | 2.3 | 1.8 | 6.0
-Forester | 4.6 | 1.8 | 1.7 | 5.4
-Ascent | 5.0 | 2.0 | 1.8 | 5.8
+Forester | 4.6 | 2.0 | 1.7 | 5.4
+Outback | 4.8 | 2.0 | 1.7 | 5.5
+Ascent | 5.0 | 2.2 | 1.8 | 5.8
 
 # Things to be aware of
 1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption and large turning radius.
