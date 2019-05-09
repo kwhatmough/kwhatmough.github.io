@@ -56,7 +56,7 @@ LE | LE AWD | XLE | Ltd
 
 ### Financing
 
-Term | Rate in May
+Term | May
 --- | ---
 36 | 2.49 %
 48 | 2.99 %
