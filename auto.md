@@ -75,12 +75,26 @@ Cargo behind 2nd: 1430 L
 
 Heated Steering Wheel: All models
 
-Crossbar Spread: Good
+Crossbar Spread: Good - Excellent
 
 Sport | EX-L | Touring
 --- | --- | ---
 5 | 5 | 5
 42k | 46k | 49k
+
+### Financing
+
+Term | May
+--- | ---
+24 | 2.99 %
+30 | 3.49 %
+36 | 3.49 %
+42 | 3.99 %
+48 | 3.99 %
+54 | 4.49 %
+60 | 4.49 %
+72 | 4.49 %
+84 | 5.24 %
 
 ## Subaru Forester [<sup>7</sup>](#N007)
 Consumption: 8.2 L / 100km
