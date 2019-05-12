@@ -36,6 +36,25 @@ EX | SX | SX Ltd
 8 | 8 | 7
 45k | 50k | 54k
 
+### Financing
+
+Term | May
+--- | ---
+24 | 1.99 %
+36 | 1.99 %
+48 | 1.99 %
+60 | 1.99 %
+72 | 2.99 %
+84 | 2.99 %
+
+### Leasing
+
+Term | May
+--- | ---
+36 | 3.99 %
+48 | 3.99 %
+60 | 4.99 %
+
 ## Toyota Highlander
 Consumption: 10.6 L / 100km
 
