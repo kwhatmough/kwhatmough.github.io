@@ -115,6 +115,38 @@ Term | May
 72 | 4.49 %
 84 | 5.24 %
 
+## Honda Pilot
+Consumption: 11.3 L / 100km
+
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 3092 L
+
+Cargo behind 2nd: 1583 L
+
+Heated Steering Wheel: EX-L NAVI and above
+
+Crossbar Spread: Looks narrow
+
+LX | EX | EX-L NAVI | Touring 8P
+--- | --- | --- | ---
+8 | 8 | 8 | 8
+41k | 43k | 47k | 53k
+
+### Financing
+
+Term | May
+--- | ---
+24 | 2.49 %
+30 | 2.99 %
+36 | 2.99 %
+42 | 3.49 %
+48 | 3.49 %
+54 | 3.99 %
+60 | 3.99 %
+72 | 4.49 %
+84 | 4.49 %
+
 ## Subaru Forester [<sup>7</sup>](#N007)
 Consumption: 8.2 L / 100km
 
@@ -196,6 +228,7 @@ Atlas | 5.0 | 2.0 | 1.8 | 6.2
 Telluride | 5.0 | 2.0 | 1.8 | 6.0
 Highlander | 4.9 | 1.9 | 1.7 | 6.0
 Passport | 4.8 | 2.3 | 1.8 | 6.0
+Pilot | 5.0 | 2.3 | 1.8 | 5.8
 Forester | 4.6 | 2.0 | 1.7 | 5.4
 Outback | 4.8 | 2.0 | 1.7 | 5.5
 Ascent | 5.0 | 2.2 | 1.8 | 5.8
