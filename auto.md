@@ -169,6 +169,24 @@ Convenience | Touring | Limited
 8 | 8 | 8
 36k | 41k | 47k
 
+## GMC Terrain
+Consumption: 10.2 L / 100km
+
+Warranty: 3 yr / 60,000km Basic
+
+Cargo behind 1st: 1793 L
+
+Cargo behind 2nd: 838 L
+
+Heated Steering Wheel: SLT
+
+Crossbar Spread: Good
+
+SLE | SLT
+--- | ---
+5 | 5
+33k | 38k
+
 # Measurements
 
 || Length (m) | Width (m) | Height (m) | Turn Radius (m)
@@ -181,6 +199,7 @@ Passport | 4.8 | 2.3 | 1.8 | 6.0
 Forester | 4.6 | 2.0 | 1.7 | 5.4
 Outback | 4.8 | 2.0 | 1.7 | 5.5
 Ascent | 5.0 | 2.2 | 1.8 | 5.8
+Terrain | 4.6 | 1.8 | 1.7 | poor
 
 # Things to be aware of
 1. <a name="N001"></a>The Volkswagen Atlas has a high fuel consumption and large turning radius.
