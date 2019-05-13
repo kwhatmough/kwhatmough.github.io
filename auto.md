@@ -166,7 +166,7 @@ Convenience | Touring | Sport | Limited | Premier
 32k | 33k | 35k | 38k | 40k
 
 ## Subaru Outback [<sup>8</sup>](#N008)
-Consumption: 11 L / 100km
+Consumption: 8.4 L / 100km
 
 Warranty: 3 yr / 60,000km Basic
 
@@ -181,7 +181,7 @@ Crossbar Spread: (t.b.d.)
 Limited | Premier
 --- | ---
 5 | 5
-41k | 42k
+38k | 39k
 
 ## Subaru Ascent [<sup>9</sup>](#N009)
 Consumption: 10.4 L / 100km
