@@ -1,12 +1,16 @@
+- cut grass
+- roast veggies
+- cash w/5's, arugula, laundry deterg
+- discuss June 1
+- Marshall payment and gutter
 - transfer GRRSP
 - final list to Bill (late clm)
-- rebook vacation
 - fix grout in main
 - order spare drain
+- replace TV receiver
 - HDMI
 - Apple TV
 - new power bar and router
-- Marshall (400 avail)
 - suit
 - insulate range hood duct
 - clean basement floor drain
