@@ -1,8 +1,9 @@
+- Hana 2 pcs of ID before 7pm - $30
+- Marshall this weekend 405 (no gutter)
 - S4 for H
 - roast veggies
 - cash w/5's, arugula, laundry deterg
 - discuss June 1
-- Marshall payment and gutter
 - cut grass
 - transfer GRRSP
 - final list to Bill (late clm)
