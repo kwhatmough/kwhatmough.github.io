@@ -1,10 +1,10 @@
+- S's no. and waders
+- cut grass
+- roast veggies
 - Hana 2 pcs of ID before 7pm - $30
 - Marshall this weekend 405 (no gutter)
 - S4 for H
-- roast veggies
-- cash w/5's, arugula, laundry deterg
-- discuss June 1
-- cut grass
+- cash w/5's
 - transfer GRRSP
 - final list to Bill (late clm)
 - fix grout in main
@@ -18,9 +18,3 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
-- a lib and notes that use it
-  - a repo just for the lib (VSp)
-  - my notes (either in kwio or their own repo)
-    - refs incl links to original work
-    - footer with bar separators:
-      - name | year | Feedback | Contributing
