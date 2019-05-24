@@ -1,5 +1,3 @@
-- S's no. and waders
-- cut grass
 - roast veggies
 - Hana 2 pcs of ID before 7pm - $30
 - Marshall this weekend 405 (no gutter)
