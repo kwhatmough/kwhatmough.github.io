@@ -1,7 +1,5 @@
 - roast veggies
-- Hana 2 pcs of ID before 7pm - $30
-- Marshall this weekend 405 (no gutter)
-- S4 for H
+- driveway markers and trim branches
 - cash w/5's
 - transfer GRRSP
 - final list to Bill (late clm)
