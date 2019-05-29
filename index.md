@@ -1,4 +1,5 @@
-- roast veggies
+- add oil
+- screenings
 - driveway markers and trim branches
 - cash w/5's
 - transfer GRRSP
