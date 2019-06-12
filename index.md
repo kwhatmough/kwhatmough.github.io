@@ -5,6 +5,7 @@
 - pickup shovel
 - cash w/5's
 - Pat's
+- H's dance schedule
 - transfer GRRSP
 - final list to Bill (late clm)
 - BBQ propane
