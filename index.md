@@ -1,9 +1,15 @@
-- add oil
-- screenings
-- driveway markers and trim branches
+- fill gas can
+- gift card for D
+- vinegar, DVD case
+- lawn sprayer
+- pickup shovel
 - cash w/5's
+- Pat's
 - transfer GRRSP
 - final list to Bill (late clm)
+- BBQ propane
+- register for cycling
+- driveway markers and trim branches
 - fix grout in main
 - order spare drain
 - replace TV receiver
