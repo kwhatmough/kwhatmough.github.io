@@ -1,7 +1,9 @@
 - Gabion
+- deliver pol check
 - H's dance schedule
 - final list to Bill (late clm)
 - BBQ propane
+- spray weeds
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
