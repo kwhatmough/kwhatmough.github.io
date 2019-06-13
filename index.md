@@ -1,12 +1,5 @@
-- fill gas can
-- gift card for D
-- vinegar, DVD case
-- lawn sprayer
-- pickup shovel
-- cash w/5's
-- Pat's
+- Gabion
 - H's dance schedule
-- transfer GRRSP
 - final list to Bill (late clm)
 - BBQ propane
 - register for cycling
