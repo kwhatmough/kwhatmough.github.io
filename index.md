@@ -1,3 +1,4 @@
+- pickup pkg, send photo of receiver
 - Gabion
 - final list to Bill (late clm)
 - register for dance
