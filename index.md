@@ -1,7 +1,6 @@
 - Gabion
-- deliver pol check
-- H's dance schedule
 - final list to Bill (late clm)
+- register for dance
 - BBQ propane
 - spray weeds
 - register for cycling
