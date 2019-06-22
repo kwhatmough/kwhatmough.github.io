@@ -1,9 +1,10 @@
-- pickup pkg, send photo of receiver
-- Gabion
+- measure and calculate
+- roof kit, vase, Rona/HH/POOD, wheel barrow and shovel, driveway markers, V5
+- cut grass, spray weeds
+- dump, propane
+- msg J re water level
 - final list to Bill (late clm)
 - register for dance
-- BBQ propane
-- spray weeds
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
