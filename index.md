@@ -1,8 +1,4 @@
-- measure and calculate
-- roof kit, vase, Rona/HH/POOD, wheel barrow and shovel, driveway markers, V5
-- cut grass, spray weeds
-- dump, propane
-- msg J re water level
+- spray weeds
 - final list to Bill (late clm)
 - register for dance
 - register for cycling
