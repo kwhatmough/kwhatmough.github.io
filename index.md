@@ -1,4 +1,6 @@
+- dishes
 - pantry items, cooler, helmet, bags/boxes
+- return V5
 - top connection, lower landing
 - invoices/photos to Bill
 - register for cycling
