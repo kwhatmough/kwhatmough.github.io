@@ -1,6 +1,6 @@
-- spray weeds
-- final list to Bill (late clm)
-- register for dance
+- apples, mangos, 3 zuchinnis, goat cheese, 8 ckn breasts, HN Cheerios, bring plain yogurt too
+- top connection, lower landing
+- invoices/photos to Bill
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
