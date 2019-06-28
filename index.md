@@ -1,4 +1,4 @@
-- apples, mangos, 3 zuchinnis, goat cheese, 8 ckn breasts, HN Cheerios, bring plain yogurt too
+- bike, toolbox, cam, cooler, helmet, bags/boxes
 - top connection, lower landing
 - invoices/photos to Bill
 - register for cycling
