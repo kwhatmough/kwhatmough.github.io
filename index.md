@@ -1,4 +1,4 @@
-- bike, toolbox, cam, cooler, helmet, bags/boxes
+- pantry items, cooler, helmet, bags/boxes
 - top connection, lower landing
 - invoices/photos to Bill
 - register for cycling
