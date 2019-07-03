@@ -1,6 +1,9 @@
 - Isabel
+- make appt
 - roast veggies w/ccnt oil
-- invoices/photos to Bill
+- check prescription
+- bagels from downtown
+- fish from Pat's
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
