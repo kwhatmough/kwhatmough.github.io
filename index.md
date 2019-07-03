@@ -1,5 +1,5 @@
 - Isabel
-- roast veggies
+- roast veggies w/ccnt oil
 - invoices/photos to Bill
 - register for cycling
 - driveway markers and trim branches
