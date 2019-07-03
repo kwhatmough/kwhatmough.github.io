@@ -1,8 +1,5 @@
-- dishes
-- olive oil, cinnamon (Costo) from left rear near blue tins, larger stainless steel mug
-- pantry items, cooler, helmet, bags/boxes
-- return V5
-- top connection, lower landing
+- Isabel
+- roast veggies
 - invoices/photos to Bill
 - register for cycling
 - driveway markers and trim branches
