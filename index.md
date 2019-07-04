@@ -1,9 +1,6 @@
-- Isabel
-- make appt
-- roast veggies w/ccnt oil
+- Claire, bagels, cut grass
 - check prescription
-- bagels from downtown
-- fish from Pat's
+- make appt, HD filter
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
