@@ -1,6 +1,5 @@
-- Claire, bagels, cut grass
+- bagels, Don, book dr appt, Bill
 - check prescription
-- make appt, HD filter
 - register for cycling
 - driveway markers and trim branches
 - fix grout in main
