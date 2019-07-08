@@ -1,3 +1,4 @@
+- C&C credit 905-702-8838
 - bagels, Don, book dr appt, Bill
 - check prescription
 - register for cycling
