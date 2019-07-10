@@ -1,7 +1,8 @@
-- C&C credit 905-702-8838
+- printer paper, softener salt
 - bagels, Don, book dr appt, Bill
 - check prescription
 - register for cycling
+- C&C 905-702-8838
 - driveway markers and trim branches
 - fix grout in main
 - order spare drain
