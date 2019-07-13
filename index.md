@@ -1,8 +1,12 @@
-- printer paper, softener salt
+- remove: sponge, bungee
+- from cottage: sponge, c cover, paddle, PFD, cradle, stands
+- to cottage: water
+- water, softener salt
 - bagels, Don, book dr appt, Bill
 - check prescription
 - register for cycling
 - C&C 905-702-8838
+- cam, gutter & erosion, uv bulb & lens, weeds, grass
 - driveway markers and trim branches
 - fix grout in main
 - order spare drain
