@@ -1,6 +1,8 @@
 - remove: sponge, bungee
 - from cottage: sponge, c cover, paddle, PFD, cradle, stands
+- text address to Mk 6 688 41 89
 - to cottage: water
+- at cottage: turn propane back on
 - water, softener salt
 - bagels, Don, book dr appt, Bill
 - check prescription
