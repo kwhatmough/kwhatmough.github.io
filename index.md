@@ -2,7 +2,7 @@
 - Dav, Don, Bill
 - water, softener salt
 - ask Dave about hybrid tires
-- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIPG01711718 EKI2016
+- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIP60171I718 EKI2016
 - to cottage: water, bike rack
 - at cottage: turn propane back on
 - bagels
