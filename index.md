@@ -1,4 +1,5 @@
 - quinoa
+- clean exterior dryer vent
 - Dav, Don, Bill
 - water, softener salt
 - ask Dave about hybrid tires
