@@ -1,5 +1,6 @@
-- stow suitcase and skate bag
-- text address to Mk 6 688 41 89
+- Dav, Don, Bill
+- water, dishes, paper towel, garage, rear hatch cover
+- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside
 - water, softener salt
 - to cottage: water, bike rack
 - at cottage: turn propane back on
