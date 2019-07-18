@@ -1,17 +1,14 @@
-- quinoa
 - clean exterior dryer vent
-- Dav, Don, Bill
-- water, softener salt
-- ask Dave about hybrid tires
-- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIP60171I718 EKI2016
-- to cottage: water, bike rack
-- at cottage: turn propane back on
-- bagels
+- call Don
+- bagels, water, softener salt, >9" pest guard
 - book dr appt
 - check prescription
+- to cottage: water, softener salt, bike rack & box, toolbox, PFDs
+- at cottage: turn propane back on
+- Eze on top, V8 upright and facing away from shore, V5, Whistler on floor upright and facing away from shore
+- camera, gutter & erosion, uv bulb & lens, weeds, grass
 - register for cycling
 - C&C 905-702-8838
-- cam, gutter & erosion, uv bulb & lens, weeds, grass
 - driveway markers and trim branches
 - fix grout in main
 - order spare drain
@@ -24,3 +21,4 @@
 - clean basement floor drain
 - list SDBs and accounts
 - GMP gift card
+- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIP60171I718 EKI2016
