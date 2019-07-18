@@ -1,6 +1,6 @@
 - clean exterior dryer vent
 - call Don
-- bagels, water, softener salt, >9" pest guard, 2 pair knobs
+- bagels, water, paper prods, softener salt, >9" pest guard, 2 pair knobs
 - book dr appt
 - check prescription
 - to cottage: water, softener salt, bike rack & box, toolbox, PFDs, wall hanging straps, 2 pair knobs
