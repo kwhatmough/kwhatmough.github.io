@@ -1,12 +1,13 @@
 - clean exterior dryer vent
 - call Don
-- bagels, water, softener salt, >9" pest guard
+- bagels, water, softener salt, >9" pest guard, 2 pair knobs
 - book dr appt
 - check prescription
-- to cottage: water, softener salt, bike rack & box, toolbox, PFDs
+- to cottage: water, softener salt, bike rack & box, toolbox, PFDs, wall hanging straps, 2 pair knobs
 - at cottage: turn propane back on
 - Eze on top, V8 upright and facing away from shore, V5, Whistler on floor upright and facing away from shore
 - camera, gutter & erosion, uv bulb & lens, weeds, grass
+- try MEC and FB local MP
 - register for cycling
 - C&C 905-702-8838
 - driveway markers and trim branches
