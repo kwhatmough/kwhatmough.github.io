@@ -1,11 +1,8 @@
 - clean exterior dryer vent
-- call Don
-- bagels, water, paper prods, blue bags, softener salt, engine oil, >9" pest guard, 2 pair knobs, screening, bungee
+- >9" pest guard
 - book dr appt
 - check prescription
-- to cottage: water, paper prods, softener salt, bike rack box, 2 pair knobs
-- at cottage: turn propane back on
-- Eze on top, V8 upright and facing away from shore, V5, Whistler on floor upright and facing away from shore
+- turn propane back on
 - camera, gutter & erosion, uv bulb & lens, weeds, grass
 - try MEC and FB local MP
 - register for cycling
