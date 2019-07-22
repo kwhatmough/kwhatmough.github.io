@@ -1,3 +1,4 @@
+- Carol's pkg, metro v burgs and wraps
 - clean exterior dryer vent
 - 9+" pest guard
 - book dr appt
