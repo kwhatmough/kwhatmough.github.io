@@ -1,6 +1,4 @@
 - weeds, furnace filter
-- clean exterior dryer vent
-- 9+" pest guard
 - book dr appt
 - check prescription
 - turn propane back on
