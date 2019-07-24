@@ -1,4 +1,4 @@
-- Carol's pkg, metro v burgs and wraps
+- weeds, furnace filter
 - clean exterior dryer vent
 - 9+" pest guard
 - book dr appt
