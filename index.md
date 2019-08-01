@@ -1,10 +1,14 @@
+- Stephenson's 905-876-2825 7:00am
+- Adam's 905-877-0157 7:30am
+- bring straps, dolly, toolbox, saw, bike and accessories
+- get tie-downs, 6 more precast deck blocks, and 1 more 6x6x8
+- register for cycling
 - weeds, furnace filter
 - book dr appt
 - check prescription
 - turn propane back on
 - camera, gutter & erosion, uv bulb & lens, weeds, grass
 - try MEC and FB local MP
-- register for cycling
 - C&C 905-702-8838
 - driveway markers and trim branches
 - fix grout in main
