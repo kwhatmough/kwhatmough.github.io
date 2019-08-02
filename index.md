@@ -1,6 +1,6 @@
-- Stephenson's 905-876-2825 7:00am
-- Adam's 905-877-0157 7:30am
-- bring straps, dolly, toolbox, saw, bike and accessories
+- photograph batteries
+- replace cardboard in RAV4
+- carriers, screenings, straps, dolly, toolbox, recip saw, large circ saw, H's helmet, bike, pump, tires, tubes, cover
 - get tie-downs, 6 more precast deck blocks, and 1 more 6x6x8
 - register for cycling
 - weeds, furnace filter
