@@ -1,4 +1,6 @@
 - check old carrier
+- call Don
+- call Tony
 - register for cycling
 - weeds, furnace filter
 - book dr appt
