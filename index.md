@@ -1,7 +1,4 @@
-- photograph batteries
-- replace cardboard in RAV4
-- carriers, screenings, straps, dolly, toolbox, recip saw, large circ saw, H's helmet, bike, pump, tires, tubes, cover
-- get tie-downs, 6 more precast deck blocks, and 1 more 6x6x8
+- check old carrier
 - register for cycling
 - weeds, furnace filter
 - book dr appt
