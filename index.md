@@ -1,6 +1,5 @@
+- micro SD, export pwds
 - kitchen outlets, trim branches, cut straps shorter
-- return pot and carrier
-- call Don (left msg)
 - call Tony
 - register for cycling
 - weeds, furnace filter
