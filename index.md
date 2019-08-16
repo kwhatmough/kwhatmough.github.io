@@ -1,3 +1,5 @@
+- photograph old Eze
+- bring home: road bike, old Eze with surf rudder, 2 roof kits, stands, paddle, PFD, leash
 - micro SD, export pwds
 - kitchen outlets, trim branches, cut straps shorter
 - call Tony
