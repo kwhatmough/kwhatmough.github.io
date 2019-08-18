@@ -1,3 +1,4 @@
+- text Darci when leaving
 - confirm w/G.M. Sat Aug 24 or Sun Aug 25?
 - bring home: road bike, bike rack, paddles, PFDs, leashes
 - **cut straps shorter**
