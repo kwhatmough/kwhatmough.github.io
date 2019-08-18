@@ -1,5 +1,6 @@
-- photograph old Eze
-- bring home: road bike, old Eze with surf rudder, 2 roof kits, stands, paddle, PFD, leash
+- confirm w/G.M. Sat Aug 24 or Sun Aug 25?
+- bring home: road bike, old Eze with surf rudder, 2 roof kits, cables and locks, stands, paddle, PFD, leash
+- to PQ: 3 cheques, printouts
 - micro SD, export pwds
 - kitchen outlets, trim branches, cut straps shorter
 - call Tony
