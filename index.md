@@ -1,10 +1,10 @@
 - confirm w/G.M. Sat Aug 24 or Sun Aug 25?
-- bring home: road bike, old Eze with surf rudder, 2 roof kits, cables and locks, stands, paddle, PFD, leash
-- to PQ: 3 cheques, printouts
-- micro SD, export pwds
-- kitchen outlets, trim branches, cut straps shorter
+- bring home: road bike, bike rack, paddles, PFDs, leashes
+- **cut straps shorter**
+- metal-cutting blades, micro SD, export pwds
+- to PQ: 3 cheques w/tax, printouts
+- kitchen outlets, trim branches
 - call Tony
-- register for cycling
 - weeds, furnace filter
 - book dr appt
 - check prescription
