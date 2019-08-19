@@ -1,6 +1,4 @@
-- text Darci when leaving
-- confirm w/G.M. Sat Aug 24 or Sun Aug 25?
-- bring home: road bike, bike rack, paddles, PFDs, leashes
+- confirm w/G.M. Sat Aug 24 or Sun Aug 25
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
 - to PQ: 3 cheques w/tax, printouts
