@@ -1,7 +1,6 @@
-- confirm w/G.M. Sat Aug 24 or Sun Aug 25
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
-- to PQ: 3 cheques w/tax, printouts
+- to PQ: 3 cheques w/tax, printouts, cooler, ice packs
 - kitchen outlets, trim branches
 - call Tony
 - weeds, furnace filter
