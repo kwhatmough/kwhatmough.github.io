@@ -1,3 +1,5 @@
+- deposit
+- ask re Wed
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
 - to PQ: 3 cheques w/tax, printouts, cooler, ice packs
