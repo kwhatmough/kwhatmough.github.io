@@ -1,11 +1,11 @@
+- cut grass
 - truck menu
 - C: lunch?
 - H&C: post PQ?
 - C: address?
-- deposit
 - **cut straps shorter**
-- car charger, metal-cutting blades, micro SD, export pwds
-- to PQ: 3 cheques w/tax, printouts, cooler, ice packs
+- metal-cutting blades, micro SD, export pwds
+- to PQ: cheques, printouts, cooler, ice packs
 - kitchen outlets, trim branches
 - call Tony
 - weeds, furnace filter
