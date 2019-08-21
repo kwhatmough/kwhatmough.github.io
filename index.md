@@ -1,4 +1,3 @@
-- cut grass
 - truck menu
 - C: lunch?
 - H&C: post PQ?
