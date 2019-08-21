@@ -4,7 +4,7 @@
 - C: address?
 - deposit
 - **cut straps shorter**
-- metal-cutting blades, micro SD, export pwds
+- car charger, metal-cutting blades, micro SD, export pwds
 - to PQ: 3 cheques w/tax, printouts, cooler, ice packs
 - kitchen outlets, trim branches
 - call Tony
