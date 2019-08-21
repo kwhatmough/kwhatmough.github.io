@@ -1,6 +1,8 @@
+- truck menu
+- C: lunch?
+- H&C: post PQ?
+- C: address?
 - deposit
-- ask re Wed
-- quiche
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
 - to PQ: 3 cheques w/tax, printouts, cooler, ice packs
