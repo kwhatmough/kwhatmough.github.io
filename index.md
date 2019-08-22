@@ -1,6 +1,4 @@
-- truck menu
-- C: lunch?
-- H&C: post PQ?
+- skating registration!
 - C: address?
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
