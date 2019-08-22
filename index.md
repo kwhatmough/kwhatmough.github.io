@@ -2,7 +2,7 @@
 - C: address?
 - **cut straps shorter**
 - metal-cutting blades, micro SD, export pwds
-- to PQ: toolbox, cheques, printouts, cooler, ice packs
+- to PQ: zip bags, lighter, toolbox, cheques, printouts, cooler, ice packs
 - kitchen outlets, trim branches
 - call Tony
 - weeds, furnace filter
