@@ -1,11 +1,11 @@
 - skating registration!
-- C: address?
 - **cut straps shorter**
 - metal-cutting blades, lighter, micro SD, export pwds
 - to PQ: zip bags, lighter, toolbox, cheques, printouts, cooler, ice packs, air bed, PFD, paddle, leash, roof kits
 - kitchen outlets, trim branches
 - call Tony
 - weeds, furnace filter
+- Sweatman re files
 - book dr appt
 - check prescription
 - turn propane back on
