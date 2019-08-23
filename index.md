@@ -1,7 +1,8 @@
 - skating registration!
 - **cut straps shorter**
-- metal-cutting blades, lighter, micro SD, export pwds
+- cut nails
 - to PQ: zip bags, lighter, toolbox, cheques, printouts, cooler, ice packs, air bed, PFD, paddle, leash, roof kits
+- export pwds
 - kitchen outlets, trim branches
 - call Tony
 - weeds, furnace filter
