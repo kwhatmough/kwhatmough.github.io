@@ -1,22 +1,32 @@
+- re-organize roof kits
+- make storage for 2 boat covers
+- make bumpers for boat shed
+- adjust new pull bar
+- record serial numbers (incl V5)
+- apply property labels (incl V5)
+- remove footplate pads and stickers
+- make new bungee and screen for Whistler rear hatch
+- store boardwalk
+- clean out cabin
+- clean out crawlspace
+- deal with weeds
+- cut grass
+- trim branches
 - skating registration!
-- **cut straps shorter**
-- cut nails
-- to PQ: zip bags, lighter, toolbox, cheques, printouts, cooler, ice packs, air bed, PFD, paddle, leash, roof kits
 - export pwds
-- kitchen outlets, trim branches
+- kitchen outlets
 - call Tony
-- weeds, furnace filter
-- Sweatman re files
-- book dr appt
-- check prescription
-- turn propane back on
-- camera, gutter & erosion, uv bulb & lens, weeds, grass
+- change furnace filter
+- contact Sweatman re files
+- call Sparlings re new tanks
+- install security camera
+- deal with gutter & erosion
+- change uv bulb & lens
 - try MEC and FB local MP
 - C&C 905-702-8838
-- driveway markers and trim branches
+- install driveway markers
 - fix grout in main
 - order spare drain
-- replace TV receiver
 - HDMI
 - Apple TV
 - new power bar and router
