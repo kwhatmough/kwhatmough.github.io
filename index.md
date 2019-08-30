@@ -1,3 +1,4 @@
+- new smoke detectors
 - make storage for 2 boat covers
 - make bumpers for boat shed
 - record serial numbers (incl V5)
