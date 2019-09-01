@@ -1,9 +1,9 @@
+- dump 9-5
 - new smoke detectors
-- make storage for 2 boat covers
-- make bumpers for boat shed
+- 3M for line stretchers
+- make storage for boat covers
 - record serial numbers (incl V5)
 - make new bungee and screen for Whistler rear hatch
-- clean out cabin
 - clean out crawlspace
 - deal with weeds
 - cut grass
