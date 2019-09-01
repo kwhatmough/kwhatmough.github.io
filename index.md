@@ -1,6 +1,6 @@
-- dump 9-5
 - new smoke detectors
 - 3M for line stretchers
+- remove even more from right-side pedal
 - make storage for boat covers
 - record serial numbers (incl V5)
 - make new bungee and screen for Whistler rear hatch
@@ -8,15 +8,13 @@
 - deal with weeds
 - cut grass
 - trim branches
-- skating registration!
 - export pwds
 - kitchen outlets
-- call Tony
 - change furnace filter
 - contact Sweatman re files
 - call Sparlings re new tanks
 - install security camera
-- deal with gutter & erosion
+- repair erosion
 - change uv bulb & lens
 - try MEC and FB local MP
 - C&C 905-702-8838
