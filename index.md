@@ -1,3 +1,4 @@
+- cut grass
 - new smoke detectors
 - 3M for line stretchers
 - remove even more from right-side pedal
