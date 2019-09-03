@@ -1,6 +1,5 @@
 - cut grass
-- new smoke detectors
-- 3M for line stretchers
+- new smoke detectors, 3M for line stretchers
 - remove even more from right-side pedal
 - make storage for boat covers
 - record serial numbers (incl V5)
@@ -13,7 +12,6 @@
 - kitchen outlets
 - change furnace filter
 - contact Sweatman re files
-- call Sparlings re new tanks
 - install security camera
 - repair erosion
 - change uv bulb & lens
