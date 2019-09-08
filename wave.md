@@ -12,3 +12,5 @@ find $$y(x)$$.
 https://en.wikipedia.org/wiki/Trochoidal_wave
 
 https://en.wikipedia.org/wiki/Wind_wave
+
+https://people.cs.clemson.edu/~jtessen/
