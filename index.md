@@ -1,7 +1,6 @@
-- waivers
-- pickup dress and dishwasher tabs
-- 4 plastic bins (Walmart)
-- bring back aerobed and rudder
+- cut grass
+- refuel
+- bring back aerobed, rudder, Kona(?)
 - remove even more from right-side pedal
 - apply 3M
 - make new bungee and screen for Whistler rear hatch
