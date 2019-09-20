@@ -1,7 +1,9 @@
+- change uv bulb & lens
+- replace tube
 - remove adhesive
 - check v fit
-- change uv bulb & lens
 - pickup kit (closes 7pm)
+- tidy guest room
 - new smoke detectors
 - bring back aerobed, rudder, gear?, Kona?
 - close zipper
