@@ -1,4 +1,3 @@
-- change uv bulb & lens
 - replace tube
 - remove adhesive
 - check v fit
@@ -6,6 +5,7 @@
 - tidy guest room
 - new smoke detectors
 - bring back aerobed, rudder, gear?, Kona?
+- clear 2 lids
 - close zipper
 - restos in St J
 - remove even more from right-side pedal
