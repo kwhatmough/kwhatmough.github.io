@@ -1,21 +1,25 @@
-- cut grass
-- refuel
+- remove pads
+- check fit
+- change uv bulb & lens
+- pickup kit (closes 7pm)
+- new smoke detectors
 - bring back aerobed, rudder, Kona(?)
+- close zipper
+- restos in St J
 - remove even more from right-side pedal
 - apply 3M
 - make new bungee and screen for Whistler rear hatch
 - make storage for boat covers
-- clean out crawlspace
 - deal with weeds
 - cut grass
 - trim branches
+- clean out crawlspace
 - export pwds
 - kitchen outlets
 - change furnace filter
 - contact Sweatman re files
 - install security camera
 - repair erosion
-- change uv bulb & lens
 - try MEC and FB local MP
 - C&C 905-702-8838
 - install driveway markers
