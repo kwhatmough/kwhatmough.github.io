@@ -1,26 +1,20 @@
-- replace tube
-- remove adhesive
-- check v fit
-- pickup kit (closes 7pm)
-- tidy guest room
-- new smoke detectors
-- bring back aerobed, rudder, gear?, Kona?
-- clear 2 lids
-- close zipper
-- restos in St J
 - remove even more from right-side pedal
-- apply 3M
-- make new bungee and screen for Whistler rear hatch
-- make storage for boat covers
+- install strap
+- replace tube
+- new smoke detectors
+- clear 2 lids
 - specific kits
 - deal with weeds
 - cut grass
 - trim branches
+- make new bungee and screen for Whistler rear hatch
 - screw-eye holders for vertical bars
+- bring back aerobed, rudder, gear?, Kona?
+- change furnace filter
+- make storage for boat covers
 - clean out crawlspace
 - export pwds
 - kitchen outlets
-- change furnace filter
 - contact Sweatman re files
 - install security camera
 - repair erosion
