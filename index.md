@@ -1,7 +1,5 @@
-- move rock
-- clear 2 lids
-- new smoke detectors
-- bring back aerobed, rudder
+- update CC on GH
+- contact Sweatman re files
 - deal with weeds
 - cut grass
 - trim branches
@@ -12,7 +10,6 @@
 - clean out crawlspace
 - export pwds
 - kitchen outlets
-- contact Sweatman re files
 - install security camera
 - repair erosion
 - try MEC and FB local MP
