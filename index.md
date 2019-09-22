@@ -1,15 +1,12 @@
-- remove even more from right-side pedal
-- install strap
-- replace tube
-- new smoke detectors
+- move rock
 - clear 2 lids
-- specific kits
+- new smoke detectors
+- bring back aerobed, rudder
 - deal with weeds
 - cut grass
 - trim branches
 - make new bungee and screen for Whistler rear hatch
 - screw-eye holders for vertical bars
-- bring back aerobed, rudder, gear?, Kona?
 - change furnace filter
 - make storage for boat covers
 - clean out crawlspace
