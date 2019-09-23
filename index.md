@@ -1,4 +1,3 @@
-- update CC on GH
 - contact Sweatman re files
 - deal with weeds
 - cut grass
