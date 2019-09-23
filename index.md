@@ -2,6 +2,7 @@
 - deal with weeds
 - cut grass
 - trim branches
+- make rudder blocks
 - make new bungee and screen for Whistler rear hatch
 - screw-eye holders for vertical bars
 - change furnace filter
