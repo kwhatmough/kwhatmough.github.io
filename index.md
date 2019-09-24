@@ -1,3 +1,4 @@
+- Sunday
 - sauce, cut grass, pickup
 - contact Sweatman re files
 - deal with weeds
