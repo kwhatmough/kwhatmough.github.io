@@ -1,4 +1,4 @@
-- sign, sauce, pickup
+- sauce, cut grass, pickup
 - contact Sweatman re files
 - deal with weeds
 - cut grass
