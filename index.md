@@ -1,11 +1,10 @@
 - Sunday
-- sauce, cut grass, pickup
 - contact Sweatman re files
 - deal with weeds
 - cut grass
 - trim branches
-- make rudder blocks
 - make new bungee and screen for Whistler rear hatch
+- make rudder blocks
 - screw-eye holders for vertical bars
 - change furnace filter
 - make storage for boat covers
