@@ -1,5 +1,10 @@
 - garbage out
 - Civics and Careers
+- laundry
+- move EZ bin inside and add pad
+- soil for cottage
+- more clear bins
+- move ext cord inside until Don is finished
 - contact Sweatman re files
 - deal with weeds
 - cut grass
