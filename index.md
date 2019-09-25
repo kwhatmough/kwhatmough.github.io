@@ -1,4 +1,5 @@
-- Sunday
+- garbage out
+- Civics and Careers
 - contact Sweatman re files
 - deal with weeds
 - cut grass
