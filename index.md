@@ -1,35 +1,41 @@
-- HDMI, clear bins, soil, dump
-- move EZ bin inside and add pad
-- contact Sweatman re files
-- move rocks to guard trees
-- move ext cord inside until Don is finished
-- deal with weeds
-- cut grass
-- trim branches
-- make new bungee and screen for Whistler rear hatch
-- make rudder blocks
-- screw-eye holders for vertical bars
-- change furnace filter
-- make storage for boat covers
-- repair erosion
-- Civics and Careers
-- clean out crawlspace
-- export pwds
-- kitchen outlets
-- install security camera
-- try MEC and FB local MP
-- C&C 905-702-8838
-- install driveway markers
-- fix grout in main
-- order spare drain
-- Apple TV
-- new power bar and router
-- suit
-- insulate range hood duct
-- clean basement floor drain
-- list SDBs and accounts
-- record serial numbers (incl V5)
-- GMP gift card
-- pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIP60171I718 EKI2016
-- 24471 550.4 06-2017
-- CAYKZB0440D616
+```html
+<html>
+<head>
+</head>
+<body>
+<div id='output'>
+</div>
+</body>
+</html>
+```
+```javascript
+function line(name, value) {
+  return name + ': ' + value + '<br />';
+}
+
+function printMessages(n) {
+	fetch('https://jsonplaceholder.typicode.com/posts')
+	  .then(response => response.json()
+    	.then(json => {
+        var output = '';
+
+        for (var i = 0; i < n; i++) {
+          var message = json[i];
+          output += line('Title', message.title);
+          output += line('User ID', message.userId);
+          console.log(message.id);
+          output += line('Message ID', message.id
+            .toString()
+            .split('')
+            .reduce(
+              (accumulator, currentValue, index) => accumulator + currentValue + (index % 3 == 2 ? ' ' : ''),
+              ''
+            )
+            .trim());
+          output += line('Body', message.body);
+          output += '<br />';
+        }
+        document.getElementById("output").innerHTML = output;
+    }));
+}
+```
