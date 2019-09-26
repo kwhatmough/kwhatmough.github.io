@@ -3,6 +3,7 @@
 - more clear bins
 - Civics and Careers
 - move EZ bin inside and add pad
+- move rocks to guard trees
 - move ext cord inside until Don is finished
 - deal with weeds
 - cut grass
