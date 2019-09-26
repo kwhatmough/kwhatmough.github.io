@@ -1,8 +1,6 @@
-- HDMI
-- soil for cottage
-- more clear bins
-- Civics and Careers
+- HDMI, clear bins, soil, dump
 - move EZ bin inside and add pad
+- contact Sweatman re files
 - move rocks to guard trees
 - move ext cord inside until Don is finished
 - deal with weeds
@@ -14,7 +12,7 @@
 - change furnace filter
 - make storage for boat covers
 - repair erosion
-- contact Sweatman re files
+- Civics and Careers
 - clean out crawlspace
 - export pwds
 - kitchen outlets
