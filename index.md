@@ -1,11 +1,9 @@
-- garbage out
-- Civics and Careers
-- laundry
-- move EZ bin inside and add pad
+- HDMI
 - soil for cottage
 - more clear bins
+- Civics and Careers
+- move EZ bin inside and add pad
 - move ext cord inside until Don is finished
-- contact Sweatman re files
 - deal with weeds
 - cut grass
 - trim branches
@@ -14,17 +12,17 @@
 - screw-eye holders for vertical bars
 - change furnace filter
 - make storage for boat covers
+- repair erosion
+- contact Sweatman re files
 - clean out crawlspace
 - export pwds
 - kitchen outlets
 - install security camera
-- repair erosion
 - try MEC and FB local MP
 - C&C 905-702-8838
 - install driveway markers
 - fix grout in main
 - order spare drain
-- HDMI
 - Apple TV
 - new power bar and router
 - suit
