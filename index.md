@@ -1,5 +1,4 @@
-- HDMI, clear bins, soil, dump
-- move EZ bin inside and add pad
+- dump
 - contact Sweatman re files
 - move rocks to guard trees
 - move ext cord inside until Don is finished
