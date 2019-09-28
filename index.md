@@ -1,18 +1,19 @@
-- dump
-- contact Sweatman re files
-- move rocks to guard trees
+- check mail
+- label bike box in cabin
 - move ext cord inside until Don is finished
+- dump
 - deal with weeds
 - cut grass
 - trim branches
 - make new bungee and screen for Whistler rear hatch
-- make rudder blocks
 - screw-eye holders for vertical bars
+- move rocks to guard trees
 - change furnace filter
+- make rudder blocks
 - make storage for boat covers
-- repair erosion
-- Civics and Careers
 - clean out crawlspace
+- contact Sweatman re files
+- Civics and Careers
 - export pwds
 - kitchen outlets
 - install security camera
