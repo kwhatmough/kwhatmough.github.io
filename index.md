@@ -1,4 +1,9 @@
+- tidy crawlspace
 - move ext cord inside until Don is finished
+- store outdoor furniture
+- store mailbox
+- check tarp sizes
+- empty dishwasher and vacuum rug
 - trim branches
 - screw-eye holders for vertical bars
 - move rocks to guard trees
