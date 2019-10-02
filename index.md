@@ -13,6 +13,7 @@
 - clean out crawlspace
 - contact Sweatman re files
 - Civics and Careers
+- prescription eyewear, physio, etc.
 - export pwds
 - kitchen outlets
 - install security camera
