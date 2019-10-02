@@ -1,7 +1,8 @@
-- laundry
-- marinade
-- MF empties
 - cold cellar, gas, parcel, cash 3
+- marinade
+- sharpening
+- pack and plan
+- MF empties
 - cut grass
 - store outdoor furniture
 - trim branches
