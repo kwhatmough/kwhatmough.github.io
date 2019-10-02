@@ -1,8 +1,8 @@
-- cold cellar, gas, parcel, cash 3
-- marinade
 - sharpening
 - pack and plan
 - MF empties
+- HH for pkg
+- fix light in cold cellar
 - cut grass
 - store outdoor furniture
 - trim branches
@@ -12,7 +12,6 @@
 - make rudder blocks
 - make storage for boat covers
 - clean out crawlspace
-- contact Sweatman re files
 - Civics and Careers
 - prescription eyewear, physio, etc.
 - export pwds
