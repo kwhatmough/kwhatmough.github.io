@@ -1,6 +1,3 @@
-- sharpening
-- pack and plan
-- MF empties
 - HH for pkg
 - fix light in cold cellar
 - cut grass
