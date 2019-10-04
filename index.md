@@ -2,6 +2,7 @@
 - fix light in cold cellar
 - cut grass
 - Climate Survey consent form
+- H eye check
 - store outdoor furniture
 - trim branches
 - screw-eye holders for vertical bars
