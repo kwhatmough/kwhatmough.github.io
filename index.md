@@ -1,6 +1,7 @@
 - HH for pkg
 - fix light in cold cellar
 - cut grass
+- Climate Survey consent form
 - store outdoor furniture
 - trim branches
 - screw-eye holders for vertical bars
