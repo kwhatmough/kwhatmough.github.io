@@ -1,6 +1,5 @@
-- HH for pkg
-- fix light in cold cellar
 - cut grass
+- remove adhesive
 - Climate Survey consent form
 - H eye check
 - store outdoor furniture
