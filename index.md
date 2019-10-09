@@ -1,5 +1,7 @@
+- H gift idea to M+D
 - cut grass
 - remove adhesive
+- OluKai order
 - Climate Survey consent form
 - H eye check
 - store outdoor furniture
