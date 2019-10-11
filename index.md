@@ -1,3 +1,4 @@
+- cranberry juice, turkey bacon, ...
 - Climate Survey consent form
 - H eye check
 - store outdoor furniture
