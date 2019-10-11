@@ -1,4 +1,4 @@
-- cranberry juice, turkey bacon, ...
+- cranberry juice, turkey bacon, muffins, almonds, pancake mix, fruit, paper products
 - Climate Survey consent form
 - H eye check
 - store outdoor furniture
