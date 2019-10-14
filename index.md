@@ -1,6 +1,4 @@
-- find box for cover
-- wash hangers
-- invert water barrel
+- photograph Chariot and bench
 - cash
 - call Don
 - book both cars
