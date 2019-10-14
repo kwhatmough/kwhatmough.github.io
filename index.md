@@ -1,7 +1,11 @@
-- cranberry juice, turkey bacon, muffins, almonds, pancake mix, fruit, paper products
+- find box for cover
+- wash hangers
+- invert water barrel
+- cash
+- call Don
+- book both cars
 - Climate Survey consent form
 - H eye check
-- store outdoor furniture
 - trim branches
 - screw-eye holders for vertical bars
 - move rocks to guard trees
