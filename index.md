@@ -1,7 +1,8 @@
-- photograph Chariot and bench
-- cash
-- call Don
+- dump, cash, water, salt
+- call Hutten etc
 - book both cars
+- prep chicken, rice, eggplant (red curry)
+- sell stuff
 - Climate Survey consent form
 - H eye check
 - trim branches
