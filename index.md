@@ -1,10 +1,10 @@
-- dump, cash, water, salt
-- call Hutten etc
 - book both cars
+- dump, cash, water, salt, TP
+- call Hutten etc
 - prep chicken, rice, eggplant (red curry)
+- H eye check
 - sell stuff
 - Climate Survey consent form
-- H eye check
 - trim branches
 - screw-eye holders for vertical bars
 - move rocks to guard trees
