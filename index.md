@@ -1,7 +1,7 @@
-- book both cars
-- dump, cash, water, salt, TP
+- pickup chairs
+- check for HDMI cable
+- water, softener salt, TP
 - call Hutten etc
-- prep chicken, rice, eggplant (red curry)
 - H eye check
 - sell stuff
 - Climate Survey consent form
