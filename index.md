@@ -1,3 +1,4 @@
+- bring toolbox, GB, duffle bag
 - pickup chairs
 - check for HDMI cable
 - water, softener salt, TP
