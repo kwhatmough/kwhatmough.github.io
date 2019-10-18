@@ -1,6 +1,7 @@
 - Hana needs ride home
-- shelf supports, plastic bins
-- bring toolbox, GB, duffle bag
+- (24) 5/16 lags @1.5 and washers
+- shelf, supports, plastic bins
+- toolbox, GB, duffle bag
 - pickup chairs
 - check for HDMI cable
 - call Hutten etc
