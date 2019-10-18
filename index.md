@@ -1,8 +1,10 @@
+- Hana needs ride home
+- shelf supports, plastic bins
 - bring toolbox, GB, duffle bag
 - pickup chairs
 - check for HDMI cable
-- water, softener salt, TP
 - call Hutten etc
+- water, softener salt, TP
 - H eye check
 - sell stuff
 - Climate Survey consent form
@@ -10,17 +12,15 @@
 - screw-eye holders for vertical bars
 - move rocks to guard trees
 - change furnace filter
+- install driveway markers
 - make rudder blocks
 - make storage for boat covers
 - clean out crawlspace
-- Civics and Careers
 - prescription eyewear, physio, etc.
 - export pwds
 - kitchen outlets
 - install security camera
 - try MEC and FB local MP
-- C&C 905-702-8838
-- install driveway markers
 - fix grout in main
 - order spare drain
 - Apple TV
