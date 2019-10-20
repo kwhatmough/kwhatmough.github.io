@@ -1,8 +1,9 @@
 - return stands to shed
 - cut grass
 - bring home blanket, HDMI cable, toolbox
-- call Al Stewart, Zane, Hutten etc
-- water, softener salt, TP
+- call Don, Tim, Al Stewart, Zane, Hutten etc
+- for c: butter, D cells
+- for g: water, softener salt, TP
 - H eye check
 - sell stuff
 - Climate Survey consent form
