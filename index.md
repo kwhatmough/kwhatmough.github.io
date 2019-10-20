@@ -1,10 +1,9 @@
-- return stands to shed
-- cut grass
-- bring home blanket, HDMI cable, toolbox
+- bring home blanket
 - call Don, Tim, Al Stewart, Zane, Hutten etc
 - for c: butter, D cells
 - for g: water, softener salt, TP
 - H eye check
+- c: shutoff outdoor tap
 - sell stuff
 - Climate Survey consent form
 - trim branches
