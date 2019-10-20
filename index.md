@@ -1,9 +1,7 @@
-- shelves, supports, plastic bins
-- toolbox, GB, duffle bag
-- release
-- pickup chairs
-- check for HDMI cable
-- call Hutten etc
+- return stands to shed
+- cut grass
+- bring home blanket, HDMI cable, toolbox
+- call Al Stewart, Zane, Hutten etc
 - water, softener salt, TP
 - H eye check
 - sell stuff
