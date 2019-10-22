@@ -1,7 +1,6 @@
-- bring home blanket
+- BS: for cross-site meetings we need to join as guest
+- water, softener salt, TP, Genesis 1:29, butter, D-cells
 - call Don, Tim, Al Stewart, Zane, Hutten etc
-- for c: butter, D cells
-- for g: water, softener salt, TP
 - H eye check
 - c: shutoff outdoor tap
 - sell stuff
@@ -9,7 +8,6 @@
 - trim branches
 - screw-eye holders for vertical bars
 - move rocks to guard trees
-- change furnace filter
 - install driveway markers
 - make rudder blocks
 - make storage for boat covers
