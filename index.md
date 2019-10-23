@@ -1,6 +1,5 @@
-- BS: for cross-site meetings we need to join as guest
+- call Tim
 - water, softener salt, TP, Genesis 1:29, butter, D-cells
-- call Don, Tim, Al Stewart, Zane, Hutten etc
 - H eye check
 - c: shutoff outdoor tap
 - sell stuff
