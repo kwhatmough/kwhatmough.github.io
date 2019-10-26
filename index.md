@@ -1,9 +1,9 @@
-- make rudder blocks
+- measure for small tarp
 - clean out crawlspace
 - call Tim
 - water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
 - H eye check
-- c: shutoff outdoor tap
+- c: shutoff outdoor tap, patio slabs to hold down the boardwalk
 - sell stuff
 - Climate Survey consent form
 - trim branches
