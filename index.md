@@ -1,16 +1,15 @@
+- make rudder blocks
+- clean out crawlspace
 - call Tim
-- water, softener salt, TP, Genesis 1:29, butter, D-cells
+- water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
 - H eye check
 - c: shutoff outdoor tap
 - sell stuff
 - Climate Survey consent form
 - trim branches
 - screw-eye holders for vertical bars
-- move rocks to guard trees
 - install driveway markers
-- make rudder blocks
 - make storage for boat covers
-- clean out crawlspace
 - prescription eyewear, physio, etc.
 - export pwds
 - kitchen outlets
