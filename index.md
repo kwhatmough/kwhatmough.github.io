@@ -1,15 +1,14 @@
-- measure for small tarp
-- clean out crawlspace
+- dump
+- run dishwasher
+- sandbags in front
 - call Tim
 - water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
 - H eye check
-- c: shutoff outdoor tap, patio slabs to hold down the boardwalk
+- c: shutoff outdoor tap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
 - sell stuff
-- Climate Survey consent form
+- install driveway markers
 - trim branches
 - screw-eye holders for vertical bars
-- install driveway markers
-- make storage for boat covers
 - prescription eyewear, physio, etc.
 - export pwds
 - kitchen outlets
