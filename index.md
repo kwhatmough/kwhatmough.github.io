@@ -1,7 +1,6 @@
 - call Don: green bungee, this Wed and Thu look good
-- wood glue
-- water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
-- Greg no Nelo
+- wood glue, softener salt, burlap, HD foam, silicone
+- avo, bread for H, Genesis 1:29, water, TP, burritos, butter, kitchen gloves, kitchen catchers, D-cells
 - H eye check
 - c: shutoff outdoor tap, burlap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
 - sell stuff
