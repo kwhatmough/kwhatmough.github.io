@@ -1,4 +1,5 @@
 - call Don: green bungee, this Wed and Thu look good
+- wood glue
 - water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
 - Greg no Nelo
 - H eye check
