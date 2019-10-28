@@ -1,10 +1,8 @@
-- dump
-- run dishwasher
-- sandbags in front
 - call Don: green bungee, this Wed and Thu look good
 - water, softener salt, TP, Genesis 1:29, butter, D-cells, kitchen gloves, kitchen catchers
+- Greg no Nelo
 - H eye check
-- c: shutoff outdoor tap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
+- c: shutoff outdoor tap, burlap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
 - sell stuff
 - install driveway markers
 - trim branches
