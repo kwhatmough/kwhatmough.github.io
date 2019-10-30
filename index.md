@@ -1,4 +1,4 @@
-- wood glue, softener salt, burlap, HD foam, silicone, pipe brush
+- cheese cloth, hole saw
 - H eye check
 - c: clean and re-grease rudder, shutoff outdoor tap, burlap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
 - sell stuff
