@@ -3,10 +3,14 @@
 - install chair cover
 - install burlap
 - install crawlspace vents
+- organize crawlspace
 - install driveway markers
 - trim branches
 - replace battery in thermostat
+- prepare for power outage
+- fix wheel barrow
 - screw-eye holders for vertical bars
+- ask Don about larger gravel size
 - H eye check
 - shutoff outdoor tap (c)
 - sell stuff
