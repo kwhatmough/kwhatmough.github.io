@@ -1,5 +1,6 @@
 - clean and re-grease rudder
 - install chair cover
+- check plumb
 - install burlap
 - install snow fence
 - install patio slabs
@@ -11,7 +12,7 @@
 - organize crawlspace
 - replace battery in thermostat
 - prepare for power outage
-- Don: with the armour stone running under the landing at midway between the front and back row of posts (versus the original plan of under the front row of posts) the question becomes what to do with the front row of posts (but I do agree that this is a better approach than before), also: for the sake of stability how large can we make the 6 sonotubes that are behind the armour stone?, and finally: there is less fill now with the armour stone where it is (which is good) but can we go to a larger gravel size (e.g., 4") (I believe the original plan was 2") to avoid wash-out?
+- Don: with the armour stone running under the landing at midway between the front and back row of posts (versus the original plan of under the front row of posts) the question becomes what to do with the front row of posts (but I do agree that this is a better approach than before), also: for the sake of stability how large can we make the 6 sonotubes that are behind the armour stone?, and finally: there is less fill now with the armour stone where it is (which is good) but can we go to a larger gravel size (e.g., 4") (I believe the original plan was 2") to avoid wash-out? ACTUALLY I don't think poured sonotubes are possible now because the water is too high (i.e., it's too late) so maybe we omit them and build a well around the posts instead with the hopes that the water level will soon return to normal(?) or are large pre-cast blocks an option (despite the lack of a level footing)?
 - H eye check
 - shutoff outdoor tap (c)
 - sell stuff
