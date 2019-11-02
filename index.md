@@ -1,12 +1,10 @@
 - clean and re-grease rudder
-- install chair cover
-- check plumb
-- install burlap
+- install burlap: more stakes to screw-in
 - install snow fence
 - install patio slabs
 - install driveway markers
 - trim branches
-- fix wheel barrow
+- fix wheel barrow (need 60")
 - screw-eye holders for vertical bars
 - install crawlspace vents
 - organize crawlspace
