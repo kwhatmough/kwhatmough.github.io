@@ -1,10 +1,15 @@
-- cheese cloth, hole saw
-- H eye check
-- c: clean and re-grease rudder, shutoff outdoor tap, burlap, patio slabs to hold down the boardwalk, pink insulation and HD foam and silicone for vents in crawlspace
-- sell stuff
+- clean and re-grease rudder
+- install patio slabs
+- install chair cover
+- install burlap
+- install crawlspace vents
 - install driveway markers
 - trim branches
+- replace battery in thermostat
 - screw-eye holders for vertical bars
+- H eye check
+- shutoff outdoor tap (c)
+- sell stuff
 - prescription eyewear, physio, etc.
 - export pwds
 - kitchen outlets
