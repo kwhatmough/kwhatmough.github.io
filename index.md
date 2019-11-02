@@ -1,16 +1,17 @@
 - clean and re-grease rudder
-- install patio slabs
 - install chair cover
 - install burlap
-- install crawlspace vents
-- organize crawlspace
+- install snow fence
+- install patio slabs
 - install driveway markers
 - trim branches
-- replace battery in thermostat
-- prepare for power outage
 - fix wheel barrow
 - screw-eye holders for vertical bars
-- ask Don about larger gravel size
+- install crawlspace vents
+- organize crawlspace
+- replace battery in thermostat
+- prepare for power outage
+- Don: with the armour stone running under the landing at midway between the front and back row of posts (versus the original plan of under the front row of posts) the question becomes what to do with the front row of posts (but I do agree that this is a better approach than before), also: for the sake of stability how large can we make the 6 sonotubes that are behind the armour stone?, and finally: there is less fill now with the armour stone where it is (which is good) but can we go to a larger gravel size (e.g., 4") (I believe the original plan was 2") to avoid wash-out?
 - H eye check
 - shutoff outdoor tap (c)
 - sell stuff
