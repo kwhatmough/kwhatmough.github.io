@@ -1,8 +1,7 @@
-- clean and re-grease rudder
-- install burlap: more stakes to screw-in
-- install snow fence
+- finish installing snow fence
+- cover wood box
+- store plastic flower boxes
 - install patio slabs
-- install driveway markers
 - trim branches
 - fix wheel barrow (need 60")
 - screw-eye holders for vertical bars
