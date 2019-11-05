@@ -1,3 +1,4 @@
+- Mr Clean, Scrubbing Bubbles, Tide
 - install crawlspace vents
 - organize crawlspace
 - prepare for power outage
