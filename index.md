@@ -1,3 +1,5 @@
+- deposit cheque
+- 60" 2x2
 - Mr Clean, Scrubbing Bubbles, Tide
 - install crawlspace vents
 - organize crawlspace
@@ -9,7 +11,11 @@
 - fix wheel barrow (need 60")
 - screw-eye holders for vertical bars
 - replace battery in thermostat
-- Don: with the armour stone running under the landing at midway between the front and back row of posts (versus the original plan of under the front row of posts) the question becomes what to do with the front row of posts (but I do agree that this is a better approach than before), also: for the sake of stability how large can we make the 6 sonotubes that are behind the armour stone?, and finally: there is less fill now with the armour stone where it is (which is good) but can we go to a larger gravel size (e.g., 4") (I believe the original plan was 2") to avoid wash-out? ACTUALLY I don't think poured sonotubes are possible now because the water is too high (i.e., it's too late) so maybe we omit them and build a well around the posts instead with the hopes that the water level will soon return to normal(?) or are large pre-cast blocks an option (despite the lack of a level footing)?
+- Don
+    - no need to worry about gravel leaking because they install a membrane to prevent that
+    - nonetheless I asked for 2" rather than the usual 3/4" clear
+    - we will likely leave the deck posts intact and just install empty sonotubes beside them for now (he will take another look), mainly to avoid disturbing the existing structure
+    - he still plans to backfill and install the stone steps, likely concreted-in (with the first one drilled-in)
 - H eye check
 - sell stuff
 - prescription eyewear, physio, etc.
