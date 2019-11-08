@@ -1,6 +1,6 @@
-- deposit cheque
+- dump
+- return Scr Bub
 - 60" 2x2
-- Mr Clean, Scrubbing Bubbles, Tide
 - install crawlspace vents
 - organize crawlspace
 - prepare for power outage
