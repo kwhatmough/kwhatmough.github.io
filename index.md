@@ -1,14 +1,12 @@
-- dump
-- return Scr Bub
-- 60" 2x2
+- to c: 2x2
+- from c: 1 hook
+- install patio slabs
+- shutoff outdoor tap
+- plug-in well heater
 - install crawlspace vents
 - organize crawlspace
-- prepare for power outage
-- install patio slabs
-- plug-in well heater
-- shutoff outdoor tap (c)
 - trim branches
-- fix wheel barrow (need 60")
+- fix wheel barrow
 - screw-eye holders for vertical bars
 - replace battery in thermostat
 - Don
