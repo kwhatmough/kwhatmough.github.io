@@ -1,3 +1,4 @@
+- send mail, CR2032, dowel, bike
 - to c: 2x2, door knobs
 - from c: 1 hook, foot strap
 - install patio slabs
