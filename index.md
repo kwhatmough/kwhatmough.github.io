@@ -1,4 +1,5 @@
-- send mail, CR2032, dowel, bike
+- garbage
+- CR2032, dowel, bike, 20-lb, bench, black wide foam tape with a low profile
 - to c: 2x2, door knobs
 - from c: 1 hook, foot strap
 - install patio slabs
