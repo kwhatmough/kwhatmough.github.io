@@ -1,6 +1,4 @@
-- garbage
-- CR2032, dowel, bike, 20-lb, bench, black wide foam tape with a low profile
-- to c: 2x2, door knobs
+- CR2032, dowel, black wide foam tape with a low profile
 - from c: 1 hook, foot strap
 - install patio slabs
 - shutoff outdoor tap
