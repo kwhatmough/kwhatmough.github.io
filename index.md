@@ -1,5 +1,5 @@
-- CR2032, dowel, black wide foam tape with a low profile
-- from c: 1 hook, foot strap
+- dowel
+- from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
 - plug-in well heater
