@@ -1,4 +1,3 @@
-- dowel
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
