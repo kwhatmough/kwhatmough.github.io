@@ -1,3 +1,5 @@
+- reschedule H dentist appt
+- to condo: lock box
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
