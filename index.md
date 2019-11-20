@@ -1,6 +1,5 @@
-- reschedule H dentist appt
-- MF out Wed night
-- to condo: lock box
+- Wed: H 5pm, lock box, MF out
+- to condo: card, lock box
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
