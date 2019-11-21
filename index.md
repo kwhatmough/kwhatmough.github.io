@@ -1,4 +1,4 @@
-- Wed: H 5pm, lock box, MF out
+- Thu: Don re steps, lock box
 - to condo: card, lock box
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
@@ -10,11 +10,6 @@
 - fix wheel barrow
 - screw-eye holders for vertical bars
 - replace battery in thermostat
-- Don
-    - no need to worry about gravel leaking because they install a membrane to prevent that
-    - nonetheless I asked for 2" rather than the usual 3/4" clear
-    - we will likely leave the deck posts intact and just install empty sonotubes beside them for now (he will take another look), mainly to avoid disturbing the existing structure
-    - he still plans to backfill and install the stone steps, likely concreted-in (with the first one drilled-in)
 - H eye check
 - sell stuff
 - prescription eyewear, physio, etc.
