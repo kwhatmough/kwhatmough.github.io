@@ -1,5 +1,3 @@
-- Thu: Don re steps, lock box
-- to condo: card, lock box
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
