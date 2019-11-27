@@ -1,5 +1,9 @@
-- card for Cathie
-- gas, qty 3 PT2x8x8
+- dishes
+- send mail
+- confirm w/H and update D re 2 Mondays
+- Henrik
+- inspect, photograph, and level site
+- pay Don
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
