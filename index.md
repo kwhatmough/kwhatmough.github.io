@@ -1,3 +1,5 @@
+- card for Cathie
+- gas, qty 3 PT2x8x8
 - from c: 1 hook, bird scoop, bike pillow, foot strap
 - install patio slabs
 - shutoff outdoor tap
