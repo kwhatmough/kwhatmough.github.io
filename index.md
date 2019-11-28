@@ -1,5 +1,3 @@
-- dishes
-- send mail
 - confirm w/H and update D re 2 Mondays
 - Henrik
 - inspect, photograph, and level site
