@@ -1,13 +1,25 @@
-- confirm w/H and update D re 2 Mondays
-- Henrik
-- inspect, photograph, and level site
+- inspect/photograph site
+    - tree/debris removed
+    - path damage not too bad
+    - armor stone still lined-up
+    - level walk to new steps
+    - visually attractive grade
+    - 2" clear gravel
+    - liner to retain gravel
+    - solid installation of steps
+    - all posts still plumb
+    - no‎ unsafe nails sticking out
+    - braces replaced
+- from c: 1 hook, bird scoop, bike pillow
+- mandatory:
+    - shutoff outdoor tap
+    - install patio slabs (use car)
+    - unplug dehumidifier
+    - plug-in well heater
 - pay Don
-- from c: 1 hook, bird scoop, bike pillow, foot strap
-- install patio slabs
-- shutoff outdoor tap
-- plug-in well heater
-- plug crawlspace vents
+- Henrik
 - organize crawlspace
+- plug crawlspace vents
 - trim branches
 - fix wheel barrow
 - screw-eye holders for vertical bars
