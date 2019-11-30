@@ -1,3 +1,5 @@
+- keep nylon washers for GP adapter
+- handlebar clamp torque is 6.2 Nm, steerer tube clamp torque is approx. 12 Nm
 - inspect/photograph site
     - tree/debris removed
     - path damage not too bad
