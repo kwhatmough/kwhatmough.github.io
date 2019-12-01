@@ -1,32 +1,12 @@
-- keep nylon washers for GP adapter
-- handlebar clamp torque is 6.2 Nm, steerer tube clamp torque is approx. 12 Nm
-- inspect/photograph site
-    - tree/debris removed
-    - path damage not too bad
-    - armor stone still lined-up
-    - level walk to new steps
-    - visually attractive grade
-    - 2" clear gravel
-    - liner to retain gravel
-    - solid installation of steps
-    - all posts still plumb
-    - no‎ unsafe nails sticking out
-    - braces replaced
-- from c: 1 hook, bird scoop, bike pillow
-- mandatory:
-    - shutoff outdoor tap
-    - install patio slabs (use car)
-    - unplug dehumidifier
-    - plug-in well heater
 - pay Don
 - Henrik
+- replace battery in thermostat
+- thaw tap
 - organize crawlspace
 - plug crawlspace vents
 - trim branches
 - fix wheel barrow
 - screw-eye holders for vertical bars
-- replace battery in thermostat
-- H eye check
 - sell stuff
 - prescription eyewear, physio, etc.
 - export pwds
@@ -46,3 +26,4 @@
 - pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything) GIP60171I718 EKI2016
 - 24471 550.4 06-2017
 - CAYKZB0440D616
+- handlebar clamp torque is 6.2 Nm, steerer tube clamp torque is approx. 12 Nm
