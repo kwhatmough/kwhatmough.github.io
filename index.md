@@ -1,4 +1,5 @@
 - pay Don
+- Greg O, Goodlife, sugar, flour
 - Henrik
 - replace battery in thermostat
 - thaw tap
