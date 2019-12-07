@@ -1,11 +1,6 @@
 - pay Don
-- Greg O, Goodlife, sugar, flour
-- Henrik
-    - type of pedal attachment
-    - type of pedals included
-    - we will keep the saddle
-    - is a sensor available
-    - is move to basement included
+- sugar, flour
+- renew Goodlife
 - replace battery in thermostat
 - thaw tap
 - organize crawlspace
