@@ -1,5 +1,6 @@
 - pay Don
 - sugar, flour
+- gift cards: resto for M, HH for D
 - renew Goodlife
 - replace battery in thermostat
 - thaw tap
