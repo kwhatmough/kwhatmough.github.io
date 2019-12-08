@@ -1,6 +1,5 @@
-- softener salt
 - pay Don
-- gift cards: resto for M, HH for D
+- gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
 - replace battery in thermostat
 - thaw tap
