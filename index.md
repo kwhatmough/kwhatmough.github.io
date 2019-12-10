@@ -1,3 +1,5 @@
+- confirm w/Carol: Dec 26 and Jan 18/19
+- tell Sam re M+D
 - pay Don
 - gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
