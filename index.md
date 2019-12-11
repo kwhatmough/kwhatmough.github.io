@@ -1,6 +1,8 @@
-- confirm w/Carol: Dec 26 and Jan 18/19
-- tell Sam re M+D
 - pay Don
+- lettuce, tomato, avocado, taco kit, small sour cream
+- MF out
+- FPI5K
+- tell Sam re M+D
 - gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
 - replace battery in thermostat
