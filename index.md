@@ -1,5 +1,6 @@
 - pay Don
-- FPI5K
+- check RAV4 oil
+- finishing installing shelves in dining room
 - tell Sam re M+D
 - gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
