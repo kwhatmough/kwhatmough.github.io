@@ -1,6 +1,5 @@
-- check RAV4 oil, clear ice
-- CT/HH: ceiling hooks, light bulbs
-- groc: rinse agent, grain-free cereal, Protein Up warps
+- check RAV4 oil
+- CT/HH: extension cord, cable mounts, ceiling hooks, light bulbs
 - replace bulb in bathroom
 - better bulbs in basement
 - better hooks for bench
