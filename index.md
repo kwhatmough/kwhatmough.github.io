@@ -1,9 +1,16 @@
-- pay Don
-- check RAV4 oil
+- check RAV4 oil, clear ice
+- CT/HH: ceiling hooks, light bulbs
+- groc: rinse agent, grain-free cereal, Protein Up warps
+- replace bulb in bathroom
+- better bulbs in basement
+- better hooks for bench
+- find Apple TV, supply power
 - finishing installing shelves in dining room
+- pay Don
 - tell Sam re M+D
 - gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
+- replace exhaust fan
 - replace battery in thermostat
 - thaw tap
 - organize crawlspace
@@ -19,7 +26,6 @@
 - try MEC and FB local MP
 - fix grout in main
 - order spare drain
-- Apple TV
 - new power bar and router
 - suit
 - insulate range hood duct
