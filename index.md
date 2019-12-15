@@ -1,5 +1,6 @@
 - check RAV4 oil
 - CT/HH: extension cord, cable mounts, ceiling hooks, light bulbs
+- cash
 - replace bulb in bathroom
 - better bulbs in basement
 - better hooks for bench
