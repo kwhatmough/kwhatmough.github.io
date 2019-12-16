@@ -1,16 +1,13 @@
 - check RAV4 oil
-- CT/HH: extension cord, cable mounts, ceiling hooks, light bulbs
+- MF out Wed
 - cash
-- replace bulb in bathroom
-- better bulbs in basement
-- better hooks for bench
-- find Apple TV, supply power
+- find Apple TV
 - finishing installing shelves in dining room
 - pay Don
 - tell Sam re M+D
 - gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
-- replace exhaust fan
+- replace inducer motor (see email)
 - replace battery in thermostat
 - thaw tap
 - organize crawlspace
