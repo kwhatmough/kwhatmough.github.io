@@ -1,11 +1,11 @@
+- butter, eggs
 - check RAV4 oil
 - MF out Wed
-- cash
-- find Apple TV
+- Apple TV
+- gift cards: resto for M (got 50 HH for D)
 - finishing installing shelves in dining room
 - pay Don
 - tell Sam re M+D
-- gift cards: resto for M (got 50 HH for D)
 - renew Goodlife
 - replace inducer motor (see email)
 - replace battery in thermostat
