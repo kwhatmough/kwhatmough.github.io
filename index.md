@@ -1,7 +1,6 @@
-- MF out Wed
+- tell Sam re M+D
 - check RAV4 oil
 - pay Don
-- tell Sam re M+D
 - gift cards: resto for M (got 50 HH for D)
 - finishing installing shelves in dining room
 - renew Goodlife
