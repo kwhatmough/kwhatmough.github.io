@@ -1,11 +1,13 @@
 - tell Sam re M+D
-- check RAV4 oil
 - pay Don
-- gift cards: resto for M (got 50 HH for D)
-- finishing installing shelves in dining room
+- gift cards: resto, Heathers, chse shop
+- write cards and wrap gifts
+- finish installing shelves in dining room
 - renew Goodlife
 - replace inducer motor (see email)
-- Apple TV
+- prescription eyewear, physio, etc.
+- suit
+- export pwds
 - replace battery in thermostat
 - thaw tap
 - organize crawlspace
@@ -14,15 +16,12 @@
 - fix wheel barrow
 - screw-eye holders for vertical bars
 - sell stuff
-- prescription eyewear, physio, etc.
-- export pwds
 - kitchen outlets
 - install security camera
 - try MEC and FB local MP
 - fix grout in main
 - order spare drain
 - new power bar and router
-- suit
 - insulate range hood duct
 - clean basement floor drain
 - list SDBs and accounts
