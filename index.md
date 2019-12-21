@@ -1,6 +1,3 @@
-- tell Sam re M+D
-- pay Don
-- gift cards: resto, Heathers, chse shop
 - write cards and wrap gifts
 - finish installing shelves in dining room
 - renew Goodlife
