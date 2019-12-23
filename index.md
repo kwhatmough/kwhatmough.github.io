@@ -1,10 +1,10 @@
-- write cards and wrap gifts
-- finish installing shelves in dining room
 - renew Goodlife
+- finish installing shelves in dining room
 - replace inducer motor (see email)
 - prescription eyewear, physio, etc.
 - suit
 - export pwds
+- fix shed floor at lumber storage
 - replace battery in thermostat
 - thaw tap
 - organize crawlspace
