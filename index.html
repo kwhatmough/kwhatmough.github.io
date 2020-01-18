@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Local test</title>
+    <script src="./Importer.js"></script>
+    <script>
+      function setText(divId, message) {
+        document.getElementById(divId).textContent = message;
+      }
+
+      function onPage(moduleSpecifier, divId, onModule) {
+        new Importer(moduleSpecifier).then(
+          function(value) {
+            setText(divId, "Import succeeded");
+            try {
+              onModule(value);
+            } catch (err) {
+              setText(divId, "Execution failed: " + err.message);
+            }
+          },
+          function(reason) {
+            setText(divId, "Import failed: " + reason);
+          }
+        );
+      }
+    </script>
+  </head>
+  <body onload="onPage('./main.mjs', 'myDiv', function(v){v.run('myCanvas')})">
+    This is a test.
+    <div id="myDiv"></div>
+    <canvas id="myCanvas" width="200" height="150">opps</canvas>
+  </body>
+</html>
