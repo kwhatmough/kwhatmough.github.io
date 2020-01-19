@@ -26,6 +26,7 @@
       }
 
       function onPage(moduleSpecifier, divId, onModule) {
+        spectralTest();
         new Importer(moduleSpecifier).then(
           function(value) {
             setText(divId, "Import succeeded");
@@ -39,7 +40,6 @@
             setText(divId, "Import failed: " + reason);
           }
         );
-        spectralTest();
       }
     </script>
   </head>
