@@ -3,6 +3,24 @@
     <title>Local test</title>
     <script src="./Importer.js"></script>
     <script>
+      function lcg(x) {
+        // Park-Miller RNG
+        return (48271 * x) % 2147483647;
+      }
+      function spectralTest() {
+        const canvas = document.getElementById("spectralTest");
+        const context = canvas.getContext("2d");
+
+        const scale = Math.pow(2, 10 - 31); // canvas is 2^10, Park-Miller RNG is 2^31
+        let x_1 = 1; // must be non-zero
+        let x = lcg(x_1);
+        for (let i = 0; i < 10000; i++) {
+          context.fillRect(x * scale, x_1 * scale, 1, 1);
+          x_1 = x;
+          x = lcg(x_1);
+        }
+      }
+
       function setText(divId, message) {
         document.getElementById(divId).textContent = message;
       }
@@ -21,6 +39,7 @@
             setText(divId, "Import failed: " + reason);
           }
         );
+        spectralTest();
       }
     </script>
   </head>
@@ -28,5 +47,7 @@
     This is a test.
     <div id="myDiv"></div>
     <canvas id="myCanvas" width="200" height="150">opps</canvas>
+    <div>spectral test</div>
+    <canvas id="spectralTest" width="1024" height="1024">opps</canvas>
   </body>
 </html>
