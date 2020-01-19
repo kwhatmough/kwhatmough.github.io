@@ -9,6 +9,6 @@ Importer.prototype.then = function(onFulfilled, onRejected) {
       onRejected
     );
   } catch (err) {
-    onRejected("Dynamic import failed: " + err.message);
+    onRejected("Dynamic import failed (" + err.message + ")");
   }
 };
