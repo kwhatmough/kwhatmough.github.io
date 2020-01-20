@@ -11,7 +11,7 @@
         const canvas = document.getElementById("spectralTest");
         const context = canvas.getContext("2d");
 
-        const scale = Math.pow(2, 10 - 31); // canvas is 2^10, Park-Miller RNG is 2^31
+        const scale = Math.pow(2, 9 - 31); // canvas is 2^9, Park-Miller RNG is 2^31
         let x_1 = 1; // must be non-zero
         let x = lcg(x_1);
         for (let i = 0; i < 10000; i++) {
@@ -52,6 +52,6 @@
     <div id="myDiv"></div>
     <canvas id="myCanvas" width="200" height="150">opps</canvas>
     <div>spectral test</div>
-    <canvas id="spectralTest" width="1024" height="1024">opps</canvas>
+    <canvas id="spectralTest" width="512" height="512">opps</canvas>
   </body>
 </html>
