@@ -26,20 +26,24 @@
       }
 
       function onPage(moduleSpecifier, divId, onModule) {
-        spectralTest();
-        new Importer(moduleSpecifier).then(
-          function(value) {
-            setText(divId, "Import succeeded");
-            try {
-              onModule(value);
-            } catch (err) {
-              setText(divId, "Execution failed: " + err.message);
+        try {
+          spectralTest();
+          new Importer(moduleSpecifier).then(
+            function(value) {
+              setText(divId, "Import succeeded");
+              try {
+                onModule(value);
+              } catch (err) {
+                setText(divId, "Execution failed: " + err.message);
+              }
+            },
+            function(reason) {
+              setText(divId, "Import failed: " + reason);
             }
-          },
-          function(reason) {
-            setText(divId, "Import failed: " + reason);
-          }
-        );
+          );
+        } catch (err) {
+          setText(divId, "Spectral test failed: " + err.message);
+        }
       }
     </script>
   </head>
