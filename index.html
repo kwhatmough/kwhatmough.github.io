@@ -5,7 +5,7 @@
     <script>
       function lcg(x) {
         // Park-Miller RNG
-        return (48271 * x) % 2147483647;
+        return (48271 * x) % (Math.pow(2, 31) - 1);
       }
       function spectralTest() {
         const canvas = document.getElementById("spectralTest");
