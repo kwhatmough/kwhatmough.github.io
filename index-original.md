@@ -1,4 +1,4 @@
-- renew Goodlife
+- from cottage: hiking shoes, water shoes, neoprene top/bottom/gloves/boots, rain pants, rain shell, Tilly hat
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
