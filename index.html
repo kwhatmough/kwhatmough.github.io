@@ -25,8 +25,8 @@
       }
 
       function onPage(moduleSpecifier, divId, onModule) {
+        spectralTest();
         try {
-          spectralTest();
           new Function("path", "return import(path);")(moduleSpecifier).then(
             function(value) {
               setText(divId, "Import succeeded");
@@ -37,11 +37,11 @@
               }
             },
             function(reason) {
-              setText(divId, "Import failed: " + reason);
+              setText(divId, "Import rejected: " + reason);
             }
           );
         } catch (err) {
-          setText(divId, "Spectral test failed: " + err.message);
+          setText(divId, "Import failed: " + err.message);
         }
       }
     </script>
