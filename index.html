@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Local test</title>
-    <script src="./Importer.js"></script>
+    <script src="./src/importModule.js"></script>
     <script>
       function lcg(x) {
         // Park-Miller RNG
@@ -28,7 +28,10 @@
       function onPage(moduleSpecifier, divId, onModule) {
         try {
           spectralTest();
-          new Importer(moduleSpecifier).then(
+          importModule(
+            function(specify) {
+              specify(moduleSpecifier);
+            },
             function(value) {
               setText(divId, "Import succeeded");
               try {
