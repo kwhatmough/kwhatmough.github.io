@@ -55,19 +55,15 @@ Friday | Spin
   - Perform the squat
   - Extend one last time and let dumbells free fall
 
-<details><summary>Intermediate</summary>
-
-- [Cross Crunch] (touch edge of ears, elbows fixed in plane of shoulders, reach and rotate to touch elbow to opposite knee)
-- [Toe Touch] (press lower back into mat, legs straight up, crunch to touch toes)
-- [One Arm Kettlebell Snatch] (initial rotation, keep weight close to body)
-- [Power Clean And Jerk]
-</details>
-
-<details><summary>Advanced</summary>
-
-- [Plyometric]
-- [Hand Clap Foot Clap Rebound]
-</details>
+>### Intermediate
+>- [Cross Crunch] (touch edge of ears, elbows fixed in plane of shoulders, reach and rotate to touch elbow to opposite knee)
+>- [Toe Touch] (press lower back into mat, legs straight up, crunch to touch toes)
+>- [One Arm Kettlebell Snatch] (initial rotation, keep weight close to body)
+>- [Power Clean And Jerk]
+>
+>### Advanced
+>- [Plyometric]
+>- [Hand Clap Foot Clap Rebound]
 
 ## Push
 - [Lebert Bars Dip]
@@ -79,11 +75,9 @@ Friday | Spin
   - Exchange motion with opposite hand
 - [Tricep Dumbbell Kickback]
 
-<details><summary>Intermediate</summary>
-
-- [Flat Bench Dumbbell Press]
-- [Flat Bench Dumbbell Fly]
-</details>
+>### Intermediate
+>- [Flat Bench Dumbbell Press]
+>- [Flat Bench Dumbbell Fly]
 
 
 ## Pull
@@ -96,11 +90,9 @@ Friday | Spin
   - Focus on harmony of motion
 - [Dumbbell Bicep Curl]
 
-<details><summary>Intermediate</summary>
-
-- [Lat Pulldown]
-- [Dumbbell Shrugs]
-</details>
+>### Intermediate
+>- [Lat Pulldown]
+>- [Dumbbell Shrugs]
 
 [Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-regular-plank-core-training.html
 [Side Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-side-plank-core-training.html
