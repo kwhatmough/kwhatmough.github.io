@@ -1,4 +1,3 @@
-#
 Date | Target | Actual
 --- | --- | ---
 Feb 1 | 175 | 175
@@ -10,7 +9,9 @@ Mar 7 | 182 |
 Mar 14 | 183 |
 Mar 21 | 184 |
 Mar 28 | 185 |
-#
+
+---
+
 Day | Routine 1 | Routine 2
 --- | --- | ---
 Saturday | Ergo | Power and Core
