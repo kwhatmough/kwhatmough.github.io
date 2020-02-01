@@ -1,6 +1,4 @@
-- [schedule](schedule.html)
-- from cottage: hiking shoes, water shoes, neoprene top/bottom/gloves/boots, rain shell, Tilly hat
-- to BC: food containers, rain hat
+- [schedule](schedule.html) [list](list.html)
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
