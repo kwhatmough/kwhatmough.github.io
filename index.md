@@ -1,4 +1,5 @@
 - [schedule](schedule.html) [list](list.html)
+- carabiners
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
