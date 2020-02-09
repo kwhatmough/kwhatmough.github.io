@@ -1,5 +1,17 @@
 - [schedule](schedule.html) [list](list.html)
-- carabiners
+- prepare bike
+- Andrew
+  - can't make Wednesday night
+  - when is Marcus available?
+  - extended warranty:
+    - software updates?
+    - rear liftgate motor?
+    - electronic displays, cameras, stereo etc.?
+    - copies of what's covered and what's not?
+- Isabel Monday
+- can Steve drive Thursday?
+- transportation for Hana for Wednesday
+---
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
