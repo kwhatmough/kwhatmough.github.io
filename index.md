@@ -1,17 +1,6 @@
 - [schedule](schedule.html) [list](list.html)
-- prepare bike
-- Andrew
-  - can't make Wednesday night
-  - when is Marcus available?
-  - extended warranty:
-    - software updates?
-    - rear liftgate motor?
-    - electronic displays, cameras, stereo etc.?
-    - copies of what's covered and what's not?
-- Isabel Monday
-- can Steve drive Thursday?
-- transportation for Hana for Wednesday
----
+- avocado, water, brown rice, paper towel, Scrubbing Bubbles, Vim Oxy-Gel, Swiffer dusters, softener salt
+- record DOT #'s on tires
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
