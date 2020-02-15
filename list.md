@@ -9,6 +9,7 @@ neoprene boots |
 neoprene hat |
 rain shell |
 Tilley hat |
+rubber boots |
 
 ---
 

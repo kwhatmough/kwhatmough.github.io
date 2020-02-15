@@ -1,5 +1,5 @@
 - [schedule](schedule.html) [list](list.html)
-- avocado, water, brown rice, paper towel, Scrubbing Bubbles, Vim Oxy-Gel, Swiffer dusters, softener salt
+- CR 2016, Can Tire bulb, Vim Oxy-Gel
 - record DOT #'s on tires
 - replace router
 - finish installing shelves in dining room
