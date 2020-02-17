@@ -1,6 +1,16 @@
 - [schedule](schedule.html) [list](list.html)
 - CR 2016, Can Tire bulb, Vim Oxy-Gel
-- record DOT #'s on tires
+- K Xfer:
+  - remote start
+  - keep key in purse
+  - gas door locked when doors locked
+  - unlock w/key vs. door handle buttons
+  - gas door push to open
+  - rear liftgate w/key vs. door handle button vs. dashboard button
+  - engine start and stop
+  - ISG off, seat and wheel heat on
+  - parking brake
+  - lock w/key vs. door handle buttons
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
