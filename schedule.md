@@ -60,6 +60,10 @@ Friday | Spin
 >- [Toe Touch] (press lower back into mat, legs straight up, crunch to touch toes)
 >- [One Arm Kettlebell Snatch] (initial rotation, keep weight close to body)
 >- [Power Clean And Jerk]
+>- [Bosu Crunch]
+>- [Toe Touch Crunch] (lie on back with balance ball between feet, 
+raise feet above and hold while repeatedly crunching/reaching so fingers touch ball)
+>- [Med Ball Crunch Reach Pass] (lie on back with ball initially between feet, crunch and exchange overhead so ball is between hands, lower feet and arms without touching the floor, repeat in reverse, etc.)
 >
 >### Advanced
 >- [Plyometric]
@@ -125,3 +129,7 @@ Friday | Spin
 [Bosu One Arm Dumbbell Press]: https://www.youtube.com/watch?v=v5OwrIx9AGc
 
 [Paddler Shoulder Exercises]: https://www.youtube.com/watch?v=yX6hjMuybdY
+[Bosu Crunch]: https://www.youtube.com/watch?v=EqjQnqWU2Bk
+[Med Ball Crunch Reach Pass]: https://www.youtube.com/watch?v=Mxi_WO4Knjw
+
+[Toe Touch Crunch]: https://www.spotebi.com/exercise-guide/toe-touch/
