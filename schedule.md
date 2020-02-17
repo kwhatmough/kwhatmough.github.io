@@ -97,7 +97,7 @@ raise feet above and hold while repeatedly crunching/reaching so fingers touch b
 >### Intermediate
 >- [Lat Pulldown]
 >- [Dumbbell Shrugs]
->- [Paddler Shoulder Exercises]
+>- [Plank Row] (from [Paddler Shoulder Exercises])
 
 [Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-regular-plank-core-training.html
 [Side Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-side-plank-core-training.html
@@ -128,6 +128,7 @@ raise feet above and hold while repeatedly crunching/reaching so fingers touch b
 
 [Bosu One Arm Dumbbell Press]: https://www.youtube.com/watch?v=v5OwrIx9AGc
 
+[Plank Row]: https://www.youtube.com/watch?v=-NP3Wke4GLA
 [Paddler Shoulder Exercises]: https://www.youtube.com/watch?v=yX6hjMuybdY
 [Bosu Crunch]: https://www.youtube.com/watch?v=EqjQnqWU2Bk
 [Med Ball Crunch Reach Pass]: https://www.youtube.com/watch?v=Mxi_WO4Knjw
