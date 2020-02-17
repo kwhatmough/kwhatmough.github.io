@@ -93,6 +93,7 @@ Friday | Spin
 >### Intermediate
 >- [Lat Pulldown]
 >- [Dumbbell Shrugs]
+>- [Paddler Shoulder Exercises]
 
 [Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-regular-plank-core-training.html
 [Side Plank]: http://michaelfekete.blogspot.com/2012/11/exercise-side-plank-core-training.html
@@ -122,3 +123,5 @@ Friday | Spin
 [Lebert Bars Dip]: https://www.youtube.com/watch?v=PpxAitTbKLQ
 
 [Bosu One Arm Dumbbell Press]: https://www.youtube.com/watch?v=v5OwrIx9AGc
+
+[Paddler Shoulder Exercises]: https://www.youtube.com/watch?v=yX6hjMuybdY
