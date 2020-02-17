@@ -1,16 +1,7 @@
 - [schedule](schedule.html) [list](list.html)
-- CR 2016, Can Tire bulb, Vim Oxy-Gel
-- K Xfer:
-  - remote start
-  - keep key in purse
-  - gas door locked when doors locked
-  - unlock w/key vs. door handle buttons
-  - gas door push to open
-  - rear liftgate w/key vs. door handle button vs. dashboard button
-  - engine start and stop
-  - ISG off, seat and wheel heat on
-  - parking brake
-  - lock w/key vs. door handle buttons
+- Vim Oxy-Gel
+- Carol: claim airfare w/points, deposit cheque
+- resident parking pass (RAV4 was R1304)
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
