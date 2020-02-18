@@ -1,8 +1,11 @@
 - [schedule](schedule.html) [list](list.html)
-- spinach, sweet pepper, french toast bagels or cinnamin bread, Vim Oxy-Gel
+- mats
 - Carol: claim airfare w/points, deposit cheque
 - Sparlings
 - resident parking pass (RAV4 was R1304)
+- Vim Oxy-Gel
+- school activity fee
+- drop-off old cartridge
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
