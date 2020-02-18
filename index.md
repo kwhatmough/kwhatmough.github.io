@@ -1,11 +1,10 @@
 - [schedule](schedule.html) [list](list.html)
-- mats
 - Carol: claim airfare w/points, deposit cheque
-- Sparlings
-- resident parking pass (RAV4 was R1304)
-- Vim Oxy-Gel
 - school activity fee
+- Vim Oxy-Gel
 - drop-off old cartridge
+- check propane
+- resident parking pass (RAV4 was R1304)
 - replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
