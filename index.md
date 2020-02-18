@@ -1,6 +1,7 @@
 - [schedule](schedule.html) [list](list.html)
-- Vim Oxy-Gel
+- spinach, sweet pepper, french toast bagels or cinnamin bread, Vim Oxy-Gel
 - Carol: claim airfare w/points, deposit cheque
+- Sparlings
 - resident parking pass (RAV4 was R1304)
 - replace router
 - finish installing shelves in dining room
