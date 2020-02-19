@@ -1,7 +1,6 @@
 - [schedule](schedule.html) [list](list.html)
 - Carol: claim airfare w/points, deposit cheque
-- school activity fee
-- Vim Oxy-Gel
+- Vim Oxy-Gel, AAA, bulb
 - drop-off old cartridge
 - check propane
 - resident parking pass (RAV4 was R1304)
