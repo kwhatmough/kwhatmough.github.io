@@ -1,8 +1,8 @@
 || RAV4 | Telluride
 ---:| --- | ---
-Height | 12.5" | 17"
-Rise | 1" | -2"
-TOTAL | 13.5" | 15"
+Height | 13" | 17"
+Rise | 1" | -2.5"
+TOTAL | 14" | 14.5"
 
 ![][height]
 ![][rise]

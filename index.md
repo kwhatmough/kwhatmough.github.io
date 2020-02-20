@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [hitch](hitch.html)
 - Carol: claim airfare w/points, deposit cheque
-- Vim Oxy-Gel, AAA, bulb, 2" ball, fish
+- Vim Oxy-Gel, fish
 - drop-off old cartridge
 - check propane
 - resident parking pass (RAV4 was R1304)
