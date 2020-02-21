@@ -1,5 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [hitch](hitch.html)
 - Carol: claim airfare w/points, deposit cheque
+- Hana: course selection
 - Vim Oxy-Gel, fish
 - drop-off old cartridge
 - check propane
