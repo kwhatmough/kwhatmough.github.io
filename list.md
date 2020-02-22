@@ -10,6 +10,7 @@ neoprene hat |
 rain shell |
 Tilley hat |
 rubber boots |
+neoprene cleaner |
 
 ---
 

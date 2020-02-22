@@ -1,11 +1,9 @@
 - [schedule](schedule.html) [list](list.html) [hitch](hitch.html)
+- call Sparlings (30%)
 - Carol: claim airfare w/points, deposit cheque
-- Hana: course selection
 - Vim Oxy-Gel, fish
 - drop-off old cartridge
-- check propane
 - resident parking pass (RAV4 was R1304)
-- replace router
 - finish installing shelves in dining room
 - replace inducer motor (see email)
 - prescription eyewear, physio, etc.
