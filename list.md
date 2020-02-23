@@ -11,12 +11,14 @@ rain shell |
 Tilley hat |
 rubber boots |
 neoprene cleaner |
+surf shirt |
 
 ---
 
 Item | Pack
 --- | ---
 plastic containers |
+bathing suit |
 rain pants |
 rain hat |
 rain jacket |
