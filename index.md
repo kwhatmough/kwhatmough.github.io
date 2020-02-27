@@ -1,5 +1,4 @@
-- [schedule](schedule.html) [list](list.html) [hitch](hitch.html)
-- call Sparlings (30%)
+- [schedule](schedule.html) [list](list.html) [browser](browser.html)
 - Carol: claim airfare w/points, deposit cheque
 - Vim Oxy-Gel, fish
 - drop-off old cartridge
