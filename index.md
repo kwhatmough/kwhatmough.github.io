@@ -1,11 +1,10 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
 - Carol: claim airfare w/points, deposit cheque
-- Vim Oxy-Gel, fish
-- drop-off old cartridge
+- prescription eyewear, physio, etc.
+- Vim Oxy-Gel and ?
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
 - replace inducer motor (see email)
-- prescription eyewear, physio, etc.
 - suit
 - export pwds
 - organize crawlspace
