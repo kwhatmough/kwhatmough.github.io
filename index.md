@@ -1,10 +1,9 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
 - clocks ahead
+- rack storage, clean car, clean deck
 - CD cases, Vim Oxy-Gel
-- renew plate sticker Telly
 - Carol: claim airfare w/points, deposit cheque
 - prescription eyewear, physio, etc.
-- rack storage, bike stem
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
 - replace inducer motor (see email)
