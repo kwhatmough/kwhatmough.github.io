@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
-- clocks ahead
-- rack storage, clean car, clean deck
+- confirm closed next week
+- confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
 - Carol: claim airfare w/points, deposit cheque
 - prescription eyewear, physio, etc.
