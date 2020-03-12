@@ -1,5 +1,5 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
-- call TD (200092941), Fix, Enterprise
+- fix 030303839
 - confirm closed next week
 - confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
