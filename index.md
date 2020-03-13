@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
-- fix 030303839
-- confirm closed next week
+- tp
+- 030303839
 - confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
 - Carol: claim airfare w/points, deposit cheque
