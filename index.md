@@ -1,5 +1,13 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html)
-- tp
+- tonight:
+  - cooler & ice into garage
+  - canned goods?
+- from garage:
+  - boots, salt, cooler, stuff on table
+- from basement:
+  - 5 arts, small pan, box of plastic, fridge food (carry in cooler)
+- from living room:
+  - everything
 - 030303839
 - confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
