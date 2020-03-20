@@ -1,17 +1,10 @@
-- [schedule](schedule.html) [list](list.html) [browser](browser.html)
-- tonight:
-  - cooler & ice into garage
-  - canned goods?
-- from garage:
-  - boots, salt, cooler, stuff on table
-- from basement:
-  - 5 arts, small pan, box of plastic, fridge food (carry in cooler)
-- from living room:
-  - everything
+- [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
+- to home: e bag, blu, 1 set Js, straps, PFD, gloves, boots, surf shirt
+- cancel vacn
 - 030303839
 - confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
-- Carol: claim airfare w/points, deposit cheque
+- Carol: deposit cheque
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
@@ -27,7 +20,6 @@
 - kitchen outlets
 - install security camera
 - try MEC and FB local MP
-- fix grout in main
 - order spare drain
 - new power bar and router
 - insulate range hood duct
