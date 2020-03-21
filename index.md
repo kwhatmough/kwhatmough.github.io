@@ -1,5 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
 - to home: e bag, blu, 1 set Js, straps, PFD, gloves, boots, surf shirt
+- H: xbox
 - cancel vacn
 - 030303839
 - confirm Show 2 w/Hana and send date to parents
