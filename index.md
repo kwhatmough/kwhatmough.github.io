@@ -1,8 +1,7 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
-- to home: pwing, PFD, gloves, boots, s shirt
+- sand and return drawer
 - expenses to M
 - 030303839
-- confirm Show 2 w/Hana and send date to parents
 - CD cases, Vim Oxy-Gel
 - Carol: deposit cheque
 - prescription eyewear, physio, etc.
