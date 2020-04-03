@@ -1,9 +1,11 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
 - sand and return drawer
 - expenses to M
+- Carol: deposit cheque
 - 030303839
 - CD cases, Vim Oxy-Gel
-- Carol: deposit cheque
+- setup old cam
+- BB: SD card, floor mat, s panel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
