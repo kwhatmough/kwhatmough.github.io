@@ -5,7 +5,7 @@
 - 030303839
 - CD cases, Vim Oxy-Gel
 - setup old cam
-- BB: SD card, floor mat, s panel
+- BB: SD card, floor mat, s panel, 2 mounts
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
