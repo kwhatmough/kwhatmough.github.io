@@ -1,10 +1,9 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
 - sand and return drawer
-- expenses to M
-- Carol: deposit cheque
 - 030303839
 - Ikea floor protector, CD cases, Vim Oxy-Gel
-- setup old cam, mailbox?
+- setup 2 old cams, mailbox
+- vacuum ceiling vents
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
