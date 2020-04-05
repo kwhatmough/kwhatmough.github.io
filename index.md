@@ -1,9 +1,8 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
 - deposit cheque
-- add: worcestershire sauce
 - 030303839
-- Ikea floor protector, CD cases, Vim Oxy-Gel
-- setup 2 old cams, mailbox
+- floor protector, CD cases, Vim Oxy-Gel
+- setup 2 cams, mailbox
 - vacuum ceiling vents
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
