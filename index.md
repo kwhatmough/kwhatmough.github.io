@@ -1,5 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
-- sand and return drawer
+- deposit cheque
+- add: worcestershire sauce
 - 030303839
 - Ikea floor protector, CD cases, Vim Oxy-Gel
 - setup 2 old cams, mailbox
