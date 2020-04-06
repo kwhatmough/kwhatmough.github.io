@@ -1,5 +1,5 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
-- deposit cheque
+- add eggs, oil
 - 030303839
 - floor protector, CD cases, Vim Oxy-Gel
 - setup 2 cams, mailbox
