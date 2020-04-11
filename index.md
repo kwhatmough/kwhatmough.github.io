@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
-- add mini naan, unsweetened original or vanilla oat milk 2L, dates, fozen cherries, baby spinach
-- remove apple cider vinegar
+- unavailable unsweetened original or vanilla oat milk 2L but found barista
+- unavailable fozen cherries but found mix
 - 030303839
 - floor protector, CD cases, Vim Oxy-Gel
 - setup 2 cams, mailbox
