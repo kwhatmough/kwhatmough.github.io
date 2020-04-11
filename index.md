@@ -1,4 +1,4 @@
-- [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
+- [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
 - re-add sliced cheddar, possibly block cheddar
 - 030303839
 - floor protector, CD cases, Vim Oxy-Gel
