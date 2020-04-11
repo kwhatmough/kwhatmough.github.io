@@ -1,6 +1,5 @@
 - [schedule](schedule.html) [list](list.html) [browser](browser.html) [fibon](fibon.html)
-- unavailable unsweetened original or vanilla oat milk 2L but found barista
-- unavailable fozen cherries but found mix
+- re-add sliced cheddar, possibly block cheddar
 - 030303839
 - floor protector, CD cases, Vim Oxy-Gel
 - setup 2 cams, mailbox
