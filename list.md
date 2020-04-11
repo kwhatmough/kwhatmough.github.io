@@ -17,6 +17,7 @@ canned chunk tuna | $1.28 | 3 | added
 
 Item | Unit price | Qty | Notes
 --- | --- | --- | ---
+|||
 
 ### Ken "B"
 - Pickup on Wed Apr 22
@@ -24,6 +25,7 @@ Item | Unit price | Qty | Notes
 
 Item | Unit price | Qty | Notes
 --- | --- | --- | ---
+|||
 
 ### Read
 - Pickup on Thu Apr 23
@@ -31,3 +33,4 @@ Item | Unit price | Qty | Notes
 
 Item | Unit price | Qty | Notes
 --- | --- | --- | ---
+|||
