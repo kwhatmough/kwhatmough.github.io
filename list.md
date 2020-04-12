@@ -17,7 +17,9 @@ canned chunk tuna | $1.28 | 3 | added
 
 Item | Unit price | Qty | Notes
 --- | --- | --- | ---
-|||
+aluminum foil ||1|
+carrots ||1|
+unbleached flour ||1|
 
 ### Ken "B"
 - Pickup on Wed Apr 22
