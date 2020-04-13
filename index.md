@@ -1,8 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- re-add sliced cheddar, possibly block cheddar
-- 030303839
 - floor protector, CD cases, Vim Oxy-Gel
+- take wng
 - setup 2 cams, mailbox
+- bring x bars
 - vacuum ceiling vents
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
