@@ -1,15 +1,5 @@
 # Modification Tabs
 
-### Ken "A"
-- Pickup on Mon Apr 13
-- Modify until Fri Apr 10
-
-Item | Unit price | Qty | Notes
---- | --- | --- | ---
-canned salmon | $5.28 | 3 | purchased
-canned chunk tuna | $1.28 | 3 | purchased
-2L skim milk | $4.68 | 1 | purchased
-
 ### Bev
 - Pickup on Thu Apr 16
 - Modify until Mon Apr 13
