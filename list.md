@@ -9,7 +9,6 @@ Item | Unit price | Qty | Notes
 canned salmon | $5.28 | 3 | added
 canned chunk tuna | $1.28 | 3 | added
 2L skim milk | $4.68 | 1 | added
-1L unsweetened soy milk | $2.78 | 1 | added
 
 ### Bev
 - Pickup on Thu Apr 16
