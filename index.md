@@ -1,8 +1,11 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
+- remove bases and re-pack
+- gift card
+- wrap 2
 - floor protector, CD cases, Vim Oxy-Gel
 - take wng
 - setup 2 cams, mailbox
-- bring x bars
+- bring x bars and locks
 - vacuum ceiling vents
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
