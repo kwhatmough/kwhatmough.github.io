@@ -1,5 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
 - remove bases and re-pack
+- confirm reversal and expense claim
+- income tax
 - gift card
 - wrap 2
 - floor protector, CD cases, Vim Oxy-Gel
