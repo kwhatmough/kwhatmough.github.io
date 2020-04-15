@@ -1,14 +1,13 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- remove bases and re-pack
-- confirm reversal and expense claim
-- income tax
+- confirm charge reversal and expense reimbursement
+- income tax return
 - gift card
 - wrap 2
-- floor protector, CD cases, Vim Oxy-Gel
+- vacuum ceiling vents
 - take wng
 - setup 2 cams, mailbox
-- bring x bars and locks
-- vacuum ceiling vents
+- bring x bars w/locks
+- floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
