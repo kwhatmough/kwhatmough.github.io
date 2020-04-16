@@ -6,7 +6,7 @@
 - vacuum ceiling vents
 - take wng
 - setup 2 cams, mailbox
-- bring x bars w/locks, 1pr buckle covers
+- bring x bars w/locks, 1pr buckle covers, blue hat
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
