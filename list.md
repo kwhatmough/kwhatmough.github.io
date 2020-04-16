@@ -8,7 +8,6 @@ Item | Unit price | Qty | Notes
 --- | --- | --- | ---
 aluminum foil | $6.98 | 1 | added
 carrots | $2.98 | 1 | added
-white flour | $8.98 | 1 | added
 
 ### Ken "B"
 - Pickup on Wed Apr 22
