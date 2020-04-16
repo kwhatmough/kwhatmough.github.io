@@ -1,5 +1,5 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- confirm charge reversal and expense reimbursement
+- confirm expense reimbursement
 - income tax return
 - gift card
 - wrap 2
