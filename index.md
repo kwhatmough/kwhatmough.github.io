@@ -1,12 +1,10 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
 - confirm expense reimbursement
 - income tax return
-- gift card
-- wrap 2
 - vacuum ceiling vents
-- take wng
+- take wng, bags, rhinos, rkymtn
 - setup 2 cams, mailbox
-- bring x bars w/locks, 1pr buckle covers, blue hat
+- bring x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)

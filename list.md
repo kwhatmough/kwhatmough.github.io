@@ -13,13 +13,6 @@ Applelager, can | $2.92 | 1 |
 apple cranberry cider, bottle | $8.25 | 1 |
 
 # Upcoming Orders
-## Ken "B"
-- Pickup on Wed Apr 22
-- Modify until Sun Apr 19
-
-Item | Unit price | Qty | Notes
---- | --- | --- | ---
-|||
 
 ## Read
 - Pickup on Thu Apr 23
@@ -32,6 +25,14 @@ Item | Unit price | Qty | Notes
 ## Ken "A"
 - Pickup on Sat Apr 25
 - Modify until Wed Apr 22
+
+Item | Unit price | Qty | Notes
+--- | --- | --- | ---
+|||
+
+## Ken "B"
+- Pickup on Tue Apr 28
+- Modify until Sat Apr 25
 
 Item | Unit price | Qty | Notes
 --- | --- | --- | ---
