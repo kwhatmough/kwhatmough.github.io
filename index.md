@@ -1,9 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- implicit surfels
 - confirm expense reimbursement
 - income tax return
 - vacuum ceiling vents
-- take copy of prop tax, wng, bags, rhinos, rkymtn
+- take wng, bags, rhinos, rkymtn
 - setup 2 cams, mailbox
 - bring x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel
