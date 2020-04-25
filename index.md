@@ -2,7 +2,7 @@
 - confirm expense reimbursement
 - income tax return
 - vacuum ceiling vents
-- take wng, bags, rhinos, rkymtn
+- take scale, wng, bags, rhinos, rkymtn
 - setup 2 cams, mailbox
 - bring x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel

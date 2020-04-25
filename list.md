@@ -17,14 +17,6 @@ apple cranberry cider, bottle | $8.25 | 1
 
 # Upcoming Orders
 
-## Ken "A"
-- Pickup on Sat Apr 25
-- Modify until Wed Apr 22
-
-Item | Unit price | Qty | Notes
---- | --- | --- | ---
-|||
-
 ## Ken "B"
 - Pickup on Tue Apr 28
 - Modify until Sat Apr 25
