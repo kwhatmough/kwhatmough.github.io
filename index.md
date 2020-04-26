@@ -1,6 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- confirm expense reimbursement
 - income tax return
+- confirm expense reimbursement
 - vacuum ceiling vents
 - take scale, wng, bags, rhinos, rkymtn
 - setup 2 cams, mailbox
