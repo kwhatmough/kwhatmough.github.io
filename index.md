@@ -5,7 +5,7 @@
 - vacuum ceiling vents
 - take scale, wng, bags, rhinos, rkymtn
 - setup 2 cams, mailbox
-- bring h-chair w/black foot rest, x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
+- bring hand truck, h-chair w/black foot rest, x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
