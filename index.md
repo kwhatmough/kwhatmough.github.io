@@ -1,5 +1,4 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- moving supplies for Steve
 - propane
 - income tax return
 - confirm expense reimbursement
