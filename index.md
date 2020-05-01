@@ -1,10 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
 - propane
 - income tax return
-- confirm expense reimbursement
 - vacuum ceiling vents
-- take scale, wng, bags, rhinos, rkymtn
-- setup 2 cams, mailbox
+- record key numbers
 - bring hand truck, h-chair w/black foot rest, x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
