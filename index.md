@@ -1,9 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
+- check mail
 - propane
 - income tax return
 - vacuum ceiling vents
-- record key numbers
-- bring hand truck, h-chair w/black foot rest, x bars w/locks, 1pr buckle covers, blue hat, rhinos, rkymtn
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
