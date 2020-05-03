@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- check mail
-- propane
+- fix stove
+- fix rigging, clean
+- propane, gas, fill spare
 - income tax return
 - vacuum ceiling vents
 - floor protector, CD cases, Vim Oxy-Gel
