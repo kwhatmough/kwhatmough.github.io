@@ -3,6 +3,7 @@
 - fix rigging, clean
 - fill spare
 - income tax return
+- low fric tape for 550
 - vacuum ceiling vents
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.
