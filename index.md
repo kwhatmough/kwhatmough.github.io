@@ -1,9 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
 - fix stove
 - fix rigging, clean
-- fill spare
 - income tax return
-- driveway
 - low fric tape for 550
 - vacuum ceiling vents
 - floor protector, CD cases, Vim Oxy-Gel
