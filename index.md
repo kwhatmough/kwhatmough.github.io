@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
+- Tim: log, rope, bwalk, stove, prop line letter
 - fix stove
-- fix rigging, clean
+- fix ez rigging, clean
 - income tax return
 - low fric tape for 550
 - vacuum ceiling vents
