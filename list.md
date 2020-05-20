@@ -6,8 +6,9 @@ Item | Unit price | Qty
 --- | --- | ---
 aluminum foil | $6.98 | 1
 carrots | $2.98 | 1
-small salad | $4.49 | 1
-wrap | $3.99 | 2
+small salad | $4.49 | 2
+wrap | $3.99 | 4
+spinach | $4.99 | 1
 
 ### Ken
 
