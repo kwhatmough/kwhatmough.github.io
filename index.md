@@ -1,5 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- log, rope, bwalk, prop line (planning)
+- fix gt dehumidifier
+- baskets, rope, bwalk, prop line (planning)
 - fix stove
 - fix ez rigging, clean
 - income tax return
