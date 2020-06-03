@@ -1,9 +1,6 @@
-- [list](list.html) [schedule](schedule.html) [fibon](fibon.html)
-- fix gt dehumidifier
+- [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - baskets, rope, bwalk, prop line (planning)
 - fix stove
-- fix ez rigging, clean
-- income tax return
 - vacuum ceiling vents
 - floor protector, CD cases, Vim Oxy-Gel
 - prescription eyewear, physio, etc.

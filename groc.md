@@ -1,0 +1,25 @@
+- bananas
+- 1 large kale salad bag
+- avocados
+- 1 large grape tomatoes
+- 3 zucchini
+- 2 packs mini potatoes
+- sliced cheddar
+- prosciutto or pepperoni
+- 2 loaves white bread
+- sweet buns
+- mini naan
+- 3 packs ground turkey or chicken
+- 4 chicken breasts
+- mozzarella
+- white basmati rice
+- jar of PC Thai mango curry
+- 1 large bag chocolate chips
+- water
+- Vileda super twist mop head
+- Mr. Clean
+- toilet bowl cleaner
+
+Bring Also
+- ranch dressing
+- 3 packs frozen sausages
