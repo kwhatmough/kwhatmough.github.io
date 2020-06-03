@@ -5,6 +5,7 @@
 - 3 zucchini
 - 2 packs mini potatoes
 - sliced cheddar
+- block cheddar
 - prosciutto or pepperoni
 - 2 loaves white bread
 - sweet buns
