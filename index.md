@@ -1,9 +1,12 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
+- find kit for ext cord
 - cut grass
 - condo 8pm
 - eyewear
+- elevate extension cord
 - backfill (4")
-- pump
+- remove steps
+- install pump
 - rope, bwalk, prop line (planning)
 - 446 issue
 - fix stove
