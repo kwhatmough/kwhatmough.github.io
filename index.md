@@ -1,5 +1,11 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- baskets, rope, bwalk, prop line (planning)
+- cut grass
+- condo 8pm
+- eyewear
+- backfill (4")
+- pump
+- rope, bwalk, prop line (planning)
+- 446 issue
 - fix stove
 - vacuum ceiling vents
 - floor protector, CD cases, Vim Oxy-Gel
