@@ -1,11 +1,9 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- find kit for ext cord
-- cut grass
-- condo 8pm
+- dads day
+- foam tape
 - eyewear
-- elevate extension cord
 - backfill (4")
-- remove steps
+- remove wooden steps
 - install pump
 - rope, bwalk, prop line (planning)
 - 446 issue
@@ -18,14 +16,10 @@
 - replace inducer motor (see email)
 - suit
 - export pwds
-- organize crawlspace
-- plug crawlspace vents
-- trim branches
 - fix wheel barrow
 - screw-eye holders for vertical bars
 - sell stuff
 - kitchen outlets
-- install security camera
 - try MEC and FB local MP
 - order spare drain
 - new power bar and router
