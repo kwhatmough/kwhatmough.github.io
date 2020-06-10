@@ -1,6 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- move rrock, setup marker
-- remove wooden steps
+- if possible: move rrock, raise brace
+- backfill
 - dads day
 - eyewear
 - install pump
