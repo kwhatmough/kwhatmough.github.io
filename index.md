@@ -1,9 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- dads day
-- foam tape
-- eyewear
-- backfill (4")
+- move rrock, setup marker
 - remove wooden steps
+- dads day
+- eyewear
 - install pump
 - rope, bwalk, prop line (planning)
 - 446 issue
