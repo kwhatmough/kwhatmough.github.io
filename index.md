@@ -1,6 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- if possible: move rrock, raise brace
-- backfill
+- outlet switch rating
+- pipe size
 - dads day
 - eyewear
 - install pump
