@@ -1,5 +1,12 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- outlet switch rating
+- PT
+  - 1x1x4 qty=28
+  - 2x4x10 qty=4
+  - 5/4x6x8 qty=1
+- Size 11 (total=9)
+  - 2 at bottom step
+  - 2 at inside corner
+  - 5 at corridor
 - pipe size
 - dads day
 - eyewear
