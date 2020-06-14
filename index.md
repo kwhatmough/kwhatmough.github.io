@@ -1,9 +1,12 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- cut grass
-- pipe size
+- Carol: SDM msg
 - dads day
+- T
+- fix sliding door
+- cut grass
+- to Strath: jacket, sausage, cake container, ?
 - eyewear
-- install pump
+- baskets, install pump, landing
 - rope, bwalk, prop line (planning)
 - fix stove
 - vacuum ceiling vents
