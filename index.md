@@ -1,10 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- tell Carol about cancellation
-- cut grass
-- H tues
+- 1.5" coupler, 90, NPT cleanout, straight, glue
 - to C/Strath: jacket, sausage, cake container, ?
 - dads day
-- 1.5" coupler, 90, NPT cleanout, straight, glue
 - M1 parition renewal
 - eyewear
 - baskets, install pump, landing
