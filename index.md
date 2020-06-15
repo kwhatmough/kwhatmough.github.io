@@ -1,9 +1,10 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- H tues, D wed
-- dads day
+- tell Carol about cancellation
 - cut grass
+- H tues
+- to C/Strath: jacket, sausage, cake container, ?
+- dads day
 - M1 parition renewal
-- to Strath: jacket, sausage, cake container, ?
 - eyewear
 - baskets, install pump, landing
 - rope, bwalk, prop line (planning)
