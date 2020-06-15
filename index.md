@@ -2,7 +2,6 @@
 - H tues, D wed
 - dads day
 - cut grass
-- wash Rav4
 - M1 parition renewal
 - to Strath: jacket, sausage, cake container, ?
 - eyewear
