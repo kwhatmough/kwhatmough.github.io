@@ -1,9 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - Carol: SDM msg
 - dads day
-- T
-- fix sliding door
 - cut grass
+- wash Rav4
 - to Strath: jacket, sausage, cake container, ?
 - eyewear
 - baskets, install pump, landing
@@ -22,6 +21,7 @@
 - sell stuff
 - kitchen outlets
 - try MEC and FB local MP
+- fix sliding door
 - order spare drain
 - new power bar and router
 - insulate range hood duct
