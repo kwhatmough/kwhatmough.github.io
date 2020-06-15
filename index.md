@@ -4,6 +4,7 @@
 - H tues
 - to C/Strath: jacket, sausage, cake container, ?
 - dads day
+- 1.5" coupler, 90, NPT cleanout, straight, glue
 - M1 parition renewal
 - eyewear
 - baskets, install pump, landing
