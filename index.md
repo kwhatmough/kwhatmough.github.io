@@ -1,8 +1,9 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- Carol: SDM msg
+- H tues, D wed
 - dads day
 - cut grass
 - wash Rav4
+- M1 parition renewal
 - to Strath: jacket, sausage, cake container, ?
 - eyewear
 - baskets, install pump, landing
