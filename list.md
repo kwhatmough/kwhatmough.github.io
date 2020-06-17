@@ -17,3 +17,9 @@ Item | Unit price | Qty
 Bacon pizza, large | $25.00 | 1
 Applelager, can | $2.92 | 1
 apple cranberry cider, bottle | $8.25 | 1
+Frozen sausage | $8.00 | 2
+Asparagus | $3.91 | 2
+Green beans | $1.73 | 2
+Potatoes | $4.60 | 1
+Blueberry pie | $12.99 | 1
+Apple crisp | $5.99 | 1
