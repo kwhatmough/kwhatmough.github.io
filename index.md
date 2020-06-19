@@ -1,7 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - empty central vac canister
-- 1.5" coupler, 90, NPT cleanout, straight, glue
-- to C/Strath: jacket, sausage, cake container, ?
+- to C/Strath: jacket, sausage, salad, cake container
 - dads day
 - M1 parition renewal
 - eyewear
