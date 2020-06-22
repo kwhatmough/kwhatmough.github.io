@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- dump, Hana's bike and helmet, Dyson
-- Isabel
+- Hana's bike and helmet, Dyson
+- code, Isabel
+- office: 32.5, kitchen: 31, dining room: 30, Gtown fold: 32.5/29.5, C fold: 29
 - M1 parition renewal
 - eyewear
 - baskets, install pump, landing
