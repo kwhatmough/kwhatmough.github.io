@@ -1,7 +1,5 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- empty central vac canister
-- to C/Strath: jacket, sausage, salad, cake container
-- dads day
+- dump, Hana's bike and helmet, Dyson
 - M1 parition renewal
 - eyewear
 - baskets, install pump, landing
