@@ -1,6 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- both sets of racks, toolbox, plumbing, dino
-- give code to Isabel
+- both racks, toolbox, plumbing, dino
+- Isabel: M, code
 - office: 32.5, kitchen: 31, dining room: 30, Gtown fold: 32.5/29.5, C fold: 29
 - M1 parition renewal
 - eyewear
@@ -9,7 +9,8 @@
 - rope, bwalk, prop line (planning)
 - fix stove
 - vacuum ceiling vents
-- floor protector, CD cases, Vim Oxy-Gel
+- sell stuff
+- floor protector, CD cases, Vim Oxy-Gel, twist mop head
 - prescription eyewear, physio, etc.
 - resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
@@ -18,7 +19,6 @@
 - export pwds
 - fix wheel barrow
 - screw-eye holders for vertical bars
-- sell stuff
 - kitchen outlets
 - try MEC and FB local MP
 - fix sliding door
