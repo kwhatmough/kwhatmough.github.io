@@ -1,7 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- both racks, toolbox, plumbing, dino
+- setup RMtn, bring doc, chair, toolbox, plumbing, dino
 - Isabel: M, code
-- office: 32.5, kitchen: 31, dining room: 30, Gtown fold: 32.5/29.5, C fold: 29
 - M1 parition renewal
 - eyewear
 - SimpleHuman J
@@ -29,5 +28,6 @@
 - list SDBs and accounts
 - record serial numbers (incl V5)
 - GMP gift card
+- xbars 58" o.c., front edge 14", rear edge 9"
 - pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything)
 - Y's: 24, 45, 49, 78*3, 89, D3
