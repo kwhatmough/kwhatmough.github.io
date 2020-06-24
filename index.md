@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- setup RMtn, bring doc, chair, toolbox, plumbing, dino
-- 1.5" tee/cleanout, vinyl concrete patching compound, silicone, (trowel, wire brush)
+- setup RMtn
+- bring saddles, bike seat, chair, cushion, toolbox, plumbing, trowel, wire brush, dino
+- 1.5" tee/cleanout, vinyl concrete patching compound, silicone
 - Isabel: M, code
 - M1 parition renewal
 - eyewear
