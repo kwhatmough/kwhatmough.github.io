@@ -1,4 +1,5 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
+- check Pats
 - wash sheets
 - garbage out
 - test code
