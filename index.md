@@ -1,4 +1,5 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
+- calibrate, more 1.5s, wifi, groc
 - check Pats
 - wash sheets
 - garbage out
