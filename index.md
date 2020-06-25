@@ -1,12 +1,15 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- setup RMtn
-- bring saddles, bike seat, chair, cushion, toolbox, plumbing, trowel, dino, cement, silicone
-- Isabel: M, code
+- wash sheets
+- garbage out
+- test code
+- code to Isabel
+- bring saddles, chair, cushion, toolbox, pump
 - M1 parition renewal
 - eyewear
 - SimpleHuman J
 - baskets, install pump, landing
 - rope, bwalk, prop line (planning)
+- cracks
 - fix stove
 - vacuum ceiling vents
 - sell stuff
