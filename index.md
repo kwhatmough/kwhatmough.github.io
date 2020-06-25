@@ -1,11 +1,10 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- calibrate, more 1.5s, wifi, groc
-- check Pats
 - wash sheets
-- garbage out
-- test code
-- code to Isabel
+- check Pats
+- remove seat post and plug it
 - bring saddles, chair, cushion, toolbox, pump
+- garbage out, test code
+- code to Isabel
 - M1 parition renewal
 - eyewear
 - SimpleHuman J
