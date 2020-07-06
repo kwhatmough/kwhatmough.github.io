@@ -11,6 +11,7 @@
   - eyewear
   - Kona seat post
   - M1 parition renewal
+  - RAV4 headlights
 - bring
   - old BBQ cover for chairs
   - bin of cleaning supplies
