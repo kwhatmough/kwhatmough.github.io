@@ -3,7 +3,7 @@
   - condo 7:15
   - D bday
   - deposit joint chq
-  - wire(24ga), 7443(x2), nozzle, brush, small compost bags, skewers, cott food list
+  - small compost bags, skewers, cott food list
   - twist mop head
   - Carol's MBP
   - deed(!)
@@ -12,6 +12,7 @@
   - RAV4 headlights
 - bring
   - old BBQ cover for chairs
+  - large scrub brush
   - bin of cleaning supplies
   - cement kit
 - C
