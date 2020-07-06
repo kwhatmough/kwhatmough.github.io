@@ -2,6 +2,7 @@
 - send parking pass and reply
 - notify post office
 - D bday
+- condo cleaning
 - deposit joint chq
 - wire (24), nozzle, brush, small compost bags
 - cott food list
