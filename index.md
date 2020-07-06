@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - send parking pass and reply
 - notify post office
+- D bday
 - deposit joint chq
 - wire (24), nozzle, brush, small compost bags
 - cott food list
