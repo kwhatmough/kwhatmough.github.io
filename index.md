@@ -1,9 +1,9 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - condo 7:15
   - D bday
   - deposit joint chq
-  - small compost bags, skewers, cott food list
+  - small compost bags, skewers, cashews, Bear N maple granola
+  - cott food list
   - twist mop head
   - Carol's MBP
   - deed(!)
