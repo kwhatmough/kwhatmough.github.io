@@ -1,10 +1,17 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - send parking pass and reply
 - notify post office
+- deposit joint chq
 - wire (24), nozzle, brush, small compost bags
+- cott food list
+- Carol's MBP
+- deed(!)
 - Kona seat post
-- M1 parition renewal
 - eyewear
+- M1 parition renewal
+- door and window hinges
+- old BBQ cover for chairs
+- CRA refund
 - baskets, install pump, landing
 - rope, bwalk, prop line (planning)
 - cracks
