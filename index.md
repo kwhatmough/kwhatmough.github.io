@@ -4,9 +4,8 @@
   - condo cleaning
   - D bday
   - deposit joint chq
-  - wire (24), nozzle, brush, small compost bags
+  - wire (24), nozzle, brush, small compost bags, skewers, cott food list
   - twist mop head
-  - cott food list
   - Carol's MBP
   - deed(!)
   - eyewear
@@ -17,6 +16,7 @@
   - bin of cleaning supplies
   - cement kit
 - C
+  - hang pictures
   - door and window hinges
   - baskets, install pump, landing
   - bwalk, prop line (planning)
