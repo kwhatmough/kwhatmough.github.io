@@ -1,7 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - notify post office
-  - condo cleaning
+  - condo 7:15
   - D bday
   - deposit joint chq
   - wire (24), nozzle, brush, small compost bags, skewers, cott food list
@@ -9,7 +8,6 @@
   - Carol's MBP
   - deed(!)
   - eyewear
-  - Kona seat post
   - M1 parition renewal
   - RAV4 headlights
 - bring
