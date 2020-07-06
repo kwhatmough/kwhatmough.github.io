@@ -3,7 +3,7 @@
   - condo 7:15
   - D bday
   - deposit joint chq
-  - wire (24), nozzle, brush, small compost bags, skewers, cott food list
+  - wire(24ga), 7443(x2), nozzle, brush, small compost bags, skewers, cott food list
   - twist mop head
   - Carol's MBP
   - deed(!)
