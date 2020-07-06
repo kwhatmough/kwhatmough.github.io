@@ -1,38 +1,40 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- send parking pass and reply
-- notify post office
-- D bday
-- condo cleaning
-- deposit joint chq
-- wire (24), nozzle, brush, small compost bags
-- cott food list
-- Carol's MBP
-- deed(!)
-- Kona seat post
-- eyewear
-- M1 parition renewal
-- door and window hinges
-- old BBQ cover for chairs
-- CRA refund
-- baskets, install pump, landing
-- rope, bwalk, prop line (planning)
-- cracks
+- GT
+  - notify post office
+  - condo cleaning
+  - D bday
+  - deposit joint chq
+  - wire (24), nozzle, brush, small compost bags
+  - twist mop head
+  - cott food list
+  - Carol's MBP
+  - deed(!)
+  - eyewear
+  - Kona seat post
+  - M1 parition renewal
+- bring
+  - old BBQ cover for chairs
+  - bin of cleaning supplies
+  - cement kit
+- C
+  - door and window hinges
+  - baskets, install pump, landing
+  - bwalk, prop line (planning)
+  - cracks
+  - fix wheel barrow
+  - screw-eye holders for vertical bars
 - fix stove
 - vacuum ceiling vents
 - sell stuff
 - floor protector, CD cases, Vim Oxy-Gel, twist mop head
+- confirm CRA refund
 - prescription eyewear, physio, etc.
-- resident parking pass (RAV4 was R1304)
 - finish installing shelves in dining room
 - replace inducer motor (see email)
 - suit
-- export pwds
-- fix wheel barrow
-- screw-eye holders for vertical bars
 - kitchen outlets
 - try MEC and FB local MP
 - fix sliding door
-- order spare drain
 - new power bar and router
 - insulate range hood duct
 - clean basement floor drain
@@ -41,4 +43,4 @@
 - GMP gift card
 - xbars 58" o.c., front edge 14", rear edge 9"
 - pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything)
-- Y's: 24, 45, 49, 78*3, 89, D3
+- Y's order: 24, 45, 49, 78*3, 89, D3
