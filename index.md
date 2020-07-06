@@ -1,13 +1,10 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
-- wash sheets
-- check Pats
-- remove seat post and plug it
-- bring saddles, chair, cushion, toolbox, pump
-- garbage out, test code
-- code to Isabel
+- send parking pass and reply
+- notify post office
+- wire (24), nozzle, brush, small compost bags
+- Kona seat post
 - M1 parition renewal
 - eyewear
-- SimpleHuman J
 - baskets, install pump, landing
 - rope, bwalk, prop line (planning)
 - cracks
