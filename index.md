@@ -10,9 +10,11 @@
   - eyewear
   - M1 parition renewal
   - RAV4 headlights
+  - door handles, rekey
 - bring
   - old BBQ cover for chairs
   - large scrub brush
+  - lock box
   - bin of cleaning supplies
   - cement kit
 - C
