@@ -1,6 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - D bday
+  - bday card
   - deposit joint chq
   - small compost bags, skewers, cashews, Bear N maple granola
   - cott food list
@@ -9,7 +9,7 @@
   - deed(!)
   - eyewear
   - M1 parition renewal
-  - RAV4 headlights
+  - mag, replacement screw bolt and bulb, install 2 last bolts
   - door handles, rekey
 - bring
   - old BBQ cover for chairs
