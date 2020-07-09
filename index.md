@@ -1,5 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
+  - garbage out/bag
   - bth, laun, garage stuff, mf, fridge, wtr ches, contacts, bin of deterg
   - meal, card, gift
   - deed(!)
