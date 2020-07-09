@@ -1,15 +1,13 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - bday card
-  - deposit joint chq
-  - small compost bags, skewers, cashews, Bear N maple granola
-  - cott food list
-  - twist mop head
-  - Carol's MBP
+  - ext cord, replacement screw
+  - meal, card, gift
   - deed(!)
-  - eyewear
   - M1 parition renewal
-  - mag, replacement screw bolt and bulb, install 2 last bolts
+  - deposit joint chq
+  - Carol's MBP
+  - eyewear
+  - replace bulb, install 2 last bolts
   - door handles, rekey
 - bring
   - old BBQ cover for chairs
