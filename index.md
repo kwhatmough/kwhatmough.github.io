@@ -1,5 +1,6 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
+  - Isabel, cake, cran juice, BBQ
   - C's mail, laun
   - M1 parition renewal
   - deposit joint chq
