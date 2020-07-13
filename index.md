@@ -1,10 +1,10 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - Isabel, cake, cran juice, BBQ
-  - C's mail, laun
+  - set a time, Isabel, cake
+  - disposals from basement f/f combo
   - M1 parition renewal
   - deposit joint chq
-  - small and large bins, shelves
+  - small and large bins
   - T owners manual, rear storage
   - med 3M hooks, hollow door anchors, ceiling hooks (rounded)
   - deed(!)
