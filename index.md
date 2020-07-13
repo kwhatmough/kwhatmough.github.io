@@ -3,11 +3,10 @@
   - set a time, Isabel, cake
   - gift bag
   - disposals from basement f/f combo
-  - M1 parition renewal
-  - deposit joint chq
   - small and large bins
   - T owners manual, rear storage
-  - med 3M hooks, hollow door anchors, ceiling hooks (rounded)
+  - M1 parition renewal
+  - deposit joint chq
   - deed(!)
   - Carol's MBP
   - eyewear
