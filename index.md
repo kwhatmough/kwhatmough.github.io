@@ -1,24 +1,23 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - garbage out/bag
-  - bth, laun, garage stuff, mf, fridge, wtr ches, contacts, bin of deterg
-  - meal, card, gift
-  - deed(!)
+  - C's mail, laun
   - M1 parition renewal
   - deposit joint chq
+  - small and large bins, shelves
+  - T owners manual, rear storage
+  - med 3M hooks, hollow door anchors, ceiling hooks (rounded)
+  - deed(!)
   - Carol's MBP
   - eyewear
-  - replace bulb, install 2 last bolts
   - door handles, rekey
 - bring
-  - old BBQ cover for chairs
-  - large scrub brush
   - lock box
-  - bin of cleaning supplies
+  - mitre box
   - cement kit
 - C
-  - hang pictures
-  - door and window hinges
+  - shelves and ceiling hooks
+  - towel hook on door, med 3M hooks in closet
+  - trim branches at far end of turnaround
   - baskets, install pump, landing
   - bwalk, prop line (planning)
   - cracks
