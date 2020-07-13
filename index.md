@@ -1,6 +1,7 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
   - set a time, Isabel, cake
+  - gift bag
   - disposals from basement f/f combo
   - M1 parition renewal
   - deposit joint chq
