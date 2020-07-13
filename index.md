@@ -1,9 +1,8 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - set a time, Isabel, cake
-  - gift bag
   - disposals from basement f/f combo
   - small and large bins
+  - cash
   - T owners manual, rear storage
   - M1 parition renewal
   - deposit joint chq
@@ -12,6 +11,7 @@
   - eyewear
   - door handles, rekey
 - bring
+  - cash
   - lock box
   - mitre box
   - cement kit
