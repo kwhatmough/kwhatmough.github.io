@@ -1,9 +1,11 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
+  - hammock
   - disposals from basement f/f combo
-  - small and large bins
+  - xfer out of cibc
+  - replace downspout extension
   - cash
-  - T owners manual, rear storage
+  - T rear storage
   - M1 parition renewal
   - deposit joint chq
   - deed(!)
