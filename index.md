@@ -3,7 +3,7 @@
   - hammock
   - disposals from basement f/f combo
   - xfer out of cibc
-  - replace downspout extension
+  - replace downspout extension, ScrubFree
   - cash
   - T rear storage
   - M1 parition renewal
