@@ -1,10 +1,9 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - hammock
-  - disposals from basement f/f combo
   - xfer out of cibc
   - replace downspout extension, ScrubFree
   - cash
+  - failed delivery
   - T rear storage
   - M1 parition renewal
   - deposit joint chq
