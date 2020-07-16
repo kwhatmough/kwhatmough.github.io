@@ -1,9 +1,9 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
-  - lunch for 4, hand sanitizer
+  - hand sanitizer
   - xfer out of cibc
   - cash
-  - replace downspout extension, ScrubFree
+  - 1.5 to 1.25 threaded, downspout extension
   - M1 parition renewal
   - deposit joint chq
   - T rear storage
