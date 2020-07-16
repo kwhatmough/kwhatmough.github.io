@@ -1,12 +1,12 @@
 - [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
 - GT
+  - lunch for 4, hand sanitizer
   - xfer out of cibc
-  - replace downspout extension, ScrubFree
   - cash
-  - failed delivery
-  - T rear storage
+  - replace downspout extension, ScrubFree
   - M1 parition renewal
   - deposit joint chq
+  - T rear storage
   - deed(!)
   - Carol's MBP
   - eyewear
