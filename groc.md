@@ -1,4 +1,0 @@
-- water
-- Vileda super twist mop head
-- Mr. Clean
-- toilet bowl cleaner

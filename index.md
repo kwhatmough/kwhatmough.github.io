@@ -1,10 +1,10 @@
-- [list](list.html) [schedule](schedule.html) [fibon](fibon.html) [groc](groc.html)
+- [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - xfer out of cibc
-  - cash
+  - return xponder and cancel pass
+  - xfer into M1
   - downspout extension
   - M1 parition renewal
-  - deposit joint chq
+  - deposit joint chq, chq from M
   - T rear storage
   - deed(!)
   - Carol's MBP
