@@ -1,19 +1,17 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - return xponder and cancel pass
+  - red kayak, paddle, small inflatable, oars
+  - M1 parition renewal
   - xfer into M1
   - downspout extension
-  - M1 parition renewal
-  - deposit joint chq, chq from M
+  - deposit joint chq
   - T rear storage
   - deed(!)
   - Carol's MBP
   - eyewear
   - door handles, rekey
 - bring
-  - cash
   - lock box
-  - mitre box
   - cement kit
 - C
   - shelves and ceiling hooks
