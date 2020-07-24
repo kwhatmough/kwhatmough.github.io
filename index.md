@@ -14,6 +14,14 @@
   - lock box
   - cement kit
 - C
+  - shut off garden valve
+  - C's MBP
+  - finish weeds and grass
+  - fix trimmer: feed line, shim for throttle
+  - BBQ propane
+  - crawl space incl items near door to bring up
+  - shoe rack in mech room
+  - stuff for Steve (red, paddle, inflat, oars), Norco
   - shelves and ceiling hooks
   - towel hook on door, med 3M hooks in closet
   - trim branches at far end of turnaround
