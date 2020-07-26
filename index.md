@@ -1,5 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - Isabel Mon!
   - M1 partition renewal
   - xfer into M1
   - downspout extension
@@ -10,6 +11,7 @@
   - eyewear
   - door handles, rekey
 - bring
+  - xbars etc.
   - tennis racket
   - lock box
   - cement kit
@@ -43,6 +45,13 @@
 - list SDBs and accounts
 - record serial numbers (incl V5)
 - GMP gift card
-- xbars 58" o.c., front edge 14", rear edge 9"
+- xbars 58" o.c., front edge 14", rear edge 9" (**) to be confirmed
+- set:
+  1. Position the liftgate manually to the preferred height
+  1. Press the liftgate close button for more than 3 seconds
+  1. Close the liftgate manually after hearing the buzzer sound
+- reset:
+  1. While pressing the liftgate close button, press the liftgate handle switch for more than 3 seconds (the chime will sound)
+  1. Close the liftgate manually
 - pivot is keyed but needs to be secured for transport, brace the pedals and the understern and the overstern, double-back the ends of the control line then place the wedge at the apex of the loop then slowly take-up slack (careful - this is not easily reversible) then fine adjust and finally lock with pin and then fasten the wedges to the pivot and insert cotter pins, for pull-up line: note the knob through which to feed the pull-line, so feed bike wire then dental floss then the pull-line otherwise it will jam inside https://www.youtube.com/watch?v=sp7NPU7QkoY https://www.youtube.com/watch?v=130dOQvHuWU https://www.jyllingesejlklub.dk/wp-content/uploads/2017/01/smarttrack-top-mount.pdf See "knot slot" (so good we are not missing anything)
 - Y's order: 24, 45, 49, (78*3), 89, (D3)
