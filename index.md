@@ -1,7 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - red kayak, paddle, small inflatable, oars
-  - M1 parition renewal
+  - M1 partition renewal
   - xfer into M1
   - downspout extension
   - deposit joint chq
@@ -11,15 +10,14 @@
   - eyewear
   - door handles, rekey
 - bring
+  - tennis racket
   - lock box
   - cement kit
 - C
-  - finish weeds and grass
-  - crawl space incl items near door to bring up
-  - towel hook on door, med 3M hooks in closet
-  - trim branches at far end of turnaround
   - stuff for Steve (red, paddle, inflat, oars), Norco
+  - towel hook on door, med 3M hooks in closet
   - fix trimmer: feed line, shim for throttle
+  - finish weeds and grass
   - BBQ propane
   - shelves and ceiling hooks
   - baskets, install pump, landing
