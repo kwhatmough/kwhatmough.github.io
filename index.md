@@ -1,5 +1,7 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - Ben re RESP
+  - fix spray head
   - softener salt, central vac canister, furnace filter
   - M1 partition renewal
   - xfer into M1
