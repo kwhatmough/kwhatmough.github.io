@@ -1,23 +1,22 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Isabel Mon!
-  - [Airhead Repair Kit, 079-8208-4, 16, Aisle 30](https://www.canadiantire.ca/en/pdp/airhead-repair-kit-0798208p.html)
+  - softener salt, central vac canister, furnace filter
   - M1 partition renewal
   - xfer into M1
   - downspout extension
   - deposit joint chq
   - T rear storage
-  - deed(!)
+  - deed, c payments, Sheldon
   - Carol's MBP
   - eyewear
   - door handles, rekey
 - bring
+  - smart key
   - xbars etc.
   - tennis racket
   - lock box
   - cement kit
 - C
-  - stuff for Steve (red, paddle, inflat, oars), Norco
   - towel hook on door, med 3M hooks in closet
   - fix trimmer: feed line, shim for throttle
   - finish weeds and grass
