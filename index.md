@@ -1,11 +1,10 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Ben re RESP
-  - fix spray head
+  - xfer into M1
+  - reply to Ben
   - softener salt, central vac canister, furnace filter
   - M1 partition renewal
-  - xfer into M1
-  - downspout extension
+  - downspout extension, packing tape
   - deposit joint chq
   - T rear storage
   - deed, c payments, Sheldon
@@ -16,6 +15,7 @@
   - smart key
   - xbars etc.
   - tennis racket
+  - s machine, xbx
   - lock box
   - cement kit
 - C
