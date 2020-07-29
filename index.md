@@ -1,8 +1,7 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - xfer into M1
-  - reply to Ben
   - softener salt, central vac canister, furnace filter
+  - reply to Ben
   - M1 partition renewal
   - downspout extension, packing tape
   - deposit joint chq
@@ -16,12 +15,12 @@
   - xbars etc.
   - tennis racket
   - s machine, xbx
-  - lock box
   - cement kit
+  - lock box
 - C
   - towel hook on door, med 3M hooks in closet
   - fix trimmer: feed line, shim for throttle
-  - finish weeds and grass
+  - weeds and grass
   - BBQ propane
   - shelves and ceiling hooks
   - baskets, install pump, landing
