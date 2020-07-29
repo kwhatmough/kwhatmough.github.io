@@ -1,8 +1,8 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - softener salt, central vac canister, furnace filter
   - reply to Ben
   - M1 partition renewal
+  - furnace filter
   - downspout extension, packing tape
   - deposit joint chq
   - T rear storage
@@ -11,7 +11,6 @@
   - eyewear
   - door handles, rekey
 - bring
-  - smart key
   - xbars etc.
   - tennis racket
   - s machine, xbx
