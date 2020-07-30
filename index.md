@@ -12,8 +12,8 @@
   - door handles, rekey
 - bring
   - xbars etc.
-  - tennis racket
-  - s machine, xbx
+  - fzn sausage, burritos
+  - t racket, s machine, xbx
   - cement kit
   - lock box
 - C
