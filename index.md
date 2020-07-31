@@ -1,7 +1,7 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - M&D re Mon
   - reply to Ben
+  - H cleaning, allowance
   - M1 partition renewal
   - furnace filter
   - downspout extension, packing tape
