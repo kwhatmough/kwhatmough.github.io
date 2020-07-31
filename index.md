@@ -43,7 +43,7 @@
 - list SDBs and accounts
 - record serial numbers (incl V5)
 - GMP gift card
-- xbars 58" o.c., front edge 14", rear edge 9" (**) to be confirmed
+- front edge 12.25", rear edge 8.5" (57.75" o.c.)
 - set:
   1. Position the liftgate manually to the preferred height
   1. Press the liftgate close button for more than 3 seconds
