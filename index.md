@@ -1,5 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - M&D re Mon
   - reply to Ben
   - M1 partition renewal
   - furnace filter
@@ -11,9 +12,6 @@
   - eyewear
   - door handles, rekey
 - bring
-  - xbars etc.
-  - fzn sausage, burritos
-  - t racket, s machine, xbx
   - cement kit
   - lock box
 - C
