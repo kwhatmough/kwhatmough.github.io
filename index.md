@@ -1,15 +1,12 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - reply to Ben
-  - H cleaning
   - M1 partition renewal
   - furnace filter
   - downspout extension, packing tape
+  - eyewear
   - deposit joint chq
   - T rear storage
   - deed, c payments, Sheldon
-  - Carol's MBP
-  - eyewear
   - door handles, rekey
 - bring
   - cement kit
