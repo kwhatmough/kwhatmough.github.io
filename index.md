@@ -1,26 +1,23 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - video for Ralph (Aug 16)
   - M1 partition renewal
   - furnace filter
   - downspout extension, packing tape
   - eyewear
   - deposit joint chq
-  - T rear storage
   - deed, c payments, Sheldon
   - door handles, rekey
 - bring
+  - air beds, boat, ...
   - cement kit
   - lock box
 - C
-  - towel hook on door, med 3M hooks in closet
-  - fix trimmer: feed line, shim for throttle
-  - weeds and grass
   - BBQ propane
   - shelves and ceiling hooks
   - baskets, install pump, landing
   - bwalk, prop line (planning)
   - cracks
-  - fix wheel barrow
   - screw-eye holders for vertical bars
 - fix stove
 - vacuum ceiling vents
