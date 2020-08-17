@@ -1,19 +1,23 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - video for Ralph (Aug 16)
-  - M1 partition renewal
+  - check mail, oil, T rear deck
+  - laundry
+  - beer
+  - set aside next paper
+  - deposit joint chq
   - furnace filter
+  - dryer (Rob K)
   - downspout extension, packing tape
   - eyewear
-  - deposit joint chq
   - deed, c payments, Sheldon
   - door handles, rekey
 - bring
-  - air beds, boat, ...
+  - air bed, beer, ...
   - cement kit
   - lock box
+- return
+  - J hooks
 - C
-  - BBQ propane
   - shelves and ceiling hooks
   - baskets, install pump, landing
   - bwalk, prop line (planning)
