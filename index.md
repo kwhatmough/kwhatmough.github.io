@@ -1,8 +1,8 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - check mail, oil, T rear deck
-  - laundry
-  - beer
+  - T rear deck
+  - beer, deposit cheque
+  - garbage out
   - set aside next paper
   - deposit joint chq
   - furnace filter
