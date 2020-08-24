@@ -1,7 +1,10 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - garbage out
-  - set aside next paper
+  - J to S
+  - paper and paper to MD
+  - laundry
+  - 3 registrations
+  - paint etc.
   - deposit joint chq
   - furnace filter
   - dryer (Rob K)
@@ -10,12 +13,10 @@
   - deed, c payments, Sheldon
   - door handles, rekey
 - bring
-  - air bed, beer, ...
   - cement kit
-  - lock box
-- return
-  - J hooks
 - C
+  - trim branches
+  - painting
   - shelves and ceiling hooks
   - baskets, install pump, landing
   - bwalk, prop line (planning)
