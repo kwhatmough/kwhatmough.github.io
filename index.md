@@ -1,18 +1,25 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - J to S
-  - paper and paper to MD
-  - laundry
-  - 3 registrations
-  - paint etc.
+  - nectarines, garbage
+  - HH
+    - downspout extension
+    - packing tape
+    - masking tape
+    - brushes
+    - roller
+    - tray
+    - scraper
+    - 5" 8-hole disks
+  - pickup paint, stir sticks
+  - dryer (Rob K)
   - deposit joint chq
   - furnace filter
-  - dryer (Rob K)
-  - downspout extension, packing tape
   - eyewear
   - deed, c payments, Sheldon
   - door handles, rekey
 - bring
+  - sander
+  - edger
   - cement kit
 - C
   - trim branches
