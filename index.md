@@ -4,13 +4,10 @@
   - HH
     - downspout extension
     - packing tape
-    - masking tape
-    - brushes
-    - roller
-    - tray
-    - scraper
+    - hand scraper/brush
+    - air can
     - 5" 8-hole disks
-  - pickup paint, stir sticks
+  - paint order, stir sticks
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
@@ -19,7 +16,7 @@
   - door handles, rekey
 - bring
   - sander
-  - edger
+  - painting tools
   - cement kit
 - C
   - trim branches
