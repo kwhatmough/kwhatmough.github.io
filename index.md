@@ -7,6 +7,7 @@
     - hand scraper/brush
     - air can
     - 5" 8-hole disks
+    - Mr Clean
   - paint order, stir sticks
   - dryer (Rob K)
   - deposit joint chq
