@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - water, cshw, ccn oil, Brodie flour
+  - water, cshw, ccn oil, sl ched, gldn gran
   - paint pail liners, extension handle, Mr Clean
   - paint order, stir sticks
   - downspout extension, passage knob
@@ -15,6 +15,7 @@
   - painting tools
   - cement kit
 - C
+  - Brodie flour, bagels, gldn gran
   - cut grass, branches
   - replace rotten trim
   - scrape/sand/clean
