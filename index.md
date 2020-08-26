@@ -1,15 +1,9 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - nectarines, garbage
-  - HH
-    - downspout extension
-    - packing tape
-    - hand scraper/brush
-    - air can
-    - 5" 8-hole disks
-    - Mr Clean
+  - Mr Clean
   - paint order, stir sticks
   - dryer (Rob K)
+  - downspout extension, passage knob
   - deposit joint chq
   - furnace filter
   - eyewear
