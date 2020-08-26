@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Mr Clean
+  - paint pail liners, extension handle, Mr Clean
   - paint order, stir sticks
   - dryer (Rob K)
   - downspout extension, passage knob
@@ -14,8 +14,10 @@
   - painting tools
   - cement kit
 - C
-  - trim branches
-  - painting
+  - cut grass, branches
+  - replace rotten trim
+  - scrape/sand/clean
+  - prime/mask/paint
   - shelves and ceiling hooks
   - baskets, install pump, landing
   - bwalk, prop line (planning)
