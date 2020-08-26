@@ -1,9 +1,10 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - water, cshw, ccn oil, Brodie flour
   - paint pail liners, extension handle, Mr Clean
   - paint order, stir sticks
-  - dryer (Rob K)
   - downspout extension, passage knob
+  - dryer (Rob K)
   - deposit joint chq
   - furnace filter
   - eyewear
