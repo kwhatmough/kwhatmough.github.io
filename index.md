@@ -1,27 +1,25 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - water, cshw, ccn oil, sl ched, gldn gran
-  - paint pail liners, extension handle, Mr Clean
-  - paint order, stir sticks
-  - downspout extension, passage knob
+  - call Mike
+  - cash
+  - downspout extension
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
   - eyewear
   - deed, c payments, Sheldon
   - door handles, rekey
-- bring
-  - sander
-  - painting tools
-  - cement kit
+  - Brodie flour
 - C
-  - Brodie flour, bagels, gldn gran
-  - cut grass, branches
-  - replace rotten trim
+  - level and fill baskets, secure lids, backfill
+  - cut grass
+  - remove rotten trim
   - scrape/sand/clean
-  - prime/mask/paint
-  - shelves and ceiling hooks
-  - baskets, install pump, landing
+  - mask metal edging
+  - prime/paint
+  - shelves and organizers
+  - install pump
+  - remove/store steps to landing, fix railing
   - bwalk, prop line (planning)
   - cracks
   - screw-eye holders for vertical bars
