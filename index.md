@@ -11,12 +11,12 @@
   - door handles, rekey
   - Brodie flour
 - C
-  - level and fill baskets, secure lids, backfill
+  - white (soft gloss) of metal and all wood trim
+  - unmask metal
+  - inukshuk edges and then roller
   - cut grass
-  - remove rotten trim
-  - scrape/sand/clean
-  - mask metal edging
-  - prime/paint
+  - level and fill baskets, secure lids, backfill
+  - largest for in front of armour stone
   - shelves and organizers
   - install pump
   - remove/store steps to landing, fix railing
