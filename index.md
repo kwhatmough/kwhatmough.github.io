@@ -1,7 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - call Mike
-  - cash
+  - cash, Mike, remind H, prep for mtg
   - downspout extension
   - dryer (Rob K)
   - deposit joint chq
@@ -11,9 +10,7 @@
   - door handles, rekey
   - Brodie flour
 - C
-  - white (soft gloss) of metal and all wood trim
-  - unmask metal
-  - inukshuk edges and then roller
+  - bike, cross bars, Rky Mtn
   - cut grass
   - level and fill baskets, secure lids, backfill
   - largest for in front of armour stone
