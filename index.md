@@ -1,6 +1,9 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cash, Mike, remind H, prep for mtg
+  - email Mike re Monday around 3:30pm?
+  - bring olive oil and mat
+  - cash
+  - prep for mtg
   - downspout extension
   - dryer (Rob K)
   - deposit joint chq
@@ -10,7 +13,7 @@
   - door handles, rekey
   - Brodie flour
 - C
-  - cut grass
+  - cut grass incl mweed
   - level and fill baskets, secure lids, backfill
   - largest for in front of armour stone
   - shelves and organizers
