@@ -10,7 +10,6 @@
   - door handles, rekey
   - Brodie flour
 - C
-  - bike, cross bars, Rky Mtn
   - cut grass
   - level and fill baskets, secure lids, backfill
   - largest for in front of armour stone
