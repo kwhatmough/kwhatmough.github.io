@@ -1,8 +1,5 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - email Mike re Monday around 3:30pm?
-  - bring olive oil and mat
-  - cash
   - prep for mtg
   - downspout extension
   - dryer (Rob K)
