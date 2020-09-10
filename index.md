@@ -1,14 +1,19 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - fasteners for yellow w barrow
+  - deed, c payments, Sheldon
   - downspout extension
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
   - eyewear
-  - deed, c payments, Sheldon
   - door handles, rekey
-  - Brodie flour
+- bring
+  - Brodie flour, passage knob
+  - Maria's stuff
+  - Norco and pillows
+  - Ne, Srk
+  - small fan
 - C
   - cut grass incl mweed
   - level and fill baskets, secure lids, backfill
