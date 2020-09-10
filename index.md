@@ -1,6 +1,7 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - fasteners for yellow w barrow
+  - cut grass
+  - fasteners for yellow w barrow, ktl bell?
   - deed, c payments, Sheldon
   - downspout extension
   - dryer (Rob K)
