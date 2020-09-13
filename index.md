@@ -1,18 +1,17 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - records
+  - download transactions from M1
+  - collect existing e invoices
+  - scan old papers of relevance
   - Jason re invoices
   - D re assessment and tax return
   - Manu re cheque photos
-  - download transactions from M1
-  - collect existing invoices
-  - scan old papers of relevance
   - capture photos from SW website
 - GT
   - ins co re premiums for H
-  - book tests
   - find training school
   - deed, c payments, Sheldon
-  - ktl bell, downspout extension
+  - ktl bell
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
