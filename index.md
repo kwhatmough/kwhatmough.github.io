@@ -8,6 +8,7 @@
   - Manu re cheque photos
   - capture photos from SW website
 - GT
+  - call D re comp issue
   - ins co re premiums for H
   - find training school
   - deed, c payments, Sheldon
