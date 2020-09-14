@@ -1,33 +1,30 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - records
-  - download transactions from M1
-  - collect existing e invoices
-  - scan old papers of relevance
-  - Jason re invoices
-  - D re assessment and tax return
-  - Manu re cheque photos
-  - capture photos from SW website
+  - print current repo and add to folder
+  - scan old papers, add to repo, and return to folder
+  - add copy of D tax return
 - GT
-  - call D re comp issue
   - ins co re premiums for H
   - find training school
-  - deed, c payments, Sheldon
-  - ktl bell
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
   - eyewear
   - door handles, rekey
+  - ktl bell
 - bring
   - beer, Brodie flour, passage knob
   - Maria's stuff(?)
   - Norco and pillows
-  - Ne, fasteners, filters, Srk
+  - Ne, fasteners, filters, Srk, long handle
   - small fan
 - return
   - black bike w/accessories and pillows
   - painting tools for basement stairs
+  - small of Inukshuk for side door
+  - smart key kit
 - C
+  - rekey, private sign
   - cut grass incl mweed
   - level and fill baskets, secure lids, backfill
   - largest for in front of armour stone
