@@ -19,11 +19,14 @@
   - eyewear
   - door handles, rekey
 - bring
-  - Brodie flour, passage knob
-  - Maria's stuff
+  - beer, Brodie flour, passage knob
+  - Maria's stuff(?)
   - Norco and pillows
   - Ne, fasteners, filters, Srk
   - small fan
+- return
+  - black bike w/accessories and pillows
+  - painting tools for basement stairs
 - C
   - cut grass incl mweed
   - level and fill baskets, secure lids, backfill
