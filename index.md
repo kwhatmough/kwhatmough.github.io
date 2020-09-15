@@ -15,7 +15,7 @@
   - Ne, fasteners, filters, Srk, long handle
   - small fan
 - return
-  - black bike w/accessories and pillows
+  - black bike w/accessories
   - painting tools for basement stairs
   - small of Inukshuk for side door
   - smart key kit
