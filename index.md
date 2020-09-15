@@ -1,10 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
-- records
-  - print current repo and add to folder
-  - scan old papers, add to repo, and return to folder
-  - add copy of D tax return
 - GT
-  - ins co re premiums for H
+  - put away stuff in liv rm, bedrm
   - find training school
   - dryer (Rob K)
   - deposit joint chq
