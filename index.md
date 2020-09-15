@@ -1,6 +1,5 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - put away stuff in liv rm, bedrm
   - find training school
   - dryer (Rob K)
   - deposit joint chq
@@ -20,7 +19,7 @@
   - small of Inukshuk for side door
   - smart key kit
 - C
-  - rekey, private sign
+  - paint, rekey, private sign
   - cut grass incl mweed
   - level and fill baskets, secure lids, backfill
   - largest for in front of armour stone
