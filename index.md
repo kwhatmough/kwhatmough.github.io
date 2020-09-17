@@ -12,12 +12,12 @@
   - Maria's stuff(?)
   - Norco and pillows
   - Ne, fasteners, filters, Srk, long handle
-  - small fan
+  - soil
 - return
-  - black bike w/accessories
-  - painting tools for basement stairs
+  - steps and painting tools for basement stairs
   - small of Inukshuk for side door
   - smart key kit
+  - black bike w/accessories
 - C
   - paint, rekey, private sign
   - cut grass incl mweed
