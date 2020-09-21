@@ -1,5 +1,16 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - laundry
+  - call N
+  - paint door, install handle
+  - copy key (2)
+  - dump, w/b fasteners, hooks, wine
+  - wash car
+  - cut grass
+  - unpack, enter invoices
+  - fin (L), pr gauge, mo sens solar lights
+  - septic
+  - paint stairwell
   - find training school
   - dryer (Rob K)
   - deposit joint chq
@@ -8,24 +19,18 @@
   - door handles, rekey
   - ktl bell
 - bring
-  - beer, Brodie flour, passage knob
-  - Maria's stuff(?)
-  - Norco and pillows
-  - Ne, fasteners, filters, Srk, long handle
-  - soil
-- return
-  - steps and painting tools for basement stairs
-  - small of Inukshuk for side door
-  - smart key kit
-  - black bike w/accessories
+  - fin, toolbox, key kit, wine
 - C
-  - paint, rekey, private sign
-  - cut grass incl mweed
-  - level and fill baskets, secure lids, backfill
+  - storage for ham frames
+  - fix bathroom door hinges
+  - repair crawlspace door seal
+  - paint
+  - private sign
+  - level and fill basket, secure lids, backfill
   - largest for in front of armour stone
-  - shelves and organizers
-  - install pump
   - remove/store steps to landing, fix railing
+  - install pump
+  - shelves and organizers
   - bwalk, prop line (planning)
   - cracks
   - screw-eye holders for vertical bars
