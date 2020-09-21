@@ -9,7 +9,7 @@
   - wash car
   - cut grass
   - unpack, enter invoices
-  - fin (L), pr gauge, mo sens solar lights
+  - fin (L)
   - septic
   - paint stairwell
   - find training school
