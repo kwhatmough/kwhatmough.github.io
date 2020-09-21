@@ -1,8 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - a
-  - laundry
-  - call James, N
   - paint door, install handle
   - copy key (2)
   - dump, w/b fasteners, hooks, wine
