@@ -1,9 +1,8 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - a
-  - paint door, install handle
-  - copy key (2)
-  - dump, w/b fasteners, hooks, wine
+  - paint door, install handle, test copy
+  - wine
   - wash car
   - cut grass
   - unpack, enter invoices
@@ -18,7 +17,7 @@
   - door handles, rekey
   - ktl bell
 - bring
-  - fin, toolbox, key kit, wine
+  - fin, toolbox, key kit, wine, fasteners, hooks, gauge, lights
 - C
   - storage for ham frames
   - fix bathroom door hinges
