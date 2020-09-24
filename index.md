@@ -1,23 +1,21 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - a
-  - paint door, install handle, test copy
   - wine
   - wash car
   - cut grass
-  - unpack, enter invoices
   - fin (L)
   - septic
+  - door handles
   - paint stairwell
   - find training school
   - dryer (Rob K)
   - deposit joint chq
   - furnace filter
   - eyewear
-  - door handles, rekey
   - ktl bell
 - bring
-  - fin, toolbox, key kit, wine, fasteners, hooks, gauge, lights
+  - tool/boxes, key kit, wine
 - C
   - storage for ham frames
   - fix bathroom door hinges
