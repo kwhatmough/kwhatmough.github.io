@@ -1,9 +1,10 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - a
-  - wine
-  - wash car
   - cut grass
+  - a
+  - wash car
+  - condo assistance
+  - Kort re records
   - fin (L)
   - septic
   - door handles
