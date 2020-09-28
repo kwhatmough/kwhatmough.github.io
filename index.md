@@ -1,13 +1,14 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass
-  - a
-  - wash car
+  - garage (bike)
   - condo assistance
-  - Kort re records
-  - fin (L)
-  - septic
+  - Camb
+  - laundry, bedding
+  - a
   - door handles
+  - wash car
+  - Kort re records
+  - septic
   - paint stairwell
   - find training school
   - dryer (Rob K)
@@ -15,10 +16,10 @@
   - furnace filter
   - eyewear
   - ktl bell
-- bring
-  - tool/boxes, key kit, wine
 - C
-  - storage for ham frames
+  - prep hatches
+  - bbq propane
+  - storage for ham frames, red
   - fix bathroom door hinges
   - repair crawlspace door seal
   - paint
@@ -26,6 +27,8 @@
   - level and fill basket, secure lids, backfill
   - largest for in front of armour stone
   - remove/store steps to landing, fix railing
+  - winterz kyk
+  - 5 & 8 line fix
   - install pump
   - shelves and organizers
   - bwalk, prop line (planning)
