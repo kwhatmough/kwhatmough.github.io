@@ -17,7 +17,7 @@
   - eyewear
   - ktl bell
 - C
-  - tidy cspace
+  - tidy cspace, bring home b access
   - prep hatches
   - bbq propane
   - storage for ham frames, red
