@@ -1,19 +1,15 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - garage (bike)
-  - condo assistance
-  - Camb
-  - laundry, bedding
-  - a
+  - tires, barrel, taps, furniture
   - door handles
+  - septic
+  - furnace filter
   - wash car
   - Kort re records
-  - septic
   - paint stairwell
   - find training school
   - dryer (Rob K)
   - deposit joint chq
-  - furnace filter
   - eyewear
   - ktl bell
 - C
@@ -21,15 +17,15 @@
   - prep hatches
   - bbq propane
   - storage for ham frames, red
-  - fix bathroom door hinges
   - repair crawlspace door seal
   - paint
   - private sign
   - level and fill basket, secure lids, backfill
   - largest for in front of armour stone
   - remove/store steps to landing, fix railing
-  - winterz kyk
+  - winterz kyk, tap, furniture, mbox
   - 5 & 8 line fix
+  - fix bathroom door hinges
   - install pump
   - shelves and organizers
   - bwalk, prop line (planning)
