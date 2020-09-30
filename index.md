@@ -1,11 +1,13 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - HA card etc.
-  - tires, barrel, taps, furniture
-  - door handles
+  - k to Isabel
+  - install lb
+  - a
+  - donation
   - septic
+  - paint door
+  - barrel, taps, furniture
   - furnace filter
-  - wash car
   - Kort re records
   - paint stairwell
   - find training school
