@@ -1,14 +1,13 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - a
-  - dq, groc, hooks, thk
+  - dq, groc, hooks
+  - thk, paint, handles, barrel, taps, furniture
   - k to Isabel
-  - install lb
   - donation
   - septic
-  - barrel, taps, furniture
   - furnace filter
   - Kort re records
+  - install lb
   - paint stairwell
   - find training school
   - dryer (Rob K)
