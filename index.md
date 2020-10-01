@@ -1,11 +1,11 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - a
+  - dq, groc, hooks, thk
   - k to Isabel
   - install lb
-  - a
   - donation
   - septic
-  - paint door
   - barrel, taps, furniture
   - furnace filter
   - Kort re records
