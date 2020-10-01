@@ -1,6 +1,6 @@
 - [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - dq, groc, hooks
+  - dq, groc, hooks, driveway markers
   - thk, paint, handles, barrel, taps, furniture
   - k to Isabel
   - donation
