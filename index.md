@@ -1,6 +1,6 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - dq, groc
+  - mail, Isabel
   - thk, paint, handles, barrel, taps, furniture
   - k to Isabel
   - donation
