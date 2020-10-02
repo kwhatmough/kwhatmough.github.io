@@ -1,6 +1,6 @@
-- [schedule](schedule.html) [fibon](fibon.html)
+- [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - dq, groc, hooks, driveway markers
+  - dq, groc
   - thk, paint, handles, barrel, taps, furniture
   - k to Isabel
   - donation
