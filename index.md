@@ -1,10 +1,10 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - mail, Isabel
-  - thk, paint, handles, barrel, taps, furniture
-  - k to Isabel
-  - donation
   - septic
+  - mail, Isabel
+  - k to Isabel
+  - thk, paint, handles, barrel, taps, furniture
+  - donation
   - furnace filter
   - Kort re records
   - install lb
@@ -15,17 +15,17 @@
   - eyewear
   - ktl bell
 - C
-  - tidy cspace, bring home b access
   - prep hatches
-  - bbq propane
   - storage for ham frames, red
   - repair crawlspace door seal
-  - paint
-  - private sign
+  - tidy cspace, bring home b access
   - level and fill basket, secure lids, backfill
-  - largest for in front of armour stone
   - remove/store steps to landing, fix railing
   - winterz kyk, tap, furniture, mbox
+  - service UV
+  - bbq propane
+  - paint
+  - private sign
   - 5 & 8 line fix
   - fix bathroom door hinges
   - install pump
