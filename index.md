@@ -1,10 +1,13 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - septic
-  - mail, Isabel
+  - B & M re k and UV
+  - mail
   - k to Isabel
-  - thk, paint, handles, barrel, taps, furniture
+  - Cogeco email
+  - septic(?)
   - donation
+  - a: apo
+  - thk, paint, handles, barrel, taps, furniture
   - furnace filter
   - Kort re records
   - install lb
@@ -15,15 +18,14 @@
   - eyewear
   - ktl bell
 - C
-  - prep hatches
-  - storage for ham frames, red
+  - invert cradle (ceiling)
   - repair crawlspace door seal
-  - tidy cspace, bring home b access
-  - level and fill basket, secure lids, backfill
-  - remove/store steps to landing, fix railing
   - winterz kyk, tap, furniture, mbox
+  - re-cover hatches
   - service UV
   - bbq propane
+  - basket lids, backfill
+  - remove/store steps to landing, fix railing
   - paint
   - private sign
   - 5 & 8 line fix
