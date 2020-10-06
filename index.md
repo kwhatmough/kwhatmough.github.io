@@ -1,14 +1,10 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - B & M re k and UV
-  - mail
-  - k to Isabel
-  - Cogeco email
-  - septic(?)
-  - donation
-  - a: apo
-  - thk, paint, handles, barrel, taps, furniture
   - furnace filter
+  - H card
+  - Z for M & D
+  - garbage, MF
+  - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
   - paint stairwell
