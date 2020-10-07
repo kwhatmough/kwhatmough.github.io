@@ -1,8 +1,8 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - furnace filter
   - H card
-  - Z for M & D
+  - cut grass, condo (card), ckhn, veg burgers
+  - Zoom Monday
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
@@ -13,7 +13,7 @@
   - eyewear
   - ktl bell
 - C
-  - bring rack, fin, talon
+  - bring H card, rack, fin, talon
   - return rack, Kona
   - invert cradle (ceiling)
   - repair crawlspace door seal
