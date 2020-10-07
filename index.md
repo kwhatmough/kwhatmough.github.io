@@ -3,7 +3,6 @@
   - furnace filter
   - H card
   - Z for M & D
-  - garbage, MF
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
@@ -14,6 +13,8 @@
   - eyewear
   - ktl bell
 - C
+  - bring rack, fin, talon
+  - return rack, Kona
   - invert cradle (ceiling)
   - repair crawlspace door seal
   - winterz kyk, tap, furniture, mbox
