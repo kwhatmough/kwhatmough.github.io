@@ -1,8 +1,7 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - H card
-  - cut grass, condo (card), ckhn, veg burgers
-  - Zoom Monday
+  - H card, grass, dump, condo card, ckhn, veg burgers
+  - Mon: Zoom, keys
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
