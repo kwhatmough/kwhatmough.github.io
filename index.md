@@ -1,6 +1,6 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - H card, grass, dump, condo card, ckhn, veg burgers
+  - H card, grass, C to confirm Dr D
   - Mon: Zoom, keys
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
