@@ -1,7 +1,6 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - H card, grass, C to confirm Dr D
-  - Mon: Zoom, keys
+  - Zoom, cards, keys, containers
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
@@ -12,17 +11,13 @@
   - eyewear
   - ktl bell
 - C
-  - bring H card, rack, fin, talon
+  - garbage from shed, deflate, MF, cards, keys, containers
   - return rack, Kona
-  - invert cradle (ceiling)
+  - winterz kyk, tap, furniture, mbox, mat
   - repair crawlspace door seal
-  - winterz kyk, tap, furniture, mbox
-  - re-cover hatches
   - service UV
-  - bbq propane
   - basket lids, backfill
-  - remove/store steps to landing, fix railing
-  - paint
+  - paint, silicone
   - private sign
   - 5 & 8 line fix
   - fix bathroom door hinges
