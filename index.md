@@ -2,6 +2,8 @@
 - GT
   - Zoom, cards, keys, containers
   - MF(*), fix dehumidifier
+  - call post office
+  - call Rob K?
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
@@ -11,11 +13,12 @@
   - deposit joint chq
   - eyewear
   - ktl bell
+- return pedal wrench to C
 - C
-  - winterz kyk, pedal wrench, upper deck, shed, silicone, T rear storage, mat
+  - winterz kyk, silicone, mat
   - garbage from shed, deflate, MF, cards, keys, containers
   - return rack, Kona
-  - tap, furniture, mbox, dispose of 2 rotten pcs of trim
+  - furniture, dispose of 2 rotten pcs of trim
   - repair crawlspace door seal
   - service UV
   - basket lids, backfill
