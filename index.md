@@ -1,6 +1,7 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - Zoom, cards, keys, containers
+  - MF(*), fix dehumidifier
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - install lb
@@ -11,13 +12,14 @@
   - eyewear
   - ktl bell
 - C
+  - winterz kyk, pedal wrench, upper deck, shed, silicone, T rear storage, mat
   - garbage from shed, deflate, MF, cards, keys, containers
   - return rack, Kona
-  - winterz kyk, tap, furniture, mbox, mat
+  - tap, furniture, mbox, dispose of 2 rotten pcs of trim
   - repair crawlspace door seal
   - service UV
   - basket lids, backfill
-  - paint, silicone
+  - paint
   - private sign
   - 5 & 8 line fix
   - fix bathroom door hinges
