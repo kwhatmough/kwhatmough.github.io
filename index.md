@@ -1,23 +1,20 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Zoom, cards, keys, containers
-  - MF(*), fix dehumidifier
-  - call post office
-  - call Rob K?
+  - pedal wrenches
+  - written test
+  - call Rob K
+  - install lb
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
-  - install lb
   - paint stairwell
   - find training school
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
   - ktl bell
-- return pedal wrench to C
+- return pedal wrench, Kona to C
 - C
-  - winterz kyk, silicone, mat
-  - garbage from shed, deflate, MF, cards, keys, containers
-  - return rack, Kona
+  - silicone
   - furniture, dispose of 2 rotten pcs of trim
   - repair crawlspace door seal
   - service UV
