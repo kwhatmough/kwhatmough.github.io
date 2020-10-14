@@ -1,17 +1,15 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - pedal wrenches
-  - written test
+  - written test, YD
   - call Rob K
   - install lb
   - thk, paint, handles, barrel, taps, furniture
   - Kort re records
   - paint stairwell
-  - find training school
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
-  - ktl bell
 - return pedal wrench, Kona to C
 - C
   - silicone
