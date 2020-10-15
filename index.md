@@ -1,5 +1,6 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - call dentist for Hana (phone msg)
   - pedal wrenches
   - written test, YD
   - call Rob K
