@@ -1,17 +1,18 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - call dentist for Hana (phone msg)
-  - pedal wrenches
-  - written test, YD
-  - call Rob K
+  - H: confirm dentist, discuss ybook
+  - C: ltop
+  - grass, leaves
+  - YD
   - install lb
   - thk, paint, handles, barrel, taps, furniture
+  - call Rob K
   - Kort re records
   - paint stairwell
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
-- return pedal wrench, Kona to C
+- return pedal wrench, Kona to C, Ca's stuff
 - C
   - silicone
   - furniture, dispose of 2 rotten pcs of trim
