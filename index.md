@@ -1,18 +1,14 @@
 - [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - H: confirm dentist, discuss ybook
-  - C: ltop
-  - grass, leaves
+  - cut grass
   - YD
-  - install lb
-  - thk, paint, handles, barrel, taps, furniture
+  - thk, paint, handles, barrel, store furniture
   - call Rob K
   - Kort re records
   - paint stairwell
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
-- return pedal wrench, Kona to C, Ca's stuff
 - C
   - silicone
   - furniture, dispose of 2 rotten pcs of trim
