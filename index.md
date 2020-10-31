@@ -1,27 +1,31 @@
-- [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
+- [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass
+  - cash
+  - mentee prep
+  - rake leaves, cut grass
+  - training school, crt
   - YD
-  - thk, paint, handles, barrel, store furniture
+  - bikes, thk, paint, handles, barrel, store furniture
+  - paint stairwell
   - call Rob K
   - Kort re records
-  - paint stairwell
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
+- return
+  - pair of travel straps (b kprz w/carabiners?)
 - C
-  - silicone
+  - bwalk
   - furniture, dispose of 2 rotten pcs of trim
   - repair crawlspace door seal
   - service UV
   - basket lids, backfill
   - paint
-  - private sign
   - 5 & 8 line fix
   - fix bathroom door hinges
   - install pump
   - shelves and organizers
-  - bwalk, prop line (planning)
+  - prop line (planning)
   - cracks
   - screw-eye holders for vertical bars
 - fix stove
