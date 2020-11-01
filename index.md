@@ -5,8 +5,7 @@
   - rake leaves, cut grass
   - training school, crt
   - YD
-  - bikes, thk, paint, handles, barrel, store furniture
-  - paint stairwell
+  - paint stairs
   - call Rob K
   - Kort re records
   - dryer (Rob K)
