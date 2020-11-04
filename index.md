@@ -1,7 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - garbage out, req
-  - MF out, delivery
+  - bins in, MF out, delivery instr
   - training school, crt
   - paint stairs
   - Kort re records
