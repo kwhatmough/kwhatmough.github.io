@@ -1,18 +1,15 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cash
-  - mentee prep
-  - rake leaves, cut grass
+  - garbage out, req
+  - MF out, delivery
   - training school, crt
-  - YD
   - paint stairs
-  - call Rob K
   - Kort re records
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
 - return
-  - pair of travel straps (b kprz w/carabiners?)
+  - travel straps, solar light
 - C
   - bwalk
   - furniture, dispose of 2 rotten pcs of trim
