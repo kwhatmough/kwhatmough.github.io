@@ -1,6 +1,7 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - bins in, MF out, delivery instr
+  - parcel
+  - wifi
   - training school, crt
   - paint stairs
   - Kort re records
@@ -8,14 +9,16 @@
   - deposit joint chq
   - eyewear
 - return
+  - garbage in crawlspace
   - travel straps, solar light
 - C
   - bwalk
+  - basket lids, backfill
+  - paint
+  - driveway markers, snow fence
   - furniture, dispose of 2 rotten pcs of trim
   - repair crawlspace door seal
   - service UV
-  - basket lids, backfill
-  - paint
   - 5 & 8 line fix
   - fix bathroom door hinges
   - install pump
