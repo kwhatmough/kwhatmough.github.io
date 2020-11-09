@@ -1,5 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - fitness expenses (C)
   - parcel
   - wifi
   - training school, crt
