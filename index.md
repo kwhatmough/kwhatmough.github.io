@@ -1,30 +1,25 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - fitness expenses (C)
-  - parcel
   - wifi
   - training school, crt
-  - paint stairs
+  - new wall switch, paint stairs
+  - solar light
   - Kort re records
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
-- return
-  - garbage in crawlspace
-  - travel straps, solar light
 - C
-  - bwalk
-  - basket lids, backfill
-  - paint
+  - grip strips
   - driveway markers, snow fence
-  - furniture, dispose of 2 rotten pcs of trim
+  - basket lids
+  - dispose of 2 rotten pcs
   - repair crawlspace door seal
   - service UV
   - 5 & 8 line fix
   - fix bathroom door hinges
   - install pump
   - shelves and organizers
-  - prop line (planning)
   - cracks
   - screw-eye holders for vertical bars
 - fix stove
