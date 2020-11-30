@@ -1,9 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - return textbooks
-  - fitness expenses (C)
   - wifi
-  - training school, crt
   - new wall switch, paint stairs
   - Kort re records
   - dryer (Rob K)
@@ -47,3 +44,4 @@
   1. While pressing the liftgate close button, press the liftgate handle switch for more than 3 seconds (the chime will sound)
   1. Close the liftgate manually
 - front edge 12.25", rear edge 8.5" (57.75" o.c.)
+- tag T-5456
