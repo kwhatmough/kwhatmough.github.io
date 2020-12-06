@@ -1,8 +1,8 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - letter to Ca, mantel, carpet, mat, dishwasher
-  - wifi
+  - letter to Ca, mantel cord, carpet, mat, central vac, mortise, shelf, foam, chisel
   - new wall switch, paint stairs
+  - wifi
   - Kort re records
   - dryer (Rob K)
   - deposit joint chq
