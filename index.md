@@ -1,13 +1,15 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - letter to Ca, mantel cord, carpet, mat, central vac, mortise, shelf, foam, chisel
-  - new wall switch, paint stairs
+  - card, water, pasta sauce
+  - shelf
+  - empty central vac
   - wifi
   - Kort re records
   - dryer (Rob K)
   - deposit joint chq
   - eyewear
 - C
+  - eye glasses
   - UV protection
   - service UV
   - basket lids
