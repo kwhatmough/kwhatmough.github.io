@@ -1,6 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - card, water, pasta sauce
+  - Red L, water, marshm, lind
   - shelf
   - empty central vac
   - wifi
@@ -9,7 +9,7 @@
   - deposit joint chq
   - eyewear
 - C
-  - eye glasses
+  - eye glasses, card
   - UV protection
   - service UV
   - basket lids
