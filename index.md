@@ -1,16 +1,15 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Red L, water, marshm, lind
+  - call town, Spa, Ka
+  - water, lind, Aha
+  - eyewear
   - shelf
   - empty central vac
   - wifi
   - Kort re records
   - dryer (Rob K)
   - deposit joint chq
-  - eyewear
 - C
-  - eye glasses, card
-  - UV protection
   - service UV
   - basket lids
   - dispose of 2 rotten pcs
