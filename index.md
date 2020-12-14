@@ -1,10 +1,11 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - call town, Spa, Ka
-  - water, lind, Aha
+  - cash, Vim spray w/bleach, water, Aha, lind
+  - MF out
+  - empty central vac
   - eyewear
   - shelf
-  - empty central vac
   - wifi
   - Kort re records
   - dryer (Rob K)
