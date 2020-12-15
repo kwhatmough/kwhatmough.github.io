@@ -1,6 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cash, Vim spray w/bleach, water, Aha, lind, magnifiers
+  - cash, water, Aha
   - Ka 8:45am, MF out
   - empty central vac
   - eyewear
