@@ -1,9 +1,10 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - cash, water, Aha
-  - Ka 8:45am, MF out
   - empty central vac
+  - dump, Ka 8:45am, MF out
   - eyewear
+  - balance M1 accts (5+5)
   - shelf
   - wifi
   - Kort re records
