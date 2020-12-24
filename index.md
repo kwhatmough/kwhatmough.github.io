@@ -1,7 +1,6 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - balance M1 accts (5+5)
-  - Ka 8:45am
+  - call M1 again
   - eyewear
   - shelf
   - wifi
