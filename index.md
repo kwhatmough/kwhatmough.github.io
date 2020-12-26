@@ -1,5 +1,7 @@
 - [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - Swiffer Duster refills, clean dresser
+  - deposit cheque (C)
   - call M1 again
   - eyewear
   - shelf
