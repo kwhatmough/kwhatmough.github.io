@@ -1,15 +1,13 @@
 # Routine
 
-Time | Duty | Person
+Time | Duty | Supervisor
 --- | --- | ---
-9pm - 7am | Night | As per rotation
-7am - 7:30am | Breakfast | As per rotation
-7:30am - 8:30am | Morning training | Carol or designate
-8:30am - 10am | Free play | Ken
-10am - 12pm | Nap |
-12pm - 12:30pm | Lunch | Hana
-12:30pm - 1pm | Afternoon training | Carol or designate
-1pm - 2pm | Free play | Hana
-2pm - 4pm | Nap |
-4pm - 5:30pm | Free play | Hana
-5:30pm - 6pm | Supper | Hana
+7 am | Breakfast | As per night duty
+7 - 8 | Workout/training | Carol
+8 - 10 | Crate/play | Ken
+10 - 12 | Nap | -
+12 pm | Lunch | Hana
+12 - 2 | Crate/play | Hana
+2 - 4 | Nap | -
+4 - 5 | Training/play | Hana
+5 pm | Supper | Hana
