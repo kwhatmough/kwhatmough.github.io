@@ -1,10 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - mail, cash, paint, eraser, MCln, A3
-  - S4L
-  - dia coat
+  - Hills
+  - trim touch-up, special lights, shelf
   - eyewear
-  - shelf
+  - dia coat
   - wifi
   - Kort re records
   - dryer (Rob K)
