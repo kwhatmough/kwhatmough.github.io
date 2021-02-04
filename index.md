@@ -1,8 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - Hills, R4 oil
+  - eyewear claim, Bill VR
   - trim touch-up, special lights, shelf
-  - eyewear
   - dia coat
   - wifi
   - Kort re records
