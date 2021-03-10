@@ -1,10 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - 12 3m hooks, white pads, green tape, travel pwr bar
-  - Hills, R4 oil, 9v
-  - eyewear claim, Bill VR
-  - trim touch-up, special lights, shelf
-  - dia coat
+  - S card, softener salt, MF out, Isabel
+  - Bill VR, R4 oil, 9v, BBQ igniter
+  - eyewear
   - wifi
   - Kort re records
   - dryer (Rob K)
