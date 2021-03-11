@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - S card, softener salt, MF out, Isabel
+  - softener salt, Sparlings
   - Bill VR, R4 oil, 9v, BBQ igniter
   - eyewear
   - wifi
