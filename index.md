@@ -1,7 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Sparlings, cross-check Amazon bill, BBQ igniter
+  - delta, po, vet?
+  - get back to Jason
+  - Sparlings
   - eyewear
+  - BBQ igniter
   - wifi
   - Kort re records
   - dryer (Rob K)
