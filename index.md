@@ -1,5 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - reschedule T
+  - select chair
+  - Jason
+  - claim desk
+  - dump, water
+  - photo to Guil
   - Sparlings
   - BBQ igniter
   - wifi
