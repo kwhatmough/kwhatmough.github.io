@@ -1,11 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - groc, LCBO, chkn
-  - H: returns, s sch
-  - Isabel
-  - tax returns
+  - cash, cards
+  - condo Sun
+  - MM, J & C
   - Sparlings: code
-  - J & C
   - sdb keys
   - Bill V: proceed
   - BBQ igniter
