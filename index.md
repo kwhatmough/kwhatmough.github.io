@@ -1,7 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cash, cards
-  - condo Sun
   - MM, J & C
   - Sparlings: code
   - sdb keys
