@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - MM, J & C
+  - ApTV, CC/Eastlink issue, confirm Eastlink settings
+  - fix drains
   - Sparlings: code
   - sdb keys
   - Bill V: proceed
@@ -10,6 +11,7 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
+  - PFDs
   - HS battery low
   - service UV
   - basket lids
