@@ -1,9 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass
+  - fix drains
   - deck quotes, railing
   - CC/Eastlink issue, confirm Eastlink settings
-  - fix drains
   - Sparlings: code
   - sdb keys
   - Bill V: proceed
@@ -13,14 +12,15 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - water
+  - cross bars, lilies
+  - indoor shoes
+  - fix bathroom door hinges
   - HS battery low
   - service UV
   - basket lids
   - dispose of 2 rotten pcs
   - repair crawlspace door seal
   - 5 & 8 line fix
-  - fix bathroom door hinges
   - install pump
   - shelves and organizers
   - cracks
@@ -53,3 +53,4 @@
   1. Close the liftgate manually
 - front edge 12.25", rear edge 8.5" (57.75" o.c.)
 - tag T-5456
+- H: 15", K: 20"
