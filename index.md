@@ -1,7 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass, med, RAV4 oil, laundry, g out, bike
-  - fix drains
+  - bike, drains
   - deck quotes, railing
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
@@ -13,8 +12,7 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - lilies
-  - indoor shoes
+  - move lilies
   - fix bathroom door hinges
   - HS battery low
   - service UV
