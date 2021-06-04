@@ -1,6 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - bike, drains
+  - Fri: groc+MrClean+cranc, bike, reply to M
+  - fday card
+  - drains
   - deck quotes, railing
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
