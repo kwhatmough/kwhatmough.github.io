@@ -1,7 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Fri: groc+MrClean+cranc, bike, reply to M
-  - fday card
+  - fday card, cran ctail, MrClean, t bowl cleaner, cash
+  - print reservations and coord w/Raf
   - drains
   - deck quotes, railing
   - CC/Eastlink issue, confirm Eastlink settings
@@ -15,6 +15,8 @@
   - deposit joint chq
 - C
   - move lilies
+  - fix bike basket
+  - bags
   - fix bathroom door hinges
   - HS battery low
   - service UV
