@@ -1,9 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - fday card, cran ctail, MrClean, t bowl cleaner, cash
-  - print reservations and coord w/Raf
+  - laundry
+  - dr school
+  - M re 2nd shot
+  - deck/railing
+  - Elink
   - drains
-  - deck quotes, railing
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
   - sdb keys
@@ -16,7 +18,6 @@
 - C
   - move lilies
   - fix bike basket
-  - bags
   - fix bathroom door hinges
   - HS battery low
   - service UV
