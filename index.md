@@ -1,10 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - laundry
-  - dr school
-  - M re 2nd shot
+  - propane
   - deck/railing
-  - Elink
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
