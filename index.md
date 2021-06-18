@@ -1,6 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - propane
+  - propane, fuel r4
+  - chkn, coconut milk, water, wine, etc
+  - label tires, tidy garage
+  - laundry
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
