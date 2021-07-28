@@ -7,6 +7,7 @@
 
 ### Vehicle
 
+- change tent
 - footstool
 - roof kit w/tools
 - long cable lock w/key
@@ -42,10 +43,13 @@
 
 ### Startline Bag
 
-- multisport gloves
-- neoprene boots
 - carabiner
+- Garmin
+- boots
+- gloves
 - PFD w/whistle
+- hat
+- eyewear
 
 ### Schedule
 
@@ -59,7 +63,9 @@
 - apply stickers
 - drop-off bike and transition bag
 - equip boat with carabiner
-- wear timing chip
-- wear gloves, boots, PFD, bib
+- wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
 - secure car and key
+- bring boat and paddle
+- remove boots
 - launch
+- start Garmin
