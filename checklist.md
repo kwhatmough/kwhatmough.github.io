@@ -1,6 +1,29 @@
-# Checklist
+# Arrival
 
-### Preparation
+- T-90min: find parking
+- assemble cradles and cable locks
+- equip boat with carabiner
+- equip bike with water bottle, whistle, and light
+- T-60min: wear face mask
+- pickup race kit
+- wear bib
+- position cradles and cable locks
+- apply stickers
+- wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
+- turn on Garmin and start multisport
+- turn on bike light
+- store key
+- drop-off bike and transition bag
+- assemble paddle
+- secure car
+- bring boat and paddle
+- remove boots
+- launch
+- start Garmin
+
+---
+
+# Preparation
 
 - charge Garmin
 - charge bike light
@@ -54,26 +77,3 @@
 - PFD w/whistle
 - hat
 - eyewear
-
-### Schedule
-
-- T-90min: find parking
-- assemble cradles and cable locks
-- equip boat with carabiner
-- equip bike with water bottle, whistle, and light
-- T-60min: wear face mask
-- pickup race kit
-- wear bib
-- position cradles and cable locks
-- apply stickers
-- wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
-- turn on Garmin and start multisport
-- turn on bike light
-- store key
-- drop-off bike and transition bag
-- assemble paddle
-- secure car
-- bring boat and paddle
-- remove boots
-- launch
-- start Garmin
