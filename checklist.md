@@ -2,20 +2,24 @@
 
 ### Preparation
 
+- charge Garmin
+- charge bike light
 - sign online forms
 - watch briefing video
+- complete online Covid screening
 
 ### Vehicle
 
 - change tent
 - footstool
-- roof kit w/tools
+- roof kit
 - long cable lock w/key
-- bike rack w/tools
+- bike rack
 - screwdriver
 - cordless drill
 - 4L water
 - spare towel
+- microfiber cloth
 - 2 boat cradles
 - 2 cable locks
 - 1 paddle cradle
@@ -55,16 +59,20 @@
 
 - T-90min: find parking
 - assemble cradles and cable locks
-- equip bike with water bottle and whistle
+- equip boat with carabiner
+- equip bike with water bottle, whistle, and light
 - T-60min: wear face mask
 - pickup race kit
 - wear bib
 - position cradles and cable locks
 - apply stickers
-- drop-off bike and transition bag
-- equip boat with carabiner
 - wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
-- secure car and key
+- turn on Garmin and start multisport
+- turn on bike light
+- store key
+- drop-off bike and transition bag
+- assemble paddle
+- secure car
 - bring boat and paddle
 - remove boots
 - launch
