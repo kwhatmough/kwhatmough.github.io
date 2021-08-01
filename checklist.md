@@ -15,6 +15,7 @@
 - store key
 - drop-off bike and transition bag
 - assemble paddle
+- remove face mask
 - secure car
 - bring boat and paddle
 - remove boots
@@ -57,6 +58,7 @@
 
 ### Transition Bag
 
+- spare face mask
 - magnetic key box
 - 2 filled water bottles
 - whistle
