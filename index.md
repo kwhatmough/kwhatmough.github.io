@@ -1,8 +1,5 @@
 - [checklist](checklist.md) [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - laundry
-  - dump
-  - cargo liner, slicks, flag
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
@@ -15,9 +12,13 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
+  - strips
+  - vac
+  - stones and stairs
+  - fix bathroom door hinges
+  - washer dryer
   - move lilies
   - fix bike basket
-  - fix bathroom door hinges
   - HS battery low
   - service UV
   - basket lids
