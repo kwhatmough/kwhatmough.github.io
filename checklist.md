@@ -34,6 +34,7 @@
 
 ### Vehicle
 
+- paper towel
 - change tent
 - footstool
 - roof kit
