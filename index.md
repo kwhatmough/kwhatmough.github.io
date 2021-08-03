@@ -13,8 +13,9 @@
   - deposit joint chq
 - C
   - strips
-  - vac
-  - stones and stairs
+  - deck boards
+  - fix vac
+  - stairs
   - fix bathroom door hinges
   - washer dryer
   - move lilies
