@@ -12,11 +12,13 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - strips
-  - deck boards
-  - fix vac
-  - stairs
+  - strips/tape
   - fix bathroom door hinges
+  - fix vac
+  - deck boards
+  - steps/landing
+  - additional shelving
+  - dumbell rack
   - washer dryer
   - move lilies
   - fix bike basket
