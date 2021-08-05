@@ -12,13 +12,15 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - steps/landing (6h)
+  - cushions and 2 tables (15m)
+  - fix vac (15m)
   - install grip tape (1h)
   - cut grass and weeds (1h)
   - deck boards (2h)
   - hang picture (30m)
+  - steps/landing (6h)
   - fix bathroom door hinges (1h)
-  - fix vac (15m)
+  - fix mech room door (1h)
   - additional shelving (5h)
   - dumbell rack
   - move lilies
