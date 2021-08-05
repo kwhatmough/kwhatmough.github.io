@@ -1,10 +1,13 @@
-# Arrival
+### 6:30am
 
-- T-90min: find parking
+- find parking
 - assemble cradles and cable locks
 - equip boat with carabiner
 - equip bike with water bottle, whistle, and light
-- T-60min: wear face mask
+
+### 7:00am
+
+- wear face mask
 - pickup race kit
 - wear bib
 - position cradles and cable locks
@@ -16,6 +19,10 @@
 - drop-off bike and transition bag
 - assemble paddle
 - remove face mask
+
+### 8:00am
+
+- remove straps
 - secure car
 - bring boat and paddle
 - remove boots
