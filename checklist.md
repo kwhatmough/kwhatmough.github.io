@@ -38,16 +38,16 @@
 # Friday
 
 - ~~sign online forms~~
+- ~~watch briefing video~~
 - clean eyewear
 - clean boat, bike, and shoes
 - charge Garmin
 - charge bike light
-- watch briefing video
 - load boat (not tight)
 
 # Morning
 
-- complete online Covid screening
+- complete online Covid screening and capture screen
 - tighten boat
 - load bike
 
