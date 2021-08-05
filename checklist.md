@@ -37,6 +37,7 @@
 
 # Preparation
 
+- clean eyewear
 - clean boat, bike, and shoes
 - charge Garmin
 - charge bike light
