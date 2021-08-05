@@ -12,15 +12,17 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - strips/tape
-  - fix bathroom door hinges
-  - fix vac
-  - deck boards
-  - steps/landing
-  - additional shelving
+  - grip tape (45m)
+  - hang picture (30m)
+  - fix bathroom door hinges (60m)
+  - fix vac (15m)
+  - deck boards (60m)
+  - steps/landing (6h)
+  - additional shelving (3h)
   - dumbell rack
-  - washer dryer
   - move lilies
+  - washer dryer
+  - matress
   - fix bike basket
   - HS battery low
   - service UV
