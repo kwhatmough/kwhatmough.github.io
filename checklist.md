@@ -38,7 +38,7 @@
 
 - charge Garmin
 - charge bike light
-- sign online forms
+- ~~sign online forms~~ (done)
 - watch briefing video
 - complete online Covid screening
 - load boat (not tight)
