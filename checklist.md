@@ -35,61 +35,65 @@
 
 ---
 
-# Preparation
+# Friday
 
+- ~~sign online forms~~
 - clean eyewear
 - clean boat, bike, and shoes
 - charge Garmin
 - charge bike light
-- ~~sign online forms~~ (done)
 - watch briefing video
 - complete online Covid screening
 - load boat (not tight)
-- morning: tighten boat, load bike
+
+# Morning
+
+- tighten boat
+- load bike
 
 ### Vehicle
 
-- paper towel
-- change tent
-- footstool
-- roof kit
-- long cable lock w/key
+- ~~paper towel~~
+- ~~change tent~~
+- ~~footstool~~
+- ~~roof kit~~
+- ~~long cable lock w/key~~
+- ~~4L water~~
+- ~~spare towel~~
+- ~~microfiber cloth~~
+- ~~2 cable locks~~
+- ~~throw rope~~
+- ~~spare clothing~~
 - bike rack
 - screwdriver
 - cordless drill
-- 4L water
-- spare towel
-- microfiber cloth
 - 2 boat cradles
-- 2 cable locks
 - 1 paddle cradle
-- throw rope
 - leash
 - paddle
-- spare clothing
 - spare eyewear
 - face mask
 
 ### Transition Bag
 
-- spare face mask
-- magnetic key box
+- ~~spare face mask~~
+- ~~magnetic key box~~
+- ~~bike helmet~~
+- ~~bike shoes~~
+- ~~running shoes~~
+- ~~socks~~
+- ~~towel~~
+- ~~floor mat~~
 - 2 filled water bottles
 - whistle
-- bike helmet
-- bike shoes
-- running shoes
-- socks
-- towel
-- floor mat
 - flag
 
 ### Startline Bag
 
-- carabiner
-- Garmin
+- ~~carabiner~~
+- ~~Garmin~~
+- ~~gloves~~
+- ~~PFD w/whistle~~
+- ~~hat~~
 - boots
-- gloves
-- PFD w/whistle
-- hat
 - eyewear
