@@ -31,6 +31,8 @@
 - sign online forms
 - watch briefing video
 - complete online Covid screening
+- load boat (not tight)
+- morning: tighten boat, load bike
 
 ### Vehicle
 
@@ -51,8 +53,6 @@
 - throw rope
 - leash
 - paddle
-- boat
-- bike
 - spare clothing
 - spare eyewear
 - face mask
