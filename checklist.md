@@ -43,11 +43,11 @@
 - charge Garmin
 - charge bike light
 - watch briefing video
-- complete online Covid screening
 - load boat (not tight)
 
 # Morning
 
+- complete online Covid screening
 - tighten boat
 - load bike
 
