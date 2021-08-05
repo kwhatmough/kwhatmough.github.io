@@ -16,6 +16,7 @@
 - turn on Garmin and start multisport
 - turn on bike light
 - store key
+- set gear, lockout, dropper
 - drop-off bike and transition bag
 - assemble paddle
 - remove face mask
