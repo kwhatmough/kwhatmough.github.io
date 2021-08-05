@@ -12,16 +12,17 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - grip tape (1h)
+  - steps/landing (6h)
+  - install grip tape (1h)
+  - cut grass and weeds (1h)
+  - deck boards (2h)
   - hang picture (30m)
   - fix bathroom door hinges (1h)
   - fix vac (15m)
-  - deck boards (2h)
-  - steps/landing (6h)
   - additional shelving (5h)
   - dumbell rack
   - move lilies
-  - washer dryer
+  - washer and dryer
   - matress
   - fix bike basket
   - HS battery low
