@@ -1,11 +1,11 @@
-### 6:30am
+### 6:30
 
 - find parking
 - assemble cradles and cable locks
 - equip boat with carabiner
 - equip bike with water bottle, whistle, and light
 
-### 7:00am
+### 7:00
 
 - wear face mask
 - pickup race kit
@@ -20,12 +20,15 @@
 - assemble paddle
 - remove face mask
 
-### 8:00am
+### 7:50
 
 - remove straps
 - secure car
 - bring boat and paddle
 - remove boots
+
+### 7:57
+
 - launch
 - start Garmin
 
