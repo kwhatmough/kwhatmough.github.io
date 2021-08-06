@@ -41,13 +41,10 @@
 
 - ~~sign online forms~~
 - ~~watch briefing video~~
-- clean eyewear
-- clean boat, bike, and shoes
-- charge Garmin
-- charge bike light
-- charge laptop
 - print checklist
 - load boat (not tight)
+- charge laptop
+- clean eyewear
 
 # Morning
 
@@ -68,17 +65,17 @@
 - ~~2 cable locks~~
 - ~~throw rope~~
 - ~~spare clothing~~
-- saddle bag
+- ~~saddle bag~~
+- ~~cordless drill~~
+- ~~2 boat cradles~~
+- ~~1 paddle cradle~~
+- ~~masking tape~~
 - screwdriver
-- cordless drill
-- 2 boat cradles
-- 1 paddle cradle
 - leash
 - paddle
 - spare eyewear
 - face mask
 - checklist
-- masking tape
 
 ### Transition Bag
 
