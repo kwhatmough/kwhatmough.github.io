@@ -41,10 +41,10 @@
 
 - ~~sign online forms~~
 - ~~watch briefing video~~
-- print checklist
-- load boat (not tight)
-- charge laptop
-- clean eyewear
+- ~~print checklist~~
+- ~~load boat (not tight)~~
+- ~~charge laptop~~
+- ~~clean eyewear~~
 
 # Morning
 
@@ -70,12 +70,14 @@
 - ~~2 boat cradles~~
 - ~~1 paddle cradle~~
 - ~~masking tape~~
-- screwdriver
-- leash
-- paddle
-- spare eyewear
+- ~~screwdriver~~
+- ~~leash~~
+- ~~paddle~~
+- ~~checklist~~
+- ~~PFD w/whistle~~
+- ~~boots~~
+- spare eyewear and cases
 - face mask
-- checklist
 
 ### Transition Bag
 
@@ -97,7 +99,4 @@
 - ~~carabiner~~
 - ~~Garmin~~
 - ~~gloves~~
-- ~~PFD w/whistle~~
 - ~~hat~~
-- boots
-- eyewear
