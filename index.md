@@ -1,5 +1,6 @@
 - [checklist](checklist.md) [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - bring air mattress!
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
