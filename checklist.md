@@ -44,6 +44,8 @@
 - clean boat, bike, and shoes
 - charge Garmin
 - charge bike light
+- charge laptop
+- print checklist
 - load boat (not tight)
 
 # Morning
