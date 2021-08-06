@@ -8,6 +8,7 @@
 ### 7:00
 
 - wear face mask
+- bring phone with screen capture
 - pickup race kit
 - wear bib
 - position cradles and cable locks
@@ -73,6 +74,8 @@
 - paddle
 - spare eyewear
 - face mask
+- checklist
+- masking tape
 
 ### Transition Bag
 
@@ -90,6 +93,7 @@
 
 ### Startline Bag
 
+- ~~headlamp~~
 - ~~carabiner~~
 - ~~Garmin~~
 - ~~gloves~~
