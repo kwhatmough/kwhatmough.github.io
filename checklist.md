@@ -20,6 +20,7 @@
 - store key
 - set gear, lockout, dropper
 - drop-off bike and transition bag
+- IF TIME PERMITS: visit launch tent
 - assemble paddle
 - remove face mask
 
