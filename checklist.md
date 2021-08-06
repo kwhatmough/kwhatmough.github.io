@@ -3,7 +3,8 @@
 - find parking
 - assemble cradles and cable locks
 - equip boat with carabiner
-- equip bike with water bottle, whistle, and light
+- check bike tires
+- equip bike with saddle bag, whistle, water bottle, and light
 
 ### 7:00
 
@@ -67,7 +68,7 @@
 - ~~2 cable locks~~
 - ~~throw rope~~
 - ~~spare clothing~~
-- bike rack
+- saddle bag
 - screwdriver
 - cordless drill
 - 2 boat cradles
