@@ -1,6 +1,7 @@
-- [checklist](checklist.md) [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
+- [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - bring air mattress!
+  - bring small bottle brushes
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
@@ -13,7 +14,7 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - cut grass and weeds (1h)
+  - HS battery low
   - hang picture (30m)
   - deck boards (3h)
   - steps/landing (6h)
@@ -25,7 +26,6 @@
   - washer and dryer
   - matress
   - fix bike basket
-  - HS battery low
   - service UV
   - basket lids
   - dispose of 2 rotten pcs
