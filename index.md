@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - garbage, vac, cash, groceries, tidy basement, AF
   - bring air bed, drying rack, bottle brushes
   - deck/railing
   - drains
@@ -14,7 +15,6 @@
   - deposit joint chq
 - C
   - HS battery low
-  - hang picture (30m)
   - deck boards (3h)
   - steps/landing (6h)
   - fix bathroom door hinges (1h)
