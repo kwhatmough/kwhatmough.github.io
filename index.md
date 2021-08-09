@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - garbage, vac, cash, groceries, tidy basement, AF
+  - groceries, cash, bill, tidy basement, AF
   - bring air bed, drying rack, bottle brushes
   - deck/railing
   - drains
