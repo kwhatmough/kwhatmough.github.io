@@ -2,6 +2,8 @@
 - GT
   - groceries, cash, bill, tidy basement, AF
   - bring air bed, drying rack, bottle brushes
+  - cut grass
+  - lawn
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
@@ -20,6 +22,7 @@
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - additional shelving (5h)
+  - planter boxes, BBQ pad, side walkway
   - dumbell rack
   - move lilies
   - washer and dryer
