@@ -1,10 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - call Bill
   - CT install, order shelving
-  - groceries, cash, bill, tidy basement, AF
+  - groceries (water/brush/rack), cash
   - bring air bed, drying rack, bottle brushes
-  - cut grass
   - lawn
   - deck/railing
   - drains
