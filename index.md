@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - plans for Aunt Mary
   - CT install, order shelving
   - groceries (water/brush/rack), cash
   - bring air bed, drying rack, bottle brushes
