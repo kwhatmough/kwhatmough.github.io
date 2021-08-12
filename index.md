@@ -1,8 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - groceries
-  - CT install, order shelving
   - bring air bed(s), drying rack, brushes
+  - CT install, order shelving
   - deck/railing
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
