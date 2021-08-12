@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - bring air bed(s), drying rack, brushes
+  - bring air bed, drying rack, picture
+  - return D
   - CT install, order shelving
   - deck/railing
   - drains
