@@ -1,6 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - bring air bed, drying rack, picture
   - fall registration
   - return D
   - CT install, order shelving
@@ -16,6 +15,7 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
+  - weeds, grass, branches, dead bushes
   - HS battery low
   - deck boards (3h)
   - steps/landing (6h)
