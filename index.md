@@ -1,9 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - water grass
   - fall registration
-  - return D
   - CT install, order shelving
   - deck/railing
+  - return D
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
@@ -15,10 +16,10 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
-  - weeds, grass, branches, dead bushes
+  - weeds, grass
+  - dog jump prevention
   - HS battery low
   - deck boards (3h)
-  - steps/landing (6h)
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - additional shelving (5h)
