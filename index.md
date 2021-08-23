@@ -1,8 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - T oil
-  - water grass
-  - fall registration
+  - fall registration, office chair, photo shoot
   - CT install, order shelving
   - deck/railing
   - return D
