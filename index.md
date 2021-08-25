@@ -1,10 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - T oil
-  - fall registration, office chair, photo shoot
-  - CT install, order shelving
+  - office chair, photo shoot
   - deck/railing
-  - return D
+  - bath lever, clock battery, pillow for H
+  - CT install
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
@@ -17,14 +16,13 @@
   - deposit joint chq
 - C
   - weeds, grass
-  - dog jump prevention
+  - jump prevention
   - HS battery low
   - deck boards (3h)
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - additional shelving (5h)
   - planter boxes, BBQ pad, side walkway
-  - dumbell rack
   - move lilies
   - washer and dryer
   - matress
