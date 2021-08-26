@@ -2,7 +2,8 @@
 - GT
   - office chair, photo shoot
   - deck/railing
-  - bath lever, clock battery, pillow for H
+  - water
+  - pillow for H
   - CT install
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
