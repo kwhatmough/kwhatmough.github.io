@@ -1,5 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - CtK, dump
+  - cut grass, overseed
+  - laundry
+  - check mail
+  - groceries
   - office chair, photo shoot
   - deck/railing
   - water
