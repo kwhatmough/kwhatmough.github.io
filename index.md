@@ -21,6 +21,7 @@
   - dryer (Rob K)
   - deposit joint chq
 - C
+  - ticket, shoes/socks, frontpack, chairs, mats, tp/t, tent
   - weeds, grass
   - jump prevention
   - HS battery low
