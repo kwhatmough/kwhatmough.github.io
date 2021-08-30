@@ -2,7 +2,6 @@
 - GT
   - office chair, photo shoot
   - deck/railing
-  - water
   - pillow for H
   - CT install
   - drains
@@ -14,10 +13,8 @@
   - wifi
   - Kort re records
   - dryer (Rob K)
-  - deposit joint chq
 - C
-  - garbage
-  - ticket, shoes/socks, frontpack
+  - garbage, cooler, ticket, shoes/socks, frontpack
   - weeds, grass
   - jump prevention
   - HS battery low
