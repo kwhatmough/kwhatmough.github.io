@@ -17,6 +17,8 @@
   - Ben
   - gas for trimmer and T, propane, screening
   - weeds, grass
+  - make beds
+  - trim tree
   - jump prevention
   - HS battery low
   - deck boards (3h)
