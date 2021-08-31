@@ -15,7 +15,7 @@
   - dryer (Rob K)
 - C
   - Ben
-  - TTRW
+  - gas for trimmer and T, propane, screening
   - weeds, grass
   - jump prevention
   - HS battery low
