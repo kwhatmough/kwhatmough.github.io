@@ -14,12 +14,11 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - Ben
-  - gas for trimmer and T, propane, screening
-  - weeds, grass
   - make beds
-  - trim tree
+  - weeds, grass
   - jump prevention
+  - gas for trimmer and T, propane, screening
+  - trim tree
   - HS battery low
   - deck boards (3h)
   - fix bathroom door hinges (1h)
