@@ -14,7 +14,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - garbage, cooler, ticket, shoes/socks, frontpack
+  - Ben
+  - TTRW
   - weeds, grass
   - jump prevention
   - HS battery low
