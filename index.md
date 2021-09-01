@@ -14,9 +14,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - make beds
-  - weeds, grass
-  - jump prevention
   - gas for trimmer and T, propane, screening
   - trim tree
   - HS battery low
