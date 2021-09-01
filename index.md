@@ -14,7 +14,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - gas for trimmer and T, propane, screening
+  - pill
+  - gas for trimmer, propane
   - trim tree
   - HS battery low
   - deck boards (3h)
@@ -22,7 +23,6 @@
   - fix mech room door (1h)
   - additional shelving (5h)
   - planter boxes, BBQ pad, side walkway
-  - move lilies
   - washer and dryer
   - matress
   - fix bike basket
