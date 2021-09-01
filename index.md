@@ -16,13 +16,13 @@
 - C
   - pill
   - gas for trimmer, propane
+  - planter boxes, BBQ pad, side walkway
   - trim tree
   - HS battery low
-  - deck boards (3h)
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - additional shelving (5h)
-  - planter boxes, BBQ pad, side walkway
+  - deck boards (3h)
   - washer and dryer
   - matress
   - fix bike basket
