@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - office chair, photo shoot
+  - Cgco webmail
   - deck/railing
   - pillow for H
   - CT install
