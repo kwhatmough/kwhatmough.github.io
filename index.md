@@ -14,7 +14,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - pill
+  - order chair and mats
+  - R4 oil
   - gas for trimmer, propane
   - planter boxes, BBQ pad, side walkway
   - trim tree
@@ -22,6 +23,8 @@
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - additional shelving (5h)
+  - fix blinds
+  - touch-ups (mech rm for ceiling chip?)
   - deck boards (3h)
   - washer and dryer
   - matress
