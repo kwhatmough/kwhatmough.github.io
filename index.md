@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - office chair, photo shoot
+  - office chair, pads, photo shoot
   - Cgco webmail
   - deck/railing
   - pillow for H
@@ -15,11 +15,10 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - order chair and mats
+  - order chair, mats, pads
   - R4 oil
   - gas for trimmer, propane
   - planter boxes, BBQ pad, side walkway
-  - trim tree
   - HS battery low
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
