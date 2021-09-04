@@ -15,9 +15,10 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - stuff from T
   - order chair, mats, pads
   - R4 oil
-  - gas for trimmer, propane
+  - gas for trimmer, propane, dump
   - planter boxes, BBQ pad, side walkway
   - HS battery low
   - fix bathroom door hinges (1h)
