@@ -15,16 +15,16 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - stuff from T
-  - order chair, mats, pads
+  - additional shelving (5h)
   - R4 oil
-  - gas for trimmer, propane, dump
-  - planter boxes, BBQ pad, side walkway
+  - gas for trimmer, propane
+  - plan for planter boxes
   - HS battery low
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
-  - additional shelving (5h)
   - fix blinds
+  - garbage out
+  - planter boxes, BBQ pad, side walkway
   - touch-ups (mech rm for ceiling chip?)
   - deck boards (3h)
   - washer and dryer
