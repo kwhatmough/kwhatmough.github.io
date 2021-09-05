@@ -16,8 +16,6 @@
   - dryer (Rob K)
 - C
   - additional shelving (5h)
-  - R4 oil
-  - plan for planter boxes
   - fix bathroom door hinges (1h)
   - fix mech room door (1h)
   - fix blinds
