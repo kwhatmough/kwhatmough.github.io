@@ -17,7 +17,6 @@
 - C
   - additional shelving (5h)
   - R4 oil
-  - gas for trimmer, propane
   - plan for planter boxes
   - HS battery low
   - fix bathroom door hinges (1h)
