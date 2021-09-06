@@ -15,7 +15,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - unload dw, wo/sh, vacuum, l, get blanket, load bike
+  - vacuum, garbage
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
