@@ -16,7 +16,6 @@
   - dryer (Rob K)
 - C
   - fix blinds
-  - garbage out
   - call AJ
   - planter boxes, BBQ pad, side walkway
   - touch-ups (mech rm for ceiling chip?)
