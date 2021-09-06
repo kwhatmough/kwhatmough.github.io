@@ -15,7 +15,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - additional shelving (5h)
   - fix blinds
   - garbage out
   - call AJ
