@@ -15,7 +15,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - vacuum, garbage
+  - cash, Mr Clean, Vim Power & Shine
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
