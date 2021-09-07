@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - cut grass
   - cash
   - Mr Clean, Vim Power & Shine
   - office chair, pads, photo shoot
