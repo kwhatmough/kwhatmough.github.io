@@ -4,6 +4,7 @@
   - Mr Clean, Vim Power & Shine
   - office chair, pads, photo shoot
   - Cgco box
+  - H's wall sign
   - Cgco webmail
   - deck/railing
   - pillow for H
@@ -18,6 +19,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - bring 1 26 tube
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
