@@ -20,7 +20,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring 1 26 tube
+  - bring jigsaw
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
