@@ -1,6 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - cash
+  - Mr Clean, Vim Power & Shine
   - office chair, pads, photo shoot
+  - Cgco box
   - Cgco webmail
   - deck/railing
   - pillow for H
@@ -15,7 +18,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - cash, Mr Clean, Vim Power & Shine
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
