@@ -1,13 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - clean 4 vents
   - office chair, pads, photo shoot
   - Cgco box
   - H's wall sign
+  - CT install
   - flt info for Cth
   - Cgco webmail
   - deck/railing
   - pillow for H
-  - CT install
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
