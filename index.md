@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - clean 4 vents
-  - office chair, pads, photo shoot
-  - Cgco box
+  - office chair, pads
   - H's wall sign
   - CT install
+  - photo shoot
   - flt info for Cth
   - Cgco webmail
   - deck/railing
