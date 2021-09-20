@@ -1,11 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - cut grass
+  - laundry
+  - pickup cleaning, Tevas
+  - Cgco wtf
+  - floor protectors
   - clean 4 vents
-  - office chair, pads
-  - H's wall sign
   - CT install
   - photo shoot
-  - flt info for Cth
   - Cgco webmail
   - deck/railing
   - pillow for H
@@ -19,7 +21,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw, HD jig
+  - bring bike rack, jigsaw, HD jig
+  - confirm cable lock
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
