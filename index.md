@@ -1,12 +1,12 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass
-  - deck/railing
   - CT install
   - laundry
+  - unclog drains
+  - clean 4 vents
+  - deck/railing
   - photo shoot
   - Cgco return
-  - clean 4 vents
   - pillow for H
   - drains
   - CC/Eastlink issue, confirm Eastlink settings
