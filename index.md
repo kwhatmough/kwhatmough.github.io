@@ -1,6 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - CT install
   - laundry
   - unclog drains
   - clean 4 vents
@@ -20,6 +19,7 @@
 - C
   - bring bike rack, jigsaw, HD jig
   - confirm cable lock
+  - return 1 seat pad
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
