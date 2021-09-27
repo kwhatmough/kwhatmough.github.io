@@ -3,6 +3,7 @@
   - laundry
   - unclog drains
   - clean 4 vents
+  - guard under sofa
   - deck/railing
   - photo shoot
   - Cgco return
