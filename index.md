@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - laundry
+  - trim J Maple
   - unclog drains
   - clean 4 vents
   - guard under sofa
@@ -18,7 +18,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring bike rack, jigsaw, HD jig
+  - bring bike rack, jigsaw, HD jig, seat pad
   - confirm cable lock
   - return 1 seat pad
   - fix blinds
