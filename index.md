@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - fix C USB
   - trim J Maple
   - unclog drains
   - clean 4 vents
