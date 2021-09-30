@@ -1,14 +1,15 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - fix CT
-  - replace downspouts
+  - replace downspouts, return bbq
   - trim J Maple
-  - unclog drains
-  - repair cabinet doors
   - clean 4 vents
   - guard under sofa
+  - repair cabinet doors
+  - unclog drains
   - deck/railing
   - photo shoot
+  - delete cloud records
   - Cgco return
   - pillow for H
   - drains
