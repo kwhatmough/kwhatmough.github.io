@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - trim J Maple, prep, cash
   - fix CT
   - replace downspouts, return bbq
-  - trim J Maple
-  - clean 4 vents
   - guard under sofa
+  - clean 4 vents
   - repair cabinet doors
   - unclog drains
   - deck/railing
