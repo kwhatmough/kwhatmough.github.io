@@ -1,8 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - trim J Maple, prep, cash
-  - fix CT
-  - replace downspouts, return bbq
+  - hdlghts auto
   - guard under sofa
   - clean 4 vents
   - repair cabinet doors
@@ -22,9 +20,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring bike rack, jigsaw, HD jig, seat pad
+  - bring bike rack, jigsaw, HD jig, seat pad, rain coat, shorts
   - confirm cable lock
-  - return 1 seat pad
+  - return seat pad, rain coat, shorts
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
