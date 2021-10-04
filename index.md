@@ -1,12 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - hdlghts auto
+  - photo shoot
   - guard under sofa
   - clean 4 vents
   - repair cabinet doors
   - unclog drains
   - deck/railing
-  - photo shoot
   - delete cloud records
   - Cgco return
   - pillow for H
@@ -20,9 +19,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring bike rack, jigsaw, HD jig, seat pad, rain coat, shorts
+  - bring jigsaw
   - confirm cable lock
-  - return seat pad, rain coat, shorts
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
