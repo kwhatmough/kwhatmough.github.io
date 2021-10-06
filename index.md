@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - photo shoot
+  - photo shoot info to Ca
   - book tires
   - guard under sofa
   - clean 4 vents
@@ -20,6 +20,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - set things up for Mike S
   - bring jigsaw
   - confirm cable lock
   - fix blinds
