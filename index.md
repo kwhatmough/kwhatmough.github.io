@@ -1,8 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - photo shoot info to Ca
   - book tires
   - guard under sofa
+  - M ID
+  - photo shoot info to Ca
   - clean 4 vents
   - repair cabinet doors
   - unclog drains
