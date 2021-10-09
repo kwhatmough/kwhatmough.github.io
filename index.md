@@ -22,10 +22,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - set things up for Mike S
   - bring jigsaw
+  - set things up for Mike S
   - confirm cable lock
-  - bring home card table with leg extensions
   - fix blinds
   - call AJ
   - planter boxes, BBQ pad, side walkway
