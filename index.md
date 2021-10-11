@@ -1,7 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - cut grass
+  - garage
   - guard under sofa
+  - order MF
   - ask M+D about xmas: combine?
   - call Rogers
   - book tires
