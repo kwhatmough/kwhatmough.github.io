@@ -3,7 +3,6 @@
   - cut grass
   - garage
   - guard under sofa
-  - order MF
   - ask M+D about xmas: combine?
   - call Rogers
   - book tires
