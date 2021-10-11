@@ -1,8 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - ask M+D about xmas: combine?
-  - book tires
+  - cut grass
   - guard under sofa
+  - ask M+D about xmas: combine?
+  - call Rogers
+  - book tires
   - M ID
   - photo shoot info to Ca
   - clean 4 vents
@@ -22,6 +24,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - help Greg
   - bring jigsaw
   - set things up for Mike S
   - confirm cable lock
