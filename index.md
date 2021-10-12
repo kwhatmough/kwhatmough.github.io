@@ -3,6 +3,7 @@
   - call Rogers
   - book tires
   - condo w/measuring tape
+  - bbq cover, n nose pliers
   - guard under sofa
   - garage
   - M ID
