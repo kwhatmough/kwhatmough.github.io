@@ -2,6 +2,7 @@
 - GT
   - call Rogers
   - book tires
+  - MS365 setup
   - condo w/measuring tape
   - bbq cover, n nose pliers
   - guard under sofa
