@@ -1,11 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - call Rogers
-  - book tires
-  - MS365 setup
-  - condo w/measuring tape
-  - bbq cover, n nose pliers
   - guard under sofa
+  - bills
+  - YD cert
+  - MS365 setup
+  - n nose pliers
   - garage
   - M ID
   - photo shoot info to Ca
