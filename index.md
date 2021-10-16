@@ -1,16 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - guard under sofa
-  - YD cert
   - MS365 setup
+  - delete cloud records
+  - deck/railing
+  - YD cert
   - garage
-  - M ID
-  - photo shoot info to Ca
   - clean 4 vents
   - repair cabinet doors
   - unclog drains
-  - deck/railing
-  - delete cloud records
   - Cgco return
   - pillow for H
   - drains
@@ -23,8 +21,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - help Greg
   - bring jigsaw
+  - Ivy, laundry, fireplace, solar lights, winterize
+  - service UV
   - set things up for Mike S
   - fix blinds
   - planter boxes, BBQ pad, side walkway
@@ -33,7 +32,6 @@
   - washer and dryer
   - matress
   - fix bike basket
-  - service UV
   - basket lids
   - dispose of 2 rotten pcs
   - repair crawlspace door seal
