@@ -22,7 +22,7 @@
   - dryer (Rob K)
 - C
   - bring jigsaw
-  - Ivy, laundry, fireplace, solar lights, winterize
+  - Ivy, laundry, fireplace, clean bikes, solar lights, winterize
   - service UV
   - set things up for Mike S
   - fix blinds
