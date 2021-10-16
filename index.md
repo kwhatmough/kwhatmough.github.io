@@ -22,7 +22,7 @@
   - dryer (Rob K)
 - C
   - bring jigsaw
-  - clean Kona, solar lights, winterize
+  - winterize
   - service UV
   - set things up for Mike S
   - fix blinds
