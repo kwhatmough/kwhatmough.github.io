@@ -21,8 +21,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw
-  - winterize
+  - bring jigsaw, dish detergs, toothpaste
   - service UV
   - set things up for Mike S
   - fix blinds
