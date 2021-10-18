@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - water softener
   - guard under sofa
   - MS365 setup
   - delete cloud records
@@ -21,7 +22,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw, dish detergs, toothpaste
+  - bring jigsaw, dish detergs, toothpaste, bbq cover
   - service UV
   - set things up for Mike S
   - fix blinds
