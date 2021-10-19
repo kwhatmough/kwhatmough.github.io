@@ -1,8 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - water softener
-  - guard under sofa
+  - sofa, drains, a/c
   - MS365 setup
+  - migrate pwds
   - delete cloud records
   - deck/railing
   - YD cert
@@ -12,7 +12,7 @@
   - unclog drains
   - Cgco return
   - pillow for H
-  - drains
+  - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
   - sdb keys
