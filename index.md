@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - sofa, drains, a/c
+  - Cathie, picture, sofa, drains, groceries
   - MS365 setup
   - migrate pwds
   - delete cloud records
