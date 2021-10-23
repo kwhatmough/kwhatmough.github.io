@@ -1,8 +1,20 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - cash, cards
-  - condo Sun
-  - MM, J & C
+  - picture, sofa, drains
+  - MS365 setup
+  - migrate pwds
+  - delete cloud records
+  - 2 claims
+  - deck/railing
+  - YD cert
+  - garage
+  - clean 4 vents
+  - repair cabinet doors
+  - unclog drains
+  - Cgco return
+  - pillow for H
+  - basin drain issue
+  - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
   - sdb keys
   - Bill V: proceed
@@ -10,15 +22,21 @@
   - wifi
   - Kort re records
   - dryer (Rob K)
-  - deposit joint chq
 - C
-  - HS battery low
+  - bring jigsaw, dish detergs, toothpaste, bbq cover
   - service UV
+  - set things up for Mike S
+  - fix blinds
+  - planter boxes, BBQ pad, side walkway
+  - touch-ups (mech rm for ceiling chip?)
+  - deck boards (3h)
+  - washer and dryer
+  - matress
+  - fix bike basket
   - basket lids
   - dispose of 2 rotten pcs
   - repair crawlspace door seal
   - 5 & 8 line fix
-  - fix bathroom door hinges
   - install pump
   - shelves and organizers
   - cracks
@@ -51,3 +69,4 @@
   1. Close the liftgate manually
 - front edge 12.25", rear edge 8.5" (57.75" o.c.)
 - tag T-5456
+- H: 15", K: 20"
