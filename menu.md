@@ -1,0 +1,10 @@
+- Perrier - lime
+- Perrier - pink grapefruit
+- Ginger ale
+- Iced tea - lemon
+- Sparkling water - blueberry pomegranate
+- Sparkling water - cranberry raspberry
+- Cranberry cocktail
+- Sparkling apple cranbery cider (non-alc)
+- White wine
+- Red wine
