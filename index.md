@@ -6,6 +6,7 @@
   - MS365 setup
   - migrate pwds
   - delete cloud records
+  - glass table, rabbit fence
   - 2 claims
   - fix downspout
   - deck/railing
