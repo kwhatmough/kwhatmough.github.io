@@ -17,6 +17,7 @@
   - unclog drains
   - Cgco return
   - pillow for H
+  - redeem digital order
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
   - Sparlings: code
