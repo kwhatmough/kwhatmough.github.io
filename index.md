@@ -28,7 +28,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw, dish detergs, toothpaste, bbq cover
+  - bring jigsaw
   - service UV
   - set things up for Mike S
   - fix blinds
