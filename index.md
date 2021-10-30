@@ -29,7 +29,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - roof, yaks, water, fence
+  - fence
   - bring jigsaw
   - service UV
   - set things up for Mike S
