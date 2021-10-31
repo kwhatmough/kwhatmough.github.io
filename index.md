@@ -1,14 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pay visa bill
   - hang picture
   - sofa, drains
-  - send photo(s)
-  - MS365 setup
   - migrate pwds
   - delete cloud records
   - glass table, rabbit fence
   - 2 claims
+  - send photo(s)
+  - MS365 setup
   - fix downspout
   - deck/railing
   - YD cert
