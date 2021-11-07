@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - screenings, salt, packing tape, floor mats, card, gift card
+  - 2 bikes
+  - leaves
   - fix step
   - garage
   - glass table, rabbit fence
