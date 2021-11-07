@@ -1,22 +1,24 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - screenings, salt, packing tape, floor mats, card, gift card
   - fix step
-  - renew 3
-  - packing tape, card, gift card
+  - garage
+  - glass table, rabbit fence
+  - Ez
+  - fix downspout
+  - rollator
   - hang picture
+  - repair cabinet doors
   - sofa, drains
+  - renew 3
   - migrate pwds
   - delete cloud records
-  - glass table, rabbit fence
   - 2 claims
   - send photo(s)
   - MS365 setup
-  - fix downspout
   - deck/railing
   - YD cert
-  - garage
   - clean 4 vents
-  - repair cabinet doors
   - unclog drains
   - Cgco return
   - pillow for H
