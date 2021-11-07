@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - 2 bikes
-  - leaves
   - fix step
+  - fix flashing
   - garage
-  - glass table, rabbit fence
+  - rabbit fence
   - Ez
   - fix downspout
   - rollator
