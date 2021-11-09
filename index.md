@@ -1,6 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - ue voucher
   - fix step
   - fix flashing
   - garage
@@ -21,6 +20,7 @@
   - YD cert
   - clean 4 vents
   - unclog drains
+  - USB outlets
   - Cgco return
   - pillow for H
   - redeem digital order
