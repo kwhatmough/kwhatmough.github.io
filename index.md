@@ -1,5 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - migrate pwds
+  - delete cloud records
   - fix step
   - fix flashing
   - garage
@@ -11,8 +13,6 @@
   - repair cabinet doors
   - sofa, drains
   - renew 3
-  - migrate pwds
-  - delete cloud records
   - 2 claims
   - send photo(s)
   - MS365 setup
@@ -26,16 +26,15 @@
   - redeem digital order
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
-  - Sparlings: code
   - sdb keys
-  - Bill V: proceed
   - BBQ igniter
   - wifi
   - Kort re records
   - dryer (Rob K)
 - C
+  - bring jigsaw, return small circ
   - fence
-  - bring jigsaw
+  - fix marker position
   - service UV
   - set things up for Mike S
   - fix blinds
