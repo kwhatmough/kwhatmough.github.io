@@ -1,11 +1,12 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - delete cloud records
   - fix step
   - fix flashing
   - garage
   - rabbit fence
   - Ez
+  - delete cloud records
+  - register components
   - fix downspout
   - rollator
   - hang picture
@@ -21,7 +22,6 @@
   - unclog drains
   - USB outlets
   - Cgco return
-  - pillow for H
   - redeem digital order
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
