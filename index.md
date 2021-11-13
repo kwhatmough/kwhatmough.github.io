@@ -31,9 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw, return small circ
-  - fence
-  - fix marker position
+  - bring jigsaw
   - service UV
   - set things up for Mike S
   - fix blinds
