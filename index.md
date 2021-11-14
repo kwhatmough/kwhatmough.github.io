@@ -4,6 +4,7 @@
   - fix flashing
   - garage
   - rabbit fence
+  - D cell, t seats
   - Ez
   - delete cloud records
   - register components
