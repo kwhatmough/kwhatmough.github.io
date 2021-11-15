@@ -1,5 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - confirm w/BPet
+  - book GCheck
   - fix step
   - fix flashing
   - garage
@@ -7,7 +9,7 @@
   - D cell, t seats
   - Ez
   - delete cloud records
-  - register components
+  - register hw components
   - fix downspout
   - rollator
   - hang picture
