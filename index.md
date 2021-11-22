@@ -1,28 +1,23 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - confirm w/BPet
-  - FGF for C
   - Cgo
+  - YD cert
   - book GCheck
   - fix step
   - fix flashing
   - garage
   - rabbit fence
-  - D cell, t seats
+  - D cell
   - Ez
   - delete cloud records
   - register hw components
   - fix downspout
-  - rollator
   - hang picture
   - repair cabinet doors
   - sofa, drains
-  - renew 3
-  - 2 claims
+  - 2+ claims
   - send photo(s)
-  - MS365 setup
   - deck/railing
-  - YD cert
   - clean 4 vents
   - unclog drains
   - USB outlets
