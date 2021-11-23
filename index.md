@@ -3,7 +3,7 @@
   - Cgo
   - YD cert
   - book GCheck
-  - fix step
+  - dryer vent
   - fix flashing
   - garage
   - rabbit fence
