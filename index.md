@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - claim
+  - CR2032, ?
   - MS transfer
   - Cgo
   - H driving
-  - YD cert
-  - BF survey
   - book GCheck
   - dryer vent
   - fix flashing
@@ -18,7 +18,6 @@
   - hang picture
   - repair cabinet doors
   - sofa, drains
-  - 2+ claims
   - send photo(s)
   - deck/railing
   - clean 4 vents
