@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - CR2032, ?
+  - rack
+  - 1", knife, CR2032, ?
   - MS transfer
   - Cgo
   - H driving
