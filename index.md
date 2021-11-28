@@ -1,10 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - rack
-  - 1", knife, CR2032, ?
+  - carpet
   - MS transfer
   - Cgo
-  - H driving
   - book GCheck
   - dryer vent
   - fix flashing
