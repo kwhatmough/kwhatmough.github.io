@@ -1,15 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pickup pillows
-  - proceed with planters
-  - Cgo
+  - delete cloud records
+  - Cgo return
+  - Cgo mini
   - book GCheck
   - dryer vent
   - fix flashing
-  - garage
   - rabbit fence
+  - garage
   - Ez
-  - delete cloud records
   - register hw components
   - fix downspout
   - hang picture
@@ -18,8 +17,6 @@
   - deck/railing
   - clean 4 vents
   - unclog drains
-  - USB outlets
-  - Cgco return
   - redeem digital order
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
@@ -31,11 +28,10 @@
 - C
   - bring jigsaw
   - service UV
-  - set things up for Mike S
   - fix blinds
   - planter boxes, BBQ pad, side walkway
   - touch-ups (mech rm for ceiling chip?)
-  - deck boards (3h)
+  - deck boards
   - washer and dryer
   - matress
   - fix bike basket
