@@ -6,6 +6,7 @@
   - dryer vent
   - fix flashing
   - rabbit fence
+  - hang feeder
   - garage
   - Ez
   - register hw components
