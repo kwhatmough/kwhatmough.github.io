@@ -1,8 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - Cgo return
-  - Cgo mini
+  - activation
   - book GCheck
+  - carpet
+  - assessment
+  - cash
+  - Cgo mini
   - dryer vent
   - fix flashing
   - rabbit fence
