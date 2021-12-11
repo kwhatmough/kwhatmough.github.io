@@ -2,6 +2,7 @@
 - GT
   - carpet
   - sofa
+  - confirm c load, light batteries, gifts
   - hang feeder
   - dryer vent
   - hang picture
