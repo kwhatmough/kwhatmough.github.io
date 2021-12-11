@@ -1,26 +1,25 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - activation
-  - book GCheck
   - carpet
+  - sofa
+  - hang feeder
+  - dryer vent
+  - hang picture
   - assessment
+  - rabbit fence
+  - Ez
+  - fix flashing
   - cash
   - Cgo mini
-  - dryer vent
-  - fix flashing
-  - rabbit fence
-  - hang feeder
+  - clean 4 vents
+  - redeem digital order
+  - book GCheck
   - garage
-  - Ez
   - register hw components
   - fix downspout
-  - hang picture
-  - sofa, drains
   - send photo(s)
   - deck/railing
-  - clean 4 vents
   - unclog drains
-  - redeem digital order
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
   - sdb keys
