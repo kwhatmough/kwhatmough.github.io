@@ -1,17 +1,17 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - carpet
-  - sofa
+  - tree
+  - rabbit fence
+  - cash, cards, furniture pads
   - confirm c load, light batteries, gifts, Salv A
   - hang feeder
   - hang picture
   - assessment
-  - rabbit fence
   - Ez
-  - cash
-  - Cgo mini
-  - clean 4 vents
   - redeem digital order
+  - Cgo mini
+  - sofa
+  - clean 4 vents
   - book GCheck
   - garage
   - register hw components
