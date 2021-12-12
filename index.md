@@ -1,8 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - tree
   - rabbit fence
-  - cash, cards, furniture pads
+  - cards
   - confirm c load, light batteries, gifts, Salv A
   - hang feeder
   - hang picture
@@ -15,7 +14,6 @@
   - book GCheck
   - garage
   - register hw components
-  - fix downspout
   - send photo(s)
   - deck/railing
   - unclog drains
