@@ -1,15 +1,16 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - rabbit fence
   - cards
-  - confirm c load, light batteries, gifts, Salv A
+  - rabbit fence
   - hang feeder
+  - Salv A
+  - sofa
+  - light batteries
   - hang picture
   - assessment
   - Ez
   - redeem digital order
   - Cgo mini
-  - sofa
   - clean 4 vents
   - book GCheck
   - garage
