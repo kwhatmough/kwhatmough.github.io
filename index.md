@@ -4,7 +4,6 @@
   - rabbit fence
   - hang feeder
   - Salv A
-  - sofa
   - light batteries
   - hang picture
   - assessment
