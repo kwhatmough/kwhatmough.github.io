@@ -1,15 +1,15 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - TH gift cards
+  - r agent, s to H
+  - assessment
+  - redeem digital order
   - renew d lic
   - rabbit fence
   - hang feeder
   - Salv A
   - light batteries
   - hang picture
-  - assessment
   - Ez
-  - redeem digital order
   - Cgo mini
   - clean 4 vents
   - book GCheck
