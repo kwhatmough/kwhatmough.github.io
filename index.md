@@ -1,20 +1,19 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - r agent, s to H
-  - assessment
+  - aaa
   - hilltop
-  - Nat
+  - Nat adp
   - redeem digital order
-  - renew d lic
   - rabbit fence
   - hang feeder
+  - book GCheck
   - Salv A
-  - light batteries
-  - hang picture
   - Ez
+  - hang pictures
+  - renew d lic
+  - d light batteries
   - Cgo mini
   - clean 4 vents
-  - book GCheck
   - garage
   - register hw components
   - send photo(s)
