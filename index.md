@@ -4,9 +4,6 @@
   - hilltop
   - Nat adp
   - redeem digital order
-  - rabbit fence
-  - hang feeder
-  - book GCheck
   - Salv A
   - Ez
   - hang pictures
