@@ -1,8 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - fuel
-  - hilltop
   - gifts
+  - book g
   - Nat adp
   - redeem digital order
   - Salv A
