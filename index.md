@@ -1,8 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - book g (h)
   - Nat adp
   - redeem digital order
+  - book g (h)
   - Ez
   - hang pictures
   - renew d lic
