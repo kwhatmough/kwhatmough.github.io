@@ -1,6 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - thermo, bands, backpack, cash, hose, gifts, text Is
   - 40w, m eraser, am
   - Nat adp
   - redeem digital order
@@ -24,7 +23,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring jigsaw
+  - honey, tahini, jigsaw, usb outlet
   - service UV
   - fix blinds
   - planter boxes, BBQ pad, side walkway
