@@ -1,12 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - renew d lic
   - links for H
   - cash
+  - Htop
   - book g (h)
   - redeem digital order
   - Ez
   - hang pictures
-  - renew d lic
   - d light batteries
   - Cgo mini
   - clean 4 vents
