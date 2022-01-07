@@ -1,8 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - cash, pats, sides
+  - SDM(2), Pat's, sides, cash
+  - req
   - m and d
-  - renew d lic
   - links for H
   - Htop
   - book g (h)
