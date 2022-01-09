@@ -1,11 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - SDM(2), Pat's, sides, cash
-  - req
-  - m and d
-  - links for H
   - Htop
-  - book g (h)
+  - links for H
   - redeem digital order
   - Ez
   - hang pictures
@@ -25,7 +21,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - honey, tahini, jigsaw, usb outlet
+  - usb outlet
   - service UV
   - fix blinds
   - planter boxes, BBQ pad, side walkway
