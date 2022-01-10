@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - reply, cash, tools, tape, flashlight, cart
   - Htop
   - links for H
   - redeem digital order
