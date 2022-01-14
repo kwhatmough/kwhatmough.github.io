@@ -20,7 +20,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - usb outlet
+  - usb outlet, 2 Manu cards for laminating
   - service UV
   - fix blinds
   - planter boxes, BBQ pad, side walkway
