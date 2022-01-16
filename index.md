@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - Htop
+  - xls migration
   - redeem digital order
   - Ez
   - hang pictures
@@ -20,7 +21,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - usb outlet, 2 Manu cards for laminating
+  - usb outlet, 2 lamination cards
   - service UV
   - fix blinds
   - planter boxes, BBQ pad, side walkway
