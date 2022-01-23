@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - C phone
   - Htop
   - redeem digital order
   - Ez
@@ -20,7 +21,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - usb outlet, 2 lamination cards
+  - bring bags, water, paper prods
+  - return mirror
+  - usb outlet
   - service UV
   - fix blinds
   - planter boxes, BBQ pad, side walkway
