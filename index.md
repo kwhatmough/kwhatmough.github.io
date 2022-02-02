@@ -1,7 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - bills, t4
-  - ins status, monitor, pill org
+  - t4
   - water (both)
   - Htop
   - redeem digital order
