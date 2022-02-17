@@ -1,6 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - vday, Thurs, file folders
+  - water/water
+  - book T
+  - file folders (D)
   - tax rtn
   - Htop
   - redeem digital order
