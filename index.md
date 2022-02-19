@@ -1,12 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - water/water
   - book T
   - file folders (D)
   - tax rtn
+  - sdb keys
   - Htop
   - redeem digital order
-  - Ez
   - hang pictures
   - d light batteries
   - Cgo mini
@@ -18,7 +17,6 @@
   - unclog drains
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
-  - sdb keys
   - BBQ igniter
   - wifi
   - Kort re records
