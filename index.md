@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - renewals
+  - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - book T
   - file folders (D)
   - tax rtn
