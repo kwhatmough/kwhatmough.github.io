@@ -1,12 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - glove comps, water, s. salt
-  - renewals (IP & Oa), savings, sub claims
+  - s salt, d water
+  - L re R's 2 EB Gs
+  - book appt w/Ben
+  - clean glove comps
+  - savings, sub claims
   - windows
-  - coffee
-  - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - book T
-  - file folders (D)
+  - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - tax rtn
   - sdb keys
   - Htop
