@@ -1,9 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - s salt, d water
   - L re R's 2 EB Gs
   - book appt w/Ben
-  - clean glove comps
   - savings, sub claims
   - windows
   - book T
@@ -16,7 +14,6 @@
   - d light batteries
   - Cgo mini
   - clean 4 vents
-  - garage
   - register hw components
   - send photo(s)
   - deck/railing
@@ -28,7 +25,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bring bags, water, paper prods
   - return mirror
   - usb outlet
   - service UV
