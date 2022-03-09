@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - discuss resched w/H
   - L re R's 2 EB Gs
   - book appt w/Ben
   - savings, sub claims
