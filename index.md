@@ -1,13 +1,15 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - discuss resched w/H
+  - rpr lever, rpl cleaner & melter, select LM, call GT, D re...
   - L re R's 2 EB Gs
-  - book appt w/Ben
+  - tax rtn
+  - mirror
+  - water
   - savings, sub claims
   - windows
   - book T
   - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
-  - tax rtn
   - sdb keys
   - Htop
   - redeem digital order
@@ -26,7 +28,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - return mirror
   - usb outlet
   - service UV
   - fix blinds
