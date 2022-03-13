@@ -1,11 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - discuss resched w/H
-  - call GT, rpr lever, laundry, select LM, melter, D re...
+  - call GT, select LM, melter, D re...
   - L re R's 2 EB Gs
   - tax rtn
-  - mirror
-  - water
   - savings, sub claims
   - windows
   - book T
