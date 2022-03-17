@@ -1,11 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - call GT, select LM, melter, D re...
-  - L re R's 2 EB Gs
+  - garbage, condo water+claims, melter
   - tax rtn
-  - savings, sub claims
   - windows
-  - book T
   - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - sdb keys
   - Htop
@@ -25,6 +22,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - change filter
   - usb outlet
   - service UV
   - fix blinds
