@@ -1,7 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - garbage, condo water+claims, melter
+  - water, cash, melter
   - tax rtn
+  - grad stuff (see email Mar 25)
   - windows
   - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - sdb keys
