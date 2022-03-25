@@ -3,6 +3,7 @@
   - water, cash, melter
   - tax rtn
   - grad stuff (see email Mar 25)
+  - residence (see email Mar 25)
   - windows
   - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
   - sdb keys
