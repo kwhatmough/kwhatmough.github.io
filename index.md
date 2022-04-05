@@ -1,10 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - water, lmns, L&P, RW vin (2), melter
+  - water, lmns, L&P, RW vin (2), zloc, melter
   - return d fd
-  - book R4, T
-  - M's gift
-  - book eye chks
   - sec cams
   - tax rtn
   - i surg claim (rwto next)
