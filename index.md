@@ -1,9 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - water, lmns, L&P, RW vin (2), zloc, melter
+  - tax rtn
+  - water
   - return d fd
   - sec cams
-  - tax rtn
   - H (Dr Selnz)
   - i surg claim (rwto next)
   - grad stuff (see email Mar 25, 29)
@@ -32,6 +32,8 @@
   - change filter
   - usb outlet
   - service UV
+  - nail pops north side cabin
+  - trim low branches near north boundary
   - fix blinds
   - planter boxes, BBQ pad, side walkway
   - touch-ups (mech rm for ceiling chip?)
