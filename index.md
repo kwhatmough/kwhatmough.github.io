@@ -2,25 +2,20 @@
 - GT
   - tax rtn
   - water
+  - change filter, sprg list
   - return d fd
-  - sec cams
   - H (Dr Selnz)
   - i surg claim (rwto next)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
-  - windows, stone, slo crete
-  - [lic plate refund](https://www.youtube.com/watch?v=0CT3pMPVHuM&t=118s)
+  - stone, slo crete, deck, Htop
   - sdb keys
-  - Htop
   - H pport
-  - redeem digital order
   - hang pictures
   - d light batteries
   - Cgo mini
   - clean 4 vents
   - register hw components
-  - send photo(s)
-  - deck/railing
   - unclog drains
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
