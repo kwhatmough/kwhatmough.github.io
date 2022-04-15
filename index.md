@@ -1,5 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - vacn
+  - G+G
   - tax rtn
   - water
   - change filter, sprg list
