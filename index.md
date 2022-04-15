@@ -26,6 +26,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - return smr wear
   - change filter
   - usb outlet
   - service UV
