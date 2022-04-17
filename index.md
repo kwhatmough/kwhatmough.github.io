@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - vacn
+  - re-book tests
   - G+G
   - tax rtn
   - water
@@ -27,6 +28,7 @@
   - dryer (Rob K)
 - C
   - return smr wear
+  - tighen screws
   - change filter
   - usb outlet
   - service UV
