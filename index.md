@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - vacn
+  - taxi, 2 apps, knnl
   - re-book H eye
   - G+G
   - tax rtn
