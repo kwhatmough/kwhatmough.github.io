@@ -4,7 +4,6 @@
   - taxi, 2 apps, dry bag
   - tax rtn
   - G+G
-  - i surg claim (rwto next)
   - empty c vac
   - change filter, sprg list
   - H (Dr Selnz)
