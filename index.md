@@ -1,14 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - taxi, 2 apps, knnl
-  - re-book H eye
-  - G+G
+  - water, CT, return d fd
+  - taxi, 2 apps, dry bag
   - tax rtn
-  - water
-  - change filter, sprg list
-  - return d fd
-  - H (Dr Selnz)
+  - G+G
   - i surg claim (rwto next)
+  - empty c vac
+  - change filter, sprg list
+  - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
   - stone, slo crete, deck, Htop
@@ -27,8 +26,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - return smr wear
-  - tighen screws
   - change filter
   - usb outlet
   - service UV
