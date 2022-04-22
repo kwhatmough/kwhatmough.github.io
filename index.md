@@ -1,5 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - Mar's laptop
   - water, CT, return d fd
   - taxi, 2 apps, dry bag
   - tax rtn
