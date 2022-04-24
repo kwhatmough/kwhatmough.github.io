@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - tax rtn
   - taxi, 2 apps
-  - change filter, fix steps, a/c, barrel, r fence, deck furn, xm lights, bike locks, C bike
-  - empty c vac
+  - tax rtn
+  - change filter, empty c vac, fix steps
   - G+G
+  - fix pocket
   - return d fd
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
