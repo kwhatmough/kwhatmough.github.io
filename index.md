@@ -1,7 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pay aer invoice, pay hydro bill, order furniture, pick deck colour
+  - pay aer invoice
+  - pick deck colour
   - cash
+  - pay vsa
   - unpack
   - G+G
   - change filter, empty c vac, fix steps
