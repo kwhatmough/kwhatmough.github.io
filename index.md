@@ -2,6 +2,7 @@
 - GT
   - pay aer invoice, pay hydro bill, order furniture, pick deck colour
   - cash
+  - unpack
   - G+G
   - change filter, empty c vac, fix steps
   - fix pocket
