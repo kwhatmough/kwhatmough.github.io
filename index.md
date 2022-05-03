@@ -1,11 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - tickets/photos
   - pay aer invoice
   - pick deck colour
   - cash
-  - pay vsa
   - unpack
   - G+G
+  - solve post
+  - brace tree
+  - floor protector
   - change filter, empty c vac, fix steps
   - fix pocket
   - return d fd
