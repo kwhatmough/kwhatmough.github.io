@@ -1,17 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - flers, cndo, get op details from D (-> Peter)
+  - pick deck colour
   - tickets/photos
   - pay aer invoice
-  - pick deck colour
-  - cash
+  - mr cln, cash, return d fd
   - unpack
   - G+G
-  - solve post
   - brace tree
-  - floor protector
   - change filter, empty c vac, fix steps
-  - fix pocket
-  - return d fd
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
