@@ -1,10 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - flers, cndo, get op details from D (-> Peter)
+  - flwers, cndo
   - pick deck colour
   - tickets/photos
   - pay aer invoice
-  - mr cln, cash, return d fd
+  - mr cln, return d fd
+  - call MM
   - unpack
   - G+G
   - brace tree
