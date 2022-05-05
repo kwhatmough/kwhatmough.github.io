@@ -9,7 +9,8 @@
   - unpack
   - G+G
   - brace tree
-  - change filter, empty c vac, fix steps
+  - change filter, empty c vac, fix steps, clean fp glass
+  - H health card
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
