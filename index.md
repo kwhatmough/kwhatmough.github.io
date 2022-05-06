@@ -1,10 +1,9 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - flwers, cndo
   - pick deck colour
   - tickets/photos
   - pay aer invoice
-  - mr cln, return d fd
+  - mr cln, return d fd, drno for C
   - call MM
   - unpack
   - G+G
