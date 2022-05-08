@@ -1,14 +1,16 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pick deck colour
+  - order wrap
+  - pick colours
   - tickets/photos
+  - waistwz
   - pay aer invoice
-  - mr cln, return d fd, drno for C
-  - call MM
+  - mr cln, return d fd, drno
   - unpack
   - G+G
   - brace tree
   - change filter, empty c vac, fix steps, clean fp glass
+  - xwheel
   - H health card
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
@@ -29,8 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - change filter
-  - usb outlet
+  - return T wheel
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
