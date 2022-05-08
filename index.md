@@ -4,6 +4,7 @@
   - pick colours
   - tickets/photos
   - waistwz
+  - ppane
   - pay aer invoice
   - mr cln, return d fd, drno
   - unpack
