@@ -1,15 +1,13 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - order wrap
   - pick colours
   - tickets/photos
   - waistwz
-  - ppane
   - pay aer invoice
-  - mr cln, return d fd, drno
   - unpack
   - G+G
   - brace tree
+  - replace ext vent
   - change filter, empty c vac, fix steps, clean fp glass
   - xwheel
   - H health card
