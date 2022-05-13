@@ -1,15 +1,14 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pick colours
-  - tickets/photos
-  - waistwz
+  - vinegar, text Greg, d food, soil, pickup decks, return wheel
+  - photos, quote, prep weed treatment
+  - garbage incl fridge, Elink, call Darcy
+  - tape, glue, Dlux, Wwise
+  - replace ext vent
   - pay aer invoice
   - unpack
   - G+G
-  - brace tree
-  - replace ext vent
   - change filter, empty c vac, fix steps, clean fp glass
-  - xwheel
   - H health card
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
