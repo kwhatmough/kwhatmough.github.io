@@ -30,6 +30,7 @@
   - dryer (Rob K)
 - C
   - return T wheel
+  - bring home glue
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
