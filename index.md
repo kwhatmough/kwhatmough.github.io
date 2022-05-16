@@ -1,11 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - vinegar, text Greg, d food, soil, pickup decks, return wheel
-  - photos, quote, prep weed treatment
-  - garbage incl fridge, Elink, call Darcy
+  - 12" clamps, brackets
+  - add soap, weed trtmt
+  - photos, quote, aer invoice
   - tape, glue, Dlux, Wwise
   - replace ext vent
-  - pay aer invoice
   - unpack
   - G+G
   - change filter, empty c vac, fix steps, clean fp glass
@@ -29,8 +28,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - return T wheel
-  - bring home glue
+  - ladder hooks
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
