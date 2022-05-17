@@ -1,9 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - final py
   - 12" clamps, brackets
-  - add soap, weed trtmt
-  - photos, quote, aer invoice
-  - tape, glue, Dlux, Wwise
+  - glue, caulking, Dlux, Wwise
   - replace ext vent
   - unpack
   - G+G
