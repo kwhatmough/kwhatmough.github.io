@@ -1,16 +1,16 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - push
-  - p tow, water, groc
+  - thin pcs, base+cap, repairs
+  - cut grass
+  - p tow, water, groc, ladder hooks
+  - Dlux
   - uwave
+  - push
+  - replace ext vent
   - chiro for M+D
   - final py
-  - thin pcs, base+cap, repairs
-  - Dlux
   - Wwise
-  - replace ext vent
   - sk caps
-  - ladder hooks
   - G+G
   - change filter, empty c vac, fix steps, clean fp glass
   - H health card, dep chq, create folder
