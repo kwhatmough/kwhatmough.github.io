@@ -1,13 +1,19 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - push
+  - p tow, water, groc
+  - uwave
+  - chiro for M+D
   - final py
-  - 12" clamps, brackets
-  - glue, caulking, Dlux, Wwise
+  - thin pcs, base+cap, repairs
+  - Dlux
+  - Wwise
   - replace ext vent
-  - unpack
+  - sk caps
+  - ladder hooks
   - G+G
   - change filter, empty c vac, fix steps, clean fp glass
-  - H health card
+  - H health card, dep chq, create folder
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
