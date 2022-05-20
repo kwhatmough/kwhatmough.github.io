@@ -1,7 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - r fence
-  - putty (Dap 53), screenings
+  - putty (Dap 53) or caulk (Dap Alex Plus), screenings
   - base+cap, repairs
   - H health card, dep chq, create folder
   - rechrg
