@@ -1,16 +1,16 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - r fence
+  - base+cap, repairs
+  - H health card, dep chq, create folder
   - rechrg
   - interlock (S+C)
   - paint choice, stone
-  - base+cap, repairs
   - push
   - replace ext vent
   - sk caps
   - G+G
   - change filter, empty c vac, fix steps, clean fp glass
-  - H health card, dep chq, create folder
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
