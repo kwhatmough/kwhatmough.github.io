@@ -1,14 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - r fence
-  - Dlx, putty (Dap 53) or caulk (Dap Alex Plus), screenings
-  - base+cap, repairs
-  - H health card, dep chq, create folder
-  - rechrg
   - interlock (S+C)
-  - paint choice, stone
-  - push
+  - final base, repairs
+  - r fence
   - replace ext vent
+  - replys from Drcy, Qu
+  - H health card, dep chq, create folder
   - sk caps
   - G+G
   - change filter, empty c vac, fix steps, clean fp glass
