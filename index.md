@@ -1,9 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - interlock (S+C)
-  - final base, repairs
+  - repairs
   - replace ext vent
   - prep T
+  - M claims
   - r fence
   - replys from Drcy, Qu
   - H health card, dep chq, create folder
