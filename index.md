@@ -2,8 +2,9 @@
 - GT
   - interlock (S+C)
   - final base, repairs
-  - r fence
   - replace ext vent
+  - prep T
+  - r fence
   - replys from Drcy, Qu
   - H health card, dep chq, create folder
   - sk caps
