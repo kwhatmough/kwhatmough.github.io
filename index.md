@@ -1,12 +1,12 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - interlock (S+C)
-  - repairs
-  - replace ext vent
-  - prep T
+  - interlock, repairs
+  - remove racks
+  - wash T
+  - Tue night
   - M claims
   - r fence
-  - replys from Drcy, Qu
+  - Drcy
   - H health card, dep chq, create folder
   - sk caps
   - G+G
@@ -14,7 +14,7 @@
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
-  - stone, slo crete, deck, Htop
+  - slo crete
   - sdb keys
   - H pport
   - hang pictures
