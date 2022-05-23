@@ -2,6 +2,7 @@
 - GT
   - interlock, repairs
   - remove racks
+  - cut grass
   - wash T
   - Tue night
   - M claims
