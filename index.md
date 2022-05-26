@@ -1,9 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - M claims
-  - second coat
-  - p/u S 7pm
-  - wash T
   - r fence
   - Drcy
   - H health card, dep chq, create folder
