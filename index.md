@@ -1,12 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - cut grass
   - r fence
   - Drcy
   - H health card, dep chq, create folder
   - sk caps
   - G+G
-  - change filter, fix steps, clean fp glass
+  - fix steps
   - H (Dr Selnz)
   - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
