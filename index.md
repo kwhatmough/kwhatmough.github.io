@@ -1,10 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - D, dog kit, cellar vent, p-glass, Swfr/Vm/Aha/gran/slice/filter 054-0164-2 $23
+  - D, Tim 9am, cellar vent, p-glass, Swfr/Vm/Aha/gran/slice/filter 054-0164-2 $23
   - PTO
   - resched hair
   - kennel
-  - acc, car, tkts, pass, etc
+  - car, tkts, pass, etc
   - Schw: cnfm W8BEN, work addr
   - r fence
   - Drcy
