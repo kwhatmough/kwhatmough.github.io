@@ -2,7 +2,6 @@
 - GT
   - D, Tim 9am, cellar vent, p-glass, Swfr/Vm/Aha/gran/slice/filter 054-0164-2 $23
   - PTO
-  - resched hair
   - kennel
   - car, tkts, pass, etc
   - Schw: cnfm W8BEN, work addr
