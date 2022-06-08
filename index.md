@@ -1,12 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - wine
-  - Tim 9am
-  - D (see email)
-  - cellar vent, Swfr/Vm/Aha/gran/filter 054-0164-2 $23
+  - D update sprdsht
   - PTO
   - kennel
   - car, tkts, pass, etc
+  - cellar vent, Swfr, filter 054-0164-2 $23
   - Schw: cnfm W8BEN, work addr
   - r fence
   - Drcy
