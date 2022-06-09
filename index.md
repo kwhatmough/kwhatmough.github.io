@@ -1,6 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - D update sprdsht
+  - card
   - PTO
   - kennel
   - car, tkts, pass, etc
