@@ -1,5 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - call CL (see text)
+  - AC info (see email)
   - D update sprdsht
   - card
   - PTO
@@ -32,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - ladder hooks
+  - move ladder, finish weeds, check gate, cam
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
