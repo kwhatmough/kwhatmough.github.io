@@ -7,6 +7,7 @@
   - PTO
   - kennel
   - car, tkts, pass, etc
+  - cpu stand
   - cellar vent, Swfr, filter 054-0164-2 $23
   - Schw: cnfm W8BEN, work addr
   - r fence
@@ -34,7 +35,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - move ladder, finish weeds, check gate, cam
+  - C monitor
+  - finish tie down, mat, cam, fireplace, gate, fix garden
+  - fix mower
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
