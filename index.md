@@ -6,6 +6,7 @@
   - D update sprdsht
   - card
   - PTO
+  - C monitor
   - kennel
   - car, tkts, pass, etc
   - cpu stand, mower
@@ -36,9 +37,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rack, cspace
-  - mat, fplace, move garden, gate
-  - C monitor
+  - blue bgs
+  - fplace, move garden, gate
   - mower
   - shed key
   - service UV
