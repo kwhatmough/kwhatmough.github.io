@@ -1,17 +1,15 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - paymt
-  - call CL (see text)
-  - AC info (see email)
   - D update sprdsht
   - card
+  - AC info (see email)
   - PTO
   - C monitor
   - kennel
   - car, tkts, pass, etc
-  - cpu stand, mower
-  - cellar vent, Swfr, filter 054-0164-2 $23
   - Schw: cnfm W8BEN, work addr
+  - cellar vent, Swfr, filter 054-0164-2 $23
   - r fence
   - Drcy
   - H health card, dep chq, create folder
