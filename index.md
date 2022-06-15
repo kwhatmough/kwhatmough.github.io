@@ -1,14 +1,12 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - garage
-  - card, b bags, cable clamps, screws
+  - card, b bags, mop head, cable clamps, screws
   - D update sprdsht
   - AC info (see email)
   - PTO
   - C monitor
   - kennel
   - car, tkts, pass, etc
-  - Schw: cnfm W8BEN, work addr
   - cellar vent, Swfr, filter 054-0164-2 $23
   - r fence
   - Drcy
