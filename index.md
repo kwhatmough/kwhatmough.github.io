@@ -1,7 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - card, b bags, mop head, cable clamps, screws
+  - card
   - D update sprdsht
+  - cable clamps, screws
   - AC info (see email)
   - PTO
   - C monitor
@@ -33,7 +34,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - blue bgs
   - fplace, move garden, gate
   - mower
   - shed key
