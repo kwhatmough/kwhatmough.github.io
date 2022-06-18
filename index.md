@@ -1,6 +1,5 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - card
   - D update sprdsht
   - cable clamps, screws
   - AC info (see email)
@@ -34,9 +33,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fplace, move garden, gate
   - mower
-  - shed key
+  - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
