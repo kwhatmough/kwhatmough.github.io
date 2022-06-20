@@ -1,10 +1,11 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - D update sprdsht
-  - cable clamps, screws
-  - AC info (see email)
   - PTO
+  - cable clamps, screws
+  - D update sprdsht
+  - AC info (see email)
   - C monitor
+  - confirm refund HH
   - kennel
   - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
@@ -33,7 +34,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - mower
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
