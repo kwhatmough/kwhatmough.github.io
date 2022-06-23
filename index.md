@@ -1,6 +1,6 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - batt, car, iv
+  - AB upload
   - PTO
   - cable clamps, screws
   - D update sprdsht
