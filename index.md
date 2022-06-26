@@ -1,12 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
+  - C monitor
+  - C visit
   - AB upload
-  - PTO
-  - cable clamps, screws
   - D update sprdsht
   - AC info (see email)
-  - C monitor
-  - confirm refund HH
   - kennel
   - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
