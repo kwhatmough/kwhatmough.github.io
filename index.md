@@ -1,7 +1,7 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - rebook I, carpet, C monitor
-  - C visit
+  - r card, H re cars, renew, wash T, weeds
+  - rebook I, C monitor
   - AB upload
   - D update sprdsht
   - AC info (see email)
