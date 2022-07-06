@@ -1,11 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - r card, H re cars, renew, wash T, weeds
-  - rebook I, C monitor
+  - confirm Aug, book 2 addl days
+  - renew pres, wash T, weeds
   - AB upload
   - D update sprdsht
   - AC info (see email)
-  - kennel
   - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
   - r fence
