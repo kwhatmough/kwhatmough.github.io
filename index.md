@@ -1,7 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - confirm Aug, book 2 addl days
-  - renew pres, wash T, weeds
+  - book H
+  - update cal w/FPS and C
+  - renew pres
   - AB upload
   - D update sprdsht
   - AC info (see email)
@@ -32,6 +33,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - USB
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
