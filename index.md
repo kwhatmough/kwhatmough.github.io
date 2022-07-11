@@ -2,7 +2,7 @@
 - GT
   - book H
   - ack AC change
-  - update cal w/FPS and C
+  - map, gift card, treats, fruit, laundry, SP, wash car, Isabel
   - renew pres
   - AB upload
   - D update sprdsht
@@ -34,8 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - USB
-  - rack, Nrco
+  - blue bags
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
