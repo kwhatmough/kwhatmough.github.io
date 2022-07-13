@@ -1,12 +1,10 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
   - book H
-  - ack AC change
-  - map, gift card, treats, fruit, laundry, SP, wash car, Isabel
+  - map, SP
   - renew pres
   - AB upload
   - D update sprdsht
-  - AC info (see email)
   - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
   - r fence
@@ -34,7 +32,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - blue bags
+  - USB key?
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
