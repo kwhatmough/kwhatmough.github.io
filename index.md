@@ -1,19 +1,16 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - book H
+  - cash, t paste, AF
+  - D latest letter
   - renew pres
-  - AB upload
   - D update sprdsht
   - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
-  - r fence
   - Drcy
-  - H health card, dep chq, create folder
+  - dep chq, create folder
   - sk caps
   - G+G
   - fix steps
-  - H (Dr Selnz)
-  - grad stuff (see email Mar 25, 29)
   - residence (see email Mar 25)
   - slo crete
   - sdb keys
@@ -31,7 +28,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - USB key?
+  - ties
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
