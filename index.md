@@ -1,9 +1,8 @@
 - [routine](routine.md) [plan](plan.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [menu](menu.html)
 - GT
-  - pu
-  - garbage
+  - T
   - reply to Sh
-  - cash, t paste, AF
+  - L&P, m powder, cash, t paste, AF
   - D latest letter
   - renew pres
   - D update sprdsht
