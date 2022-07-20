@@ -2,7 +2,7 @@
 - GT
   - T
   - reply to Sh
-  - L&P, m powder, cash, t paste, AF
+  - soda, L&P, m powder, cash, t paste, AF
   - D latest letter
   - renew pres
   - D update sprdsht
