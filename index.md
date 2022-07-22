@@ -1,4 +1,4 @@
-- [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
+- [checklist](checklist.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - book H's 2nd
   - reply to Sh
