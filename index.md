@@ -2,7 +2,7 @@
 - GT
   - book H's 2nd
   - reply to Sh
-  - soda, L&P, m powder, cash, t paste, AF
+  - cash, t paste
   - D latest letter
   - renew pres
   - D update sprdsht
@@ -30,6 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - shock pump, helmet
   - ties
   - fplace, move garden, gate
   - service UV
