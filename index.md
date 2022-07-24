@@ -30,6 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - edger
   - shock pump, helmet
   - ties
   - fplace, move garden, gate
