@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - watch for Brid letter
   - book H's 2nd
   - reply to Sh
   - cash, t paste
-  - D latest letter
   - renew pres
   - D update sprdsht
   - car, tkts, pass, etc
@@ -30,9 +30,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - edger
+  - edger, elbow
   - shock pump, helmet
-  - ties
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
