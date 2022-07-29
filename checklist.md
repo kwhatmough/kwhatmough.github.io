@@ -42,62 +42,64 @@
 
 - ~~sign online forms~~
 - ~~watch briefing video~~
-- ~~print checklist~~
-- ~~load boat (not tight)~~
-- ~~charge laptop~~
-- ~~clean eyewear~~
+- print checklist
+- load boat (not tight)
+- charge light, Garmin
+- clean eyewear
 
 # Morning
 
 - complete online Covid screening and capture screen
 - tighten boat
-- load bike
+- remove saddle bag and load bike
 
 ### Vehicle
 
-- ~~paper towel~~
-- ~~change tent~~
-- ~~footstool~~
-- ~~roof kit~~
-- ~~long cable lock w/key~~
-- ~~4L water~~
-- ~~spare towel~~
-- ~~microfiber cloth~~
-- ~~2 cable locks~~
-- ~~throw rope~~
-- ~~spare clothing~~
-- ~~saddle bag~~
-- ~~cordless drill~~
-- ~~2 boat cradles~~
-- ~~1 paddle cradle~~
-- ~~masking tape~~
-- ~~screwdriver~~
-- ~~leash~~
-- ~~paddle~~
-- ~~checklist~~
-- ~~PFD w/whistle~~
-- ~~boots~~
+- paper towel
+- change tent
+- footstool
+- bike pump
+- roof kit
+- long cable lock w/key
+- 4L water
+- spare towels
+- microfiber cloth
+- 2 cable locks
+- throw rope
+- spare clothing
+- saddle bag
+- cordless drill
+- 2 boat cradles
+- 1 paddle cradle
+- masking tape
+- screwdriver
+- leash
+- paddle
+- checklist
+- PFD w/whistle
+- boots
 - spare eyewear and cases
 - face mask
+- yoga mat
 
 ### Transition Bag
 
-- ~~spare face mask~~
-- ~~magnetic key box~~
-- ~~bike helmet~~
-- ~~bike shoes~~
-- ~~running shoes~~
-- ~~socks~~
-- ~~towel~~
-- ~~floor mat~~
+- spare face mask
+- magnetic key box
+- bike helmet
+- bike shoes
+- running shoes
+- socks
+- towel
+- floor mat
 - 2 filled water bottles
 - whistle
 - flag
 
 ### Startline Bag
 
-- ~~headlamp~~
-- ~~carabiner~~
-- ~~Garmin~~
-- ~~gloves~~
-- ~~hat~~
+- headlamp
+- carabiner
+- Garmin
+- gloves
+- hat
