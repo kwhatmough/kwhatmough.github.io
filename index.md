@@ -1,4 +1,4 @@
-- [checklist](checklist.html) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
+- [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - watch for Brid letter
   - book H's 2nd
@@ -30,8 +30,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - edger, elbow
-  - shock pump, helmet
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
