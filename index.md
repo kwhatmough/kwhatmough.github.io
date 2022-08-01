@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - towels? chairs?
   - watch for Brid letter
   - book H's 2nd
   - reply to Sh
@@ -30,6 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - water, prop
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
