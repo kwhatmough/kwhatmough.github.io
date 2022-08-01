@@ -32,6 +32,7 @@
   - dryer (Rob K)
 - C
   - water, prop
+  - inst pot
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
