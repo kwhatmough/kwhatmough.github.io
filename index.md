@@ -31,7 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - water, prop
+  - draino, water, prop
   - bag of sheets, inst pot
   - fplace, move garden, gate
   - service UV
