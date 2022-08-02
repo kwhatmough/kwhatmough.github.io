@@ -2,6 +2,7 @@
 - GT
   - towels? chairs?
   - watch for Brid letter
+  - update ins info w/Dr D
   - book H's 2nd
   - reply to Sh
   - cash, t paste
