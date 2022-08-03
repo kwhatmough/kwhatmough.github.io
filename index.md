@@ -30,7 +30,7 @@
 - C
   - draino, water, sml cargo mat
   - prop
-  - return w/bag of sheets, inst pot
+  - return w/bag of sheets, inst pot, hand truck
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
