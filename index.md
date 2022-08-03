@@ -1,10 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - towels? chairs?
-  - watch for Brid letter
   - update ins info w/Dr D
-  - book H's 2nd
-  - reply to Sh
   - cash, t paste
   - renew pres
   - D update sprdsht
@@ -32,8 +28,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - draino, water, sml cargo mat, prop
-  - bag of sheets, inst pot
+  - draino, water, sml cargo mat
+  - prop
+  - return w/bag of sheets, inst pot
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
