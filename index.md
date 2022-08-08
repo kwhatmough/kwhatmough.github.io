@@ -1,5 +1,10 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - H
+  - I
+  - App, R4
+  - update FPS phone
+  - pk
   - update ins info w/Dr D
   - cash, t paste
   - renew pres
@@ -28,9 +33,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - draino, water, sml cargo mat
   - prop
-  - return w/bag of sheets, inst pot, hand truck
   - fplace, move garden, gate
   - service UV
   - nail pops north side cabin
