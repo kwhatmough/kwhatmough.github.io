@@ -1,23 +1,15 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - H
-  - I
-  - App, R4
-  - paymt
   - update FPS phone
-  - pk
-  - update ins info w/Dr D
+  - car, tkts, pass, cash
+  - update ins info (Dr D, SDM)
   - cash, t paste
-  - renew pres
   - D update sprdsht
-  - car, tkts, pass, etc
   - cellar vent, Swfr, filter 054-0164-2 $23
-  - Drcy
   - dep chq, create folder
   - sk caps
   - G+G
   - fix steps
-  - residence (see email Mar 25)
   - slo crete
   - sdb keys
   - H pport
