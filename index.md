@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - update FPS phone
-  - car, tkts, pass, cash
+  - Ben, Elink, vid
+  - H pport
   - update ins info (Dr D, SDM)
   - cash, t paste
   - D update sprdsht
@@ -12,7 +12,6 @@
   - fix steps
   - slo crete
   - sdb keys
-  - H pport
   - hang pictures
   - d light batteries
   - Cgo mini
@@ -26,6 +25,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - bikes
   - prop
   - fplace, move garden, gate
   - service UV
