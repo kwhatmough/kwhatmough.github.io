@@ -1,15 +1,10 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - wtf
   - orth claim
-  - reply to Sha/Ben
-  - H pport
   - update ins info (Dr D, SDM)
-  - cash, t paste
   - D update sprdsht
   - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
-  - dep chq, create folder
   - sk caps
   - G+G
   - fix steps
@@ -28,9 +23,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - bikes
   - prop
-  - fplace, move garden, gate
+  - fplace, gate
   - service UV
   - nail pops north side cabin
   - trim low branches near north boundary
