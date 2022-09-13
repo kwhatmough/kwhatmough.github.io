@@ -1,18 +1,20 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - condo
-  - clothes
-  - deposit c
   - I's clr
   - cedar
-  - trees
+  - Xpl
+  - deposit c, applic, fasteners, primer, paint, bbq cvr
+  - jsaw, sml crc saw
   - patio
+  - clothes
+  - trees
   - C pspt
   - cancel Pr
   - Json
   - orth, eyewear claim
   - update ins info (Dr D, SDM)
   - D update sprdsht
+  - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
   - sk caps
