@@ -1,6 +1,5 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - I's clr
   - patio
   - trees
   - C pspt
@@ -30,6 +29,7 @@
   - dryer (Rob K)
 - C
   - prop
+  - return w/harness, sml crc saw, pry bar, csink bit
   - fplace, gate
   - service UV
   - nail pops north side cabin
