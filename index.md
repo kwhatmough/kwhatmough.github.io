@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - patio
   - trees
+  - patio
   - C pspt
   - Json
   - orth, eyewear claim
@@ -29,7 +29,9 @@
   - dryer (Rob K)
 - C
   - prop
-  - return w/harness, sml crc saw, pry bar, csink bit
+  - reinfc, cap
+  - weeds, 2 locn of branches, tidy yard
+  - restore sml crc saw, pry bar, csink bit
   - fplace, gate
   - service UV
   - nail pops north side cabin
