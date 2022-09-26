@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - D update sprdsht
   - book T w/FCA
   - trees
   - patio
@@ -7,7 +8,6 @@
   - Json
   - orth, eyewear claim
   - update ins info (Dr D, SDM)
-  - D update sprdsht
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
@@ -29,14 +29,12 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - prop
-  - reinfc, cap
-  - weeds, 2 locn of branches, tidy yard
+  - prop, garbage
+  - mesh, rocks, cap
   - restore sml crc saw, pry bar, csink bit
   - fplace, gate
   - service UV
   - nail pops north side cabin
-  - trim low branches near north boundary
   - fix blinds
   - planter boxes, BBQ pad, side walkway
   - touch-ups (mech rm for ceiling chip?)
