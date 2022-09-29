@@ -30,7 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - prop, garbage
+  - clear lids, prop, garbage
   - mesh, rocks, cap
   - restore sml crc saw, pry bar, csink bit
   - fplace, gate
