@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - laundry, Rav4 oil/racks/tire, TW, garbage
-  - cover a/c
+  - book R4, cut grass, garbage
   - D update sprdsht
   - fix intrlk
+  - cover a/c
   - book T w/FCA
   - C pspt
   - Json
