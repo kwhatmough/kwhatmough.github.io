@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - book R4, cut grass, garbage
+  - fill tires, cut grass, garbage, scrnings
   - D update sprdsht
   - fix intrlk
   - cover a/c
