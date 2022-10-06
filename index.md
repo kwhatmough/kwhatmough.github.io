@@ -1,12 +1,12 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - cut grass, CT for lghts, scrnings
+  - main for Monday
   - fix intrlk
+  - orth, eyewear claim
   - cover a/c
   - book T w/FCA
   - C pspt
   - Json
-  - orth, eyewear claim
   - update ins info (Dr D, SDM)
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
@@ -29,7 +29,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - prop, burlap, markers, fence, chair
+  - recover, prop, burlap, markers, fence, chair
   - service UV
   - nail pops north side cabin
   - fix blinds
