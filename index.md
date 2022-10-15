@@ -1,10 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - book T w/FCA
-  - orth, eyewear claim
   - fix intrlk
+  - H iP, deposit
   - book I
-  - tap, furniture, barrel, hw cloth
+  - tap, furniture, barrel, hw cloth, bikes
   - C pspt
   - Json
   - update ins info (Dr D, SDM)
