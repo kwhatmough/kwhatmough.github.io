@@ -27,7 +27,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - recover, prop, burlap, markers, fence, chair
+  - recover, prop/gas, burlap, markers, fence, chair, vac dryer vents
+  - swim goggles for D
   - service UV
   - nail pops north side cabin
   - fix blinds
