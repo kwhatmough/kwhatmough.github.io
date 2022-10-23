@@ -1,3 +1,22 @@
+# Math support in VSCode and GitHub
+
+Are macros supported and do they persist between blocks?
+
+Let's define some macros here:
+
+$$
+    \def\RR{{\bf R}}
+    \def\bold#1{{\bf #1}}
+$$
+
+Now let's try using them:
+
+$$
+  \RR = \bold{1}
+$$
+
+It doesn't work.
+
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - book I
@@ -27,7 +46,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - chair, vac dryer vents
+  - chair
   - deck furniture, burlap, markers, fence
   - service UV
   - nail pops north side cabin
