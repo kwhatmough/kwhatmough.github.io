@@ -1,7 +1,3 @@
-$$
-  x = 5
-$$
-
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - book I
@@ -31,7 +27,7 @@ $$
   - Kort re records
   - dryer (Rob K)
 - C
-  - chair
+  - chair, clear shed roof
   - deck furniture, burlap, markers, fence
   - service UV
   - nail pops north side cabin
