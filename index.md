@@ -1,8 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - resched r4
-  - c vac, filter, fix downsp, fix lights, coats
-  - bikes
+  - coats, bikes
   - book H dentist (see reminder)
   - C pspt
   - Json
