@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - resched r4
   - coats, bikes
   - book H dentist (see reminder)
-  - C pspt
+  - H to sign pport
   - Json
   - update ins info (Dr D, SDM)
   - reassess TD ins w/Ben
