@@ -1,8 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - Dr D for H, propane, coats, bikes
-  - Json
   - update ins info (Dr D, SDM)
+  - coats
+  - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
@@ -15,7 +15,6 @@
   - d light batteries
   - Cgo mini
   - clean 4 vents
-  - register hw components
   - unclog drains
   - basin drain issue
   - CC/Eastlink issue, confirm Eastlink settings
