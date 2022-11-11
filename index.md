@@ -25,8 +25,6 @@
   - dryer (Rob K)
 - C
   - measure boots and boards
-  - chair, clear shed roof
-  - deck furniture, burlap, markers, fence
   - service UV
   - nail pops north side cabin
   - fix blinds
