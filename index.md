@@ -1,9 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
-  - water/condo
-  - new SL cards for C and H
-  - update ins info (Dr D, SDM)
-  - coats
+  - softener salt
+  - '23 planning
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
