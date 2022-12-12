@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
+  - card for J+I
   - 2 more options for JB+TW: omit first 3, replace first 3 with 2 at 90-deg
   - gifts for D
   - claims
