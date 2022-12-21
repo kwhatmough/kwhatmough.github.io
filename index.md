@@ -1,9 +1,8 @@
 $$
 \def\RR{{\bf R}}
-\def\bold#1{{\bf #1}}
 \begin{aligned}
   E &= mc^2 \\
-  \RR &= \bold{x} + \bold{\epsilon} \\
+  \RR &= \bf{x} + \bf{\epsilon} \\
 \end{aligned}
 $$
 
