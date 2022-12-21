@@ -2,7 +2,6 @@ $$
 \def\foo{x^2}
 \(
    \def\RR{{\bf R}}
-   \def\bold#1{{\bf #1}}
 \)
 $$
 
