@@ -1,3 +1,12 @@
+$$
+\def\RR{{\bf R}}
+\def\bold#1{{\bf #1}}
+\begin{aligned}
+  E &= mc^2 \\
+  \RR &= \bold{x} + \bold{\epsilon} \\
+\end{aligned}
+$$
+
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - PB for I, AF for us
