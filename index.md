@@ -1,9 +1,5 @@
 $$
-\newcommand\foo[0]{x^2}
-\begin{aligned}
-  E &= mc^2 \\
-  \foo &= \bf{x} + \bf{\epsilon} \\
-\end{aligned}
+\def\foo{x^2}
 $$
 
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
