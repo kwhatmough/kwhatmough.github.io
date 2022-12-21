@@ -1,5 +1,5 @@
 $$
-\def\foo{x^2}
+\global\def\foo{x^2}
 \begin{aligned}
   E &= mc^2 \\
   \foo &= \bf{x} + \bf{\epsilon} \\
