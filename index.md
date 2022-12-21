@@ -1,8 +1,8 @@
 $$
-\def\RR{{\bf R}}
+\def\foo{x^2}
 \begin{aligned}
   E &= mc^2 \\
-  \RR &= \bf{x} + \bf{\epsilon} \\
+  \foo &= \bf{x} + \bf{\epsilon} \\
 \end{aligned}
 $$
 
