@@ -22,6 +22,7 @@
   - dryer (Rob K)
 - C
   - service UV
+  - ski straps
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
