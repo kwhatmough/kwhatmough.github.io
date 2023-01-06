@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - claim ortho and inet
+  - quote for rental ins
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
