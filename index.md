@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - GT
   - fix usb, ping sman, ping hlth unt
+  - resched H dentist?
   - claim ortho and inet
   - quote for rental ins
   - Json
