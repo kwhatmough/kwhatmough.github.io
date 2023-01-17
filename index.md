@@ -2,8 +2,6 @@
 - G
   - Rob
   - fix usb, ping sman, ping hlth unt
-  - resched H dentist?
-  - claim ortho and inet
   - quote for rental ins
   - Json
   - reassess TD ins w/Ben
