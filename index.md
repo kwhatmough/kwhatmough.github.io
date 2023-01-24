@@ -1,9 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - groc
   - front bulb
   - fix usb, ping sman, ping hlth unt
-  - empty c v canister
   - quote for rental ins
   - Json
   - reassess TD ins w/Ben
@@ -26,8 +24,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - service UV
-  - jigsaw, ski straps
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
