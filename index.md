@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - front bulb
+  - card, d fls
   - fix usb, ping sman, ping hlth unt
   - quote for rental ins
   - Json
