@@ -6,6 +6,7 @@
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
+  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs
   - cellar vent, Swfr, filter 054-0164-2 $23
   - sk caps
   - G+G
