@@ -2,7 +2,6 @@
 - G
   - bk ww
   - 3M
-  - D claims
   - ortho and inet
   - fix usb
   - quote for rental ins
