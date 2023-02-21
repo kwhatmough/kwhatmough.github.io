@@ -1,8 +1,10 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - bk ww
   - 3M
+  - D claims
   - ortho and inet
-  - fix usb, ping hlth unt
+  - fix usb
   - quote for rental ins
   - Json
   - reassess TD ins w/Ben
