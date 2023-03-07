@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - bk ww
-  - csh, rnse ag
-  - H t4
-  - 3M
+  - carpet tape, 3M dining room
+  - csh
+  - tax returns
   - ortho and inet
   - fix usb
   - quote for rental ins
