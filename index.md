@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - bk ww
-  - carpet tape, 3M dining room
-  - csh
+  - order more pink slips
   - tax returns
+  - carpet tape, 3M dining room
   - ortho and inet
   - fix usb
   - quote for rental ins
