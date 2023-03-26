@@ -29,6 +29,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - pay MM
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
