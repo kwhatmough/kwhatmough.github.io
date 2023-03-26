@@ -1,16 +1,16 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - pay for rental
+  - d light batts, 3M dining rm
   - tax returns
   - order pink slips (T & H)
-  - carpet tape, 3M dining room
+  - xfer from us to rsp(!)
   - ortho and inet
+  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - fix usb
   - quote for rental ins
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
-  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - cellar vent, Swfr, filter 054-0164-2 $23
   - sk caps
   - G+G
