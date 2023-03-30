@@ -1,12 +1,12 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - bring crate, 3M dining rm
-  - tax returns
-  - order pink slips (T & H)
-  - xfer from us to rsp(!)
-  - ortho and inet
-  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - fix usb
+  - 3M dining rm
+  - Ks T22, Cs EI, K+C for
+  - ortho and inet
+  - xfer from us to rsp(!)
+  - order pink slips (T & H)
+  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - quote for rental ins
   - Json
   - reassess TD ins w/Ben
