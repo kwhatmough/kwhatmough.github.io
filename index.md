@@ -30,8 +30,8 @@
   - dryer (Rob K)
 - C
   - pay MM
-  - dep: HWT off, pump off
-  - arr: pump on, run 15m, HWT on
+  - dep: brkr off, valve closed
+  - arr: valve open, run 15m, brkr on
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
