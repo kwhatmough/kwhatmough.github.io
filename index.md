@@ -2,8 +2,9 @@
 - G
   - fix usb
   - 3M dining rm
-  - Ks T22, Cs EI, K+C for
+  - Ks T22, Cs EI, K+C for, H 1st?
   - ortho and inet
+  - cash
   - xfer from us to rsp(!)
   - order pink slips (T & H)
   - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
