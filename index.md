@@ -1,12 +1,16 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - order ck
+  - laundry
+  - ortho
+  - Ks T22, Cs EI, K+C for, H 1st?
+  - ols, card for M
+  - prf of ins
+  - order pink slips (T & H)
+  - ask Maur re clr for C
   - fix usb
   - 3M dining rm
-  - Ks T22, Cs EI, K+C for, H 1st?
-  - ortho and inet
-  - cash
   - xfer from us to rsp(!)
-  - order pink slips (T & H)
   - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - quote for rental ins
   - Json
@@ -30,9 +34,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - pay MM
-  - dep: brkr off, valve closed
-  - arr: valve open, run 15m, brkr on
+  - TV
+  - almond milk, cashews
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
