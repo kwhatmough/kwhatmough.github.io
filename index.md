@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - order ck
+  - order ck, post
   - laundry
   - ortho
   - Ks T22, Cs EI, K+C for, H 1st?
@@ -34,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - TV
+  - TV, uwv
   - almond milk, cashews
   - nail pops north side cabin
   - fix blinds
