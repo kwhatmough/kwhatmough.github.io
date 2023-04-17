@@ -1,18 +1,17 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - order ck, post
-  - laundry
+  - ols
+  - bk DT for H
   - ortho
   - Ks T22, Cs EI, K+C for, H 1st?
-  - ols, card for M
-  - prf of ins
-  - order pink slips (T & H)
+  - slips T & H
   - ask Maur re clr for C
   - fix usb
   - 3M dining rm
   - xfer from us to rsp(!)
   - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - quote for rental ins
+  - g for C
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
