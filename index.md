@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - cash, ols
-  - bread, milk, Swiffers
-  - bk DT for H
   - Ks T22, Cs EI, K+C for, H 1st?
+  - b-out deck
+  - bk DT for H
   - ortho
   - slips T & H
   - ask Maur re clr for C
