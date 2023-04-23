@@ -12,6 +12,7 @@
   - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - quote for rental ins
   - gift for Cth
+  - renew pspt!
   - Json
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
