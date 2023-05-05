@@ -1,17 +1,12 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Ks T22, Cs EI, K+C for, H 1st?
+  - letter from Mcknz/Ben
   - b-out deck
-  - bk DT for H
   - ortho
   - slips T & H
-  - ask Maur re clr for C
   - fix usb
-  - 3M dining rm
   - xfer from us to rsp(!)
-  - thck boots, mits, s shrt, shrty, full, cap, glvs, ear plgs, cntcs, bckpak
   - quote for rental ins
-  - gift for Cth
   - renew pspt!
   - Json
   - reassess TD ins w/Ben
