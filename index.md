@@ -3,7 +3,6 @@
   - letter from Mcknz/Ben
   - b-out deck
   - ortho
-  - slips T & H
   - fix usb
   - xfer from us to rsp(!)
   - quote for rental ins
