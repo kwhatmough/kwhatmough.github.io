@@ -28,8 +28,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - TV, uwv
-  - almond milk, cashews
+  - short cord for uwv
+  - TV
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
