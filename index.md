@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - tp, dove
-  - 1-15/16, brace, al plate (small), water, card, cash, 40" lcs
+  - bok+perp for K, gnd beef, chkn, s pprs
+  - 1-15/16, brace, al plate (small), 40" lcs
   - b-out deck
   - xfer from us to rsp(!)
   - letter from Mcknz/Ben
@@ -30,7 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - TV
+  - water, TV
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
