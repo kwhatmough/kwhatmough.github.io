@@ -1,6 +1,5 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - bok+perp for K, gnd beef, chkn, s pprs
   - 1-15/16, brace, al plate (small), 40" lcs
   - b-out deck
   - xfer from us to rsp(!)
