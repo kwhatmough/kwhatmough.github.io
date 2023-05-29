@@ -1,8 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - 1-15/16, flat corner brace, al plate (small), 3.25 tc, 3 cap/wash/tnut, 2x6, 40" lcs
-  - b-out deck
-  - xfer from us to rsp(!)
+  - 3 cap/wash/tnut, 2x6, 40" lcs
   - letter from Mcknz/Ben
   - ortho
   - fix usb
