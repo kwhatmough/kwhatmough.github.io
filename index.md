@@ -1,8 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - 3 cap/wash/tnut, 2x6, 40" lcs
+  - ortho and C's May 29 appt
+  - call clnr
   - letter from Mcknz/Ben
-  - ortho
   - fix usb
   - quote for rental ins
   - renew pspt!
