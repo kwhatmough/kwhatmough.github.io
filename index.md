@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - water g
   - ortho and C's May 29 appt
-  - cash
-  - 40" lcs
+  - 48" lc
+  - email from CSch
+  - sched w/Ben
   - letter from Mcknz/Ben
   - fix usb
   - quote for rental ins
@@ -29,7 +29,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - water, TV
+  - TV
   - nail pops north side cabin
   - fix blinds
   - planter boxes, BBQ pad, side walkway
