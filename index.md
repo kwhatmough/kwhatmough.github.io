@@ -30,6 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - install xbars
   - TV
   - nail pops north side cabin
   - fix blinds
