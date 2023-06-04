@@ -30,7 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - p towel, sprinkler, clear sili, oak blks, 2x8, long bolts etc
+  - p towel, sprinkler, clear sili, pipe clamp, oak blks, 2x8, long bolts etc
   - install xbars
   - TV
   - nail pops north side cabin
