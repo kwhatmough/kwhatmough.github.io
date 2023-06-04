@@ -30,6 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - p towel, sprinkler, 1-7/8" h sw, clear sili
   - install xbars
   - TV
   - nail pops north side cabin
