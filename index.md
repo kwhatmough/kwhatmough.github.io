@@ -2,6 +2,7 @@
 - G
   - ortho and C's May 29 appt
   - disc Mdlnd
+  - M1 partn rnwl
   - 48" lc
   - email from CSch
   - sched w/Ben
