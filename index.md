@@ -1,6 +1,5 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - wim action
   - ortho and C's May 29 appt
   - disc Mdlnd
   - 48" lc
