@@ -31,7 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - p towel, sprinkler, clear sili, pipe clamp, oak blks, 2x8, long bolts etc
+  - p towel, sprinkler, clear sili, 2" pipe clamps, oak blks, 2x8, 3/8x6 gal bolt set, cbl clps and sml tcons
   - TV
   - nail pops north side cabin
   - fix blinds
