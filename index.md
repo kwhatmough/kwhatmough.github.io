@@ -31,7 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - sprinkler, clear sili, 2" pipe clamps, cbl clps
+  - sprinkler
   - TV
   - nail pops north side cabin
   - fix blinds
