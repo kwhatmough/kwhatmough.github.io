@@ -31,7 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - gal, wht ties, sprinkler
+  - gal, wht ties, d rng, sprinkler
   - msre shft
   - TV
   - nail pops north side cabin
