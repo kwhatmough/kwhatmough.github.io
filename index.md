@@ -31,7 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - sprinkler
+  - gal, wht ties, sprinkler
   - TV
   - nail pops north side cabin
   - fix blinds
