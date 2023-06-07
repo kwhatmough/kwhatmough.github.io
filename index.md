@@ -32,6 +32,7 @@
   - dryer (Rob K)
 - C
   - gal, wht ties, sprinkler
+  - msre shft
   - TV
   - nail pops north side cabin
   - fix blinds
