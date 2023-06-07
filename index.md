@@ -10,7 +10,7 @@
   - fix usb
   - quote for rental ins
   - renew pspt!
-  - Json
+  - sprnk
   - reassess TD ins w/Ben
   - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
@@ -31,7 +31,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - gal, wht ties, d rng, sprinkler
   - msre r shft
   - TV
   - nail pops north side cabin
