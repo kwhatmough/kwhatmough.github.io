@@ -31,6 +31,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - 3/8-16 sets of 6: 2" and 2.5" w/xtra wshrs
   - msre r shft
   - TV
   - nail pops north side cabin
