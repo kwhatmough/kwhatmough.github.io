@@ -32,7 +32,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - msre r shft
   - TV
   - nail pops north side cabin
   - fix blinds
