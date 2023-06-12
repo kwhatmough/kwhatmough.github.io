@@ -34,6 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - 1-5/8x24 fence pipe
   - TV
   - nail pops north side cabin
   - fix blinds
