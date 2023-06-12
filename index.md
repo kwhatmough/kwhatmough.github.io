@@ -34,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - qty 2 of no 10 2.5" w/wshrs
+  - qty 3 of no 10 2.5" w/wshrs
   - 1-5/8x24 fence pipe
   - TV
   - nail pops north side cabin
