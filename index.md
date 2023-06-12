@@ -1,6 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - card
+  - R4: body
+  - T: wire harness
   - ortho and C's May 29 appt
   - disc Mdlnd
   - M1 partn rnwl
