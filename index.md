@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - card
-  - R4: body
   - T: wire harness
   - ortho and C's May 29 appt
   - disc Mdlnd
@@ -34,9 +33,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - qty 3 of no 10 2.5" w/wshrs
-  - 4" struct scrws
-  - 1-5/8x24 fence pipe
   - TV
   - nail pops north side cabin
   - fix blinds
