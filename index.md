@@ -2,7 +2,6 @@
 - G
   - card
   - T: wire harness
-  - ortho and C's May 29 appt
   - disc Mdlnd
   - M1 partn rnwl
   - 48" lc
