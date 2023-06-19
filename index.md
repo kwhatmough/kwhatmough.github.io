@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - card
+  - book Ivy bday
   - T: wire harness, htch rst, gps
   - disc Mdlnd
   - M1 partn rnwl
