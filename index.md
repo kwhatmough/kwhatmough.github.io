@@ -2,7 +2,7 @@
 - G
   - T: wire harness, rsty htch+cap, gps
   - M1 partn rnwl
-  - Mz roadsd
+  - Mz roadsd, pcpy reg
   - 48" lc
   - email from CSch
   - sched w/Ben
