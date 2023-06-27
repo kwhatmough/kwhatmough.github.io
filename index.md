@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - T: wire harness, rsty htch+cap, gps
+  - R4 rust
   - M1 partn rnwl
   - Mz roadsd, pcpy reg
   - 48" lc
@@ -31,8 +32,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - UP: bk rck, ndls, hse
-  - DOWN: snips, nrco
   - TV
   - nail pops north side cabin
   - fix blinds
