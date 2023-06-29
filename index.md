@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - T: wire harness, rsty htch+cap, gps
-  - M1 partn rnwl
+  - M1 partn cls
   - Mz roadsd, pcpy reg
   - 48" lc
   - email from CSch
