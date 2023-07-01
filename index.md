@@ -1,17 +1,15 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - M1 partn cls
   - Mz roadsd, pcpy reg
   - 48" lc
+  - quote for rental ins
+  - renew pspt!
   - email from CSch
   - sched w/Ben
   - letter from Mcknz/Ben
   - fix usb
-  - quote for rental ins
-  - renew pspt!
   - sprnk
   - reassess TD ins w/Ben
-  - Scwb/espp etc. (acct?)
   - cellar vent, Swfr, filter 054-0164-2 $23
   - sk caps
   - G+G
