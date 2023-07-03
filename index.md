@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - 3/4 stl h saw, 4 guard, 1/8 plgs, small organizers
+  - 3/4 stl h saw, 4 guard, 1/8 plgs, gromt, small organizers
   - Mz roadsd, pcpy reg
   - 48" lc
   - quote for rental ins
