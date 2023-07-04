@@ -1,9 +1,13 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - 7/8 h saw + bit, small organizers
+  - SL vent
+  - cut grass
+  - fix 2 faucets
+  - call CBC
+  - call SC
+  - quote for rental ins
   - Mz roadsd, pcpy reg
   - 48" lc
-  - quote for rental ins
   - renew pspt!
   - email from CSch
   - sched w/Ben
