@@ -1,9 +1,11 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - book T at K
   - cut grass
   - fix 2 faucets
-  - call CBC
+  - visit CBC
   - call SC
+  - D
   - Mz roadsd, pcpy reg
   - 48" lc
   - renew pspt!
