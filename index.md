@@ -1,8 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - order ck
-  - 3m, tp+ck for md
-  - p: cards
+  - call char
+  - prints, 3m, drinks, tp+cok for md
+  - sat: ck
+  - p: cards, photos
   - faucet
   - Mz roadsd, pcpy reg
   - 48" lc
