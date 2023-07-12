@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - call char
-  - prints, 3m, drinks, tp+cok for md
+  - drinks, cok for d
   - sat: ck
   - p: cards, photos
   - faucet
