@@ -1,7 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - sign cards
-  - order, plan
+  - order ck
+  - 3m, tp+ck for md
+  - p: cards
   - faucet
   - Mz roadsd, pcpy reg
   - 48" lc
