@@ -1,12 +1,11 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - gar, lp, drinks, cok for d
-  - sat: ck
-  - p: cards, photos
-  - faucet
+  - cut grass
+  - bk htch
+  - renew pspt
+  - re-reg w/IF
   - Mz roadsd, pcpy reg
   - 48" lc
-  - renew pspt!
   - email from CSch
   - sched w/Ben
   - letter from Mcknz/Ben
