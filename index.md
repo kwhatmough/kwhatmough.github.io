@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - tidy gar, install caps, wash ks, fix g door
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - 48" lc
