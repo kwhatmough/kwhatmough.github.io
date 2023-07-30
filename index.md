@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - ac refund for D+G
+  - plan, list
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -27,7 +27,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix door, cut grass, Dawn, string
+  - fix door, Dawn, string
   - TV
   - nail pops north side cabin
   - fix blinds
