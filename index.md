@@ -2,6 +2,8 @@
 - G
   - mike, resched pen appl
   - plan and make list for N+B
+  - limbing
+  - ky pics
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
