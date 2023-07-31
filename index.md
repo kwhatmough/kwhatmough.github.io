@@ -30,7 +30,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix door, Dawn, string
+  - clean fp glass, fix door, Dawn, string
   - TV
   - nail pops north side cabin
   - fix blinds
