@@ -2,8 +2,7 @@
 - G
   - mike, resched pen appl
   - plan and make list for N+B
-  - limbing
-  - ky pics
+  - laun, groc, fix door, cln fp gls, setup pc, rte slink
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -30,7 +29,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - clean fp glass, fix door, Dawn, string
+  - Dawn, string
+  - limbing
+  - ky pics
   - TV
   - nail pops north side cabin
   - fix blinds
