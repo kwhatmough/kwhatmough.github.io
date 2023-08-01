@@ -1,105 +1,100 @@
-### 6:30
+### 6:00
 
 - find parking
 - assemble cradles and cable locks
-- equip boat with carabiner
 - check bike tires
 - equip bike with saddle bag, whistle, water bottle, and light
 
 ### 7:00
 
-- wear face mask
-- bring phone with screen capture
 - pickup race kit
 - wear bib
 - position cradles and cable locks
 - apply stickers
+- set gear, lockout, dropper
+- turn on bike light
+- drop-off bike and transition bag
+
+
+### 8:45
+
 - wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
 - turn on Garmin and start multisport
-- turn on bike light
-- store key
-- set gear, lockout, dropper
-- drop-off bike and transition bag
-- IF TIME PERMITS: visit launch tent
 - assemble paddle
-- remove face mask
-
-### 7:50
-
 - remove straps
+- store key
 - secure car
 - bring boat and paddle
-- remove boots
 
-### 7:57
+### 9:27
 
 - launch
 - start Garmin
 
 ---
 
+# Thursday
+
+- print checklist
+
 # Friday
 
-- ~~sign online forms~~
-- ~~watch briefing video~~
-- print checklist
 - load boat (not tight)
 - charge light, Garmin
 - clean eyewear
 
-# Morning
+# Saturday morning
 
-- complete online Covid screening and capture screen
 - tighten boat
 - remove saddle bag and load bike
 
 ### Vehicle
 
+- checklist
+- spare eyewear and cases
 - paper towel
-- change tent
-- footstool
-- bike pump
-- roof kit
-- long cable lock w/key
 - 4L water
-- spare towels
-- microfiber cloth
-- 2 cable locks
-- throw rope
-- spare clothing
-- saddle bag
-- cordless drill
-- 2 boat cradles
-- 1 paddle cradle
 - masking tape
-- screwdriver
+- PFD w/whistle
+- spare towels
+- spare clothing
+- rain jacket
 - leash
 - paddle
-- checklist
-- PFD w/whistle
 - boots
-- spare eyewear and cases
-- face mask
-- yoga mat
+- paddle cradle
+- microfiber cloth
+- cordless drill
+- screwdriver
+- long cable lock w/key
+- cable lock (for cradle use)
+- bib belt
+- change tent
+- throw rope
+- boat cradle
+- footstool
+- bike pump
+- saddle bag
 
 ### Transition Bag
 
-- spare face mask
+- water bottle
+- towel
+- whistle
 - magnetic key box
-- bike helmet
 - bike shoes
 - running shoes
 - socks
-- towel
 - floor mat
-- 2 filled water bottles
-- whistle
 - flag
+- bike helmet
 
 ### Startline Bag
 
-- headlamp
-- carabiner
 - Garmin
 - gloves
 - hat
+- water shoes
+- PFD
+- bib
+- timing chip
