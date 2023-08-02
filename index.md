@@ -1,8 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - mike, resched pen appl
-  - plan and make list for N+B
-  - laun, groc, fix door, cln fp gls, setup pc, rte slink
+  - laun, groc, fix door, cln fp gls, rte slink
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
