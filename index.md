@@ -1,6 +1,5 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - laun, groc, fix door, cln fp gls, rte slink
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -27,8 +26,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - Dawn, string
-  - limbing
+  - groc
+  - chklist
+  - fix door, rte slink
   - ky pics
   - TV
   - nail pops north side cabin
