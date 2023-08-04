@@ -79,7 +79,6 @@
 - checklist
 - spare eyewear
 - masking tape
-- PFD w/whistle
 - spare towels
 - spare clothing
 - rain jacket
@@ -93,6 +92,7 @@
 
 - paper towel
 - 4L water
+- PFD w/whistle
 - paddle
 - boots
 - paddle cradle
