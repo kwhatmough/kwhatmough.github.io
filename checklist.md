@@ -41,7 +41,7 @@
 - turn on Garmin and start multisport
 - assemble paddle
 - remove straps
-- secure car and store key
+- secure car and key
 - bring boat and paddle
 
 ---
