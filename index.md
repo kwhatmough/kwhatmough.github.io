@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - find key(!)
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -27,7 +28,6 @@
   - dryer (Rob K)
 - C
   - groc
-  - chklist
   - fix door, rte slink
   - ky pics
   - TV
