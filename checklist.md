@@ -1,24 +1,43 @@
-### 6:00
+### Thursday
 
-- find parking
-- assemble cradles and cable locks
-- check bike tires
-- equip bike with saddle bag, whistle, water bottle, and light
+- print checklist
 
-### 7:00
+### Friday
 
-- pickup race kit
+- load boat w/straps loose
+- load bulk items
+- install bike rack
+- load transition and standby bags
+- charge bike light and Garmin
+- clean eyewear
+
+### Saturday 5:00am
+
+- put bike light and Garmin in start line bag
+- load start line bag
+- tighten straps
+- load bikes
+
+### Saturday 6:00am
+
+- assemble cradle and cable lock
+- check bike tires and shocks
+- equip bike w/bike light, saddle bag, and water bottle
+
+### Saturday 7:00am
+
+- pick up race kit
 - wear bib
-- position cradles and cable locks
 - apply stickers
-- set gear, lockout, dropper
+- position cradle and cable lock
+- set lockout and dropper
+- select starting gears
 - turn on bike light
-- drop-off bike and transition bag
+- drop-off transition bag and bike
 
+### Saturday 8:45am
 
-### 8:45
-
-- wear Garmin, boots, gloves, timing chip, PFD, bib, hat, eyewear
+- wear eyewear, hat, Garmin, gloves, bib, timing chip, boots, PFD
 - turn on Garmin and start multisport
 - assemble paddle
 - remove straps
@@ -26,62 +45,28 @@
 - secure car
 - bring boat and paddle
 
-### 9:27
-
-- launch
-- start Garmin
-
 ---
 
-# Thursday
+### Start Line Bag
 
-- print checklist
-
-# Friday
-
-- load boat (not tight)
-- charge light, Garmin
-- clean eyewear
-
-# Saturday morning
-
-- tighten boat
-- remove saddle bag and load bike
-
-### Vehicle
-
-- checklist
-- spare eyewear and cases
-- paper towel
-- 4L water
-- masking tape
-- PFD w/whistle
-- spare towels
-- spare clothing
-- rain jacket
-- leash
-- paddle
-- boots
-- paddle cradle
-- microfiber cloth
-- cordless drill
-- screwdriver
-- long cable lock w/key
-- cable lock (for cradle use)
-- bib belt
-- change tent
-- throw rope
-- boat cradle
-- footstool
-- bike pump
-- saddle bag
+- water bottle
+- saddle bag w/whistle
+- bike light
+- bike light charger
+- Garmin
+- Garmin wrist strap
+- Garmin charger
+- gloves
+- hat
+- shirt
+- shorts
 
 ### Transition Bag
 
 - water bottle
 - towel
 - whistle
-- magnetic key box
+- key box
 - bike shoes
 - running shoes
 - socks
@@ -89,12 +74,38 @@
 - flag
 - bike helmet
 
-### Startline Bag
+### Standby Bag
 
-- Garmin
-- gloves
-- hat
-- water shoes
-- PFD
-- bib
-- timing chip
+- checklist
+- spare eyewear
+- masking tape
+- PFD w/whistle
+- spare towels
+- spare clothing
+- rain jacket
+- leash
+- microfiber cloth
+- bib belt
+- throw rope
+- shock pump
+
+### Bulk Items
+
+- paper towel
+- 4L water
+- paddle
+- boots
+- paddle cradle
+- cordless drill
+- screwdriver
+- long cable lock w/key
+- cable lock for cradle use
+- change tent
+- boat cradle
+- footstool
+- bike pump
+
+---
+
+- Kit Pickup 6:30 AM – 9:00 AM
+- Race Start 9:30 AM
