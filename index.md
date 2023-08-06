@@ -27,7 +27,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - groc
   - fix door, rte slink
   - ky pics
   - TV
