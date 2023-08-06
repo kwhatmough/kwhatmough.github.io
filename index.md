@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - rnd file
+  - rnd file, paint
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
