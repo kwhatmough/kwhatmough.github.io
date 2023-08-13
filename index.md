@@ -27,7 +27,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix door, rte slink
+  - fix door, rte slink, fix BBQ
   - ky pics
   - TV
   - nail pops north side cabin
