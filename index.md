@@ -1,9 +1,10 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - pay d (msg), call ins re H, bk I, hold m?
+  - pay d (msg), call ins re H
   - laundry (c)
   - risers
   - compr rd (1m), mini tkt/p hng, rnd file, spoke
+  - refds for AC, Ka
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
