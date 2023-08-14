@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - pay d (msg), call ins re H
+  - pay d (msg), p pass
   - laundry (c)
   - risers
   - compr rd (1m), mini tkt/p hng, rnd file, spoke
