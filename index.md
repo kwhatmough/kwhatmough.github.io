@@ -1,10 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - empty c vac
-  - risers
-  - spoke
   - D: matrs, crs-chk
-  - refds for AC, Ka
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -31,7 +28,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix door, rte slink, fix BBQ
+  - fix trm, install bdg, meas spoke
+  - fix door, rte slink, install f ext, fix hse hk
   - ky pics
   - TV
   - nail pops north side cabin
