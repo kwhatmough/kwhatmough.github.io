@@ -30,6 +30,7 @@
 - C
   - bkfill, fix trm, meas spoke
   - fix door, rte slink, install f ext, fix hse hk
+  - ppane
   - ky pics
   - TV
   - nail pops north side cabin
