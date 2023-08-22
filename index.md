@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - dg fd
   - empty c vac
   - D: matrs, crs-chk
   - re-reg w/IF
@@ -29,6 +30,7 @@
   - dryer (Rob K)
 - C
   - prging
+  - 1 set B Kprz(!)
   - fix trm, meas spoke
   - ky pics
   - fix door, rte slink, install f ext, fix hse hk
