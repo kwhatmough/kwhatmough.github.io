@@ -28,6 +28,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - prging
   - fix trm, meas spoke
   - ky pics
   - fix door, rte slink, install f ext, fix hse hk
