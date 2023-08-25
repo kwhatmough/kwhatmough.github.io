@@ -28,10 +28,10 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - prep, prging
+  - prging
   - mv drt, fix trm, meas spoke
   - ky pics
-  - fix door, rte slink, install f ext, fix hse hk
+  - fix door, rte slink, install f ext, fix hse hk, install ups
   - ppane
   - TV
   - nail pops north side cabin
