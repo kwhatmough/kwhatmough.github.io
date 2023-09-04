@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - call Ka
   - D: matrs, crs-chk
+  - call Ka
   - trs (R4+M5)
   - re-reg w/IF
   - Mz roadsd, pcpy reg
@@ -29,11 +29,14 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - B: repairs, G's pne b hse
+  - plastic ft
   - cut grass, ky+p pics
   - ppane
   - mv drt, fix trm, meas spoke
   - prging
   - fix door, rte slink, install f ext, fix hse hk, install ups
+  - lmbs
   - TV
   - nail pops north side cabin
   - fix blinds
