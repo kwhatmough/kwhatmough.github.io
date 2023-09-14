@@ -28,14 +28,14 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - mv snd, rcks
+  - rm weeds, mv snd, rcks
   - plastic ft, hng mir
   - cut grass, ky pics
-  - ppane
   - mv drt, fix trm, meas spoke
   - prging
   - fix door, rte slink, install f ext, fix hse hk, install ups
   - lmbs
+  - ppane tnk
   - TV
   - nail pops north side cabin
   - fix blinds
