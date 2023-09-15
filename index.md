@@ -2,6 +2,7 @@
 - G
   - D: matrs, crs-chk
   - lmb
+  - new ppane tnk
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
@@ -28,14 +29,14 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rm weeds, mv snd, rcks
-  - plastic ft, hng mir
-  - cut grass, ky pics
-  - mv drt, fix trm, meas spoke
+  - v5, rm weeds, cut grass, ky pics, plastic ft
+  - lmbs
+  - mv drt, fix trm
+  - hng mir
+  - meas spoke
+  - mv snd, rcks
   - prging
   - fix door, rte slink, install f ext, fix hse hk, install ups
-  - lmbs
-  - ppane tnk
   - TV
   - nail pops north side cabin
   - fix blinds
