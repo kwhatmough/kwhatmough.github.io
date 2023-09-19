@@ -1,16 +1,16 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - D: matrs, crs-chk
-  - lmb
+  - sched w/Ben
+  - reassess TD ins w/Ben
   - new ppane tnk
+  - lmb
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
-  - sched w/Ben
   - letter from Mcknz/Ben
   - fix usb
   - sprnk
-  - reassess TD ins w/Ben
   - cellar vent, Swfr, filter 054-0164-2 $23
   - sk caps
   - G+G
@@ -29,14 +29,13 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - v5, rm weeds, cut grass, ky pics, plastic ft
-  - lmbs
+  - plastic ft
   - mv drt, fix trm
   - hng mir
   - meas spoke
-  - mv snd, rcks
-  - prging
+  - mv rcks, and maybe snd
   - fix door, rte slink, install f ext, fix hse hk, install ups
+  - prging
   - TV
   - nail pops north side cabin
   - fix blinds
