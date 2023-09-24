@@ -29,7 +29,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - plastic ft
   - mv drt, fix trm
   - hng mir
   - meas spoke
