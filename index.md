@@ -29,7 +29,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - mv drt, fix trm
+  - call Dan H
+  - fix leak, mv drt, fix trm
   - hng mir
   - meas spoke
   - mv rcks, and maybe snd
