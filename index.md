@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - D: matrs, crs-chk
+  - sell shlvs + chiot
   - R4 re suspn
   - sched w/Ben
   - reassess TD ins w/Ben
