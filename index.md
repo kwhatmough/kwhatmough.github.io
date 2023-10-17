@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - D: maturs, crs-chk, new GIC, find advsr
-  - wash bding
+  - wash bding, install wheel cups
   - oven mits
   - sell shlvs + chiot
   - reassess TD ins w/Ben
