@@ -2,7 +2,7 @@
 - G
   - D: maturs, crs-chk, new GIC, find advsr
   - wash bding, install wheel cups
-  - oven mits
+  - oven mits, wat can, srub bub
   - sell shlvs + chiot
   - reassess TD ins w/Ben
   - new ppane tnk
