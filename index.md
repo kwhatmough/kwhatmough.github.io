@@ -1,10 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - reassess TD ins w/Ben
   - D: maturs, crs-chk, new GIC, find advsr
   - wash bding, install wheel cups
-  - oven mits, wat can, srub bub
   - sell shlvs + chiot
-  - reassess TD ins w/Ben
   - new ppane tnk
   - re-reg w/IF
   - Mz roadsd, pcpy reg
@@ -30,10 +29,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix leak, mv drt, fix trm
-  - hng mir
+  - wntrz mwr + trmr, markers at brch, kyks, cover chair, store w can + planters, clear roof
+  - fix leak, fix trm, hng mir
   - meas spoke
-  - mv rcks, and maybe snd
   - fix door, rte slink, install f ext, fix hse hk, install ups
   - prging
   - TV
