@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - sell shlvs + chiot
-  - lvs
+  - lvs, fp glass
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
   - wash bding, install wheel cups
