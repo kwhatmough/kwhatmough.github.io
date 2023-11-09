@@ -1,12 +1,16 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - sftnr salt
   - bike
+  - xfer to H
+  - returns to Kit
+  - action items from Dg
+  - pickup at condo
+  - sftnr salt
   - sell shlvs + chiot
   - dwnspt ext
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
-  - wash bding, install wheel cups
+  - install wheel cups
   - new ppane tnk
   - re-reg w/IF
   - Mz roadsd, pcpy reg
@@ -32,11 +36,12 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - prging
+  - remove fin
   - wntrz mwr + trmr, markers at brch, kyks, cover chair, store w can + planters, clear roof
   - fix leak, fix trm, hng mir
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
-  - prging
   - TV
   - nail pops north side cabin
   - fix blinds
