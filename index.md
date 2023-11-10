@@ -2,12 +2,10 @@
 - G
   - bike
   - xfer to H
-  - returns to Kit
   - action items from Dg
-  - pickup at condo
+  - dwnspt ext
   - sftnr salt
   - sell shlvs + chiot
-  - dwnspt ext
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
   - install wheel cups
