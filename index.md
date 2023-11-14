@@ -1,15 +1,13 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - bike
+  - dwnspt ext, new ppane tnk, cr2016, shirt, cmfrtr, b spinach, pay V, xm lights etc.
+  - sftnr salt
   - xfer to H
   - action items from Dg
-  - dwnspt ext
-  - sftnr salt
   - sell shlvs + chiot
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
   - install wheel cups
-  - new ppane tnk
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
