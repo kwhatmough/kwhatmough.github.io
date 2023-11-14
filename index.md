@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - dwnspt ext, new ppane tnk, cr2016, shirt, cmfrtr, b spinach, pay V, xm lights etc.
+  - dwnspt ext, cmfrtr, pay V, xm lights etc.
   - sftnr salt
   - xfer to H
   - action items from Dg
