@@ -32,6 +32,7 @@
   - dryer (Rob K)
 - C
   - prging
+  - reg wshr+dryr
   - remove fin
   - wntrz mwr + trmr, markers at brch, kyks, cover chair, store w can + planters, clear roof
   - fix leak, fix trm, hng mir
