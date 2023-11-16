@@ -1,12 +1,12 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - dwnspt ext, cmfrtr, xm lights etc.
+  - gas 4 red, cmfrtr
   - xfer to H
   - action items from Dg
   - sell shlvs + chiot
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
-  - install wheel cups
+  - install wheel (furniture) cups
   - re-reg w/IF
   - Mz roadsd, pcpy reg
   - email from CSch
