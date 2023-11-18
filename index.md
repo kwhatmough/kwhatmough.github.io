@@ -32,7 +32,6 @@
   - dryer (Rob K)
 - C
   - prging
-  - reg wshr+dryr
   - kyks
   - fix leak, fix trm, hng mir
   - meas spoke
