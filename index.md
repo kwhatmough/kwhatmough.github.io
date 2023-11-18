@@ -33,8 +33,7 @@
 - C
   - prging
   - reg wshr+dryr
-  - remove fin
-  - wntrz mwr + trmr, markers at brch, kyks, cover chair, store w can + planters, clear roof
+  - kyks
   - fix leak, fix trm, hng mir
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
