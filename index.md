@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - xfer to H, dntst appt
   - gas 4 red, cmfrtr
-  - xfer to H
   - action items from Dg
   - sell shlvs + chiot
   - cx5: red bag, discrd locks
