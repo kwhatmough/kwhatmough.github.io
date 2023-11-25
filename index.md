@@ -32,7 +32,7 @@
   - dryer (Rob K)
 - C
   - prging
-  - fix leak, fix trm, hng mir
+  - fix trm: sml nails, pnch, knif
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
   - TV
