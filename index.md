@@ -1,8 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - Freds, groc, wash car, ArrCan
   - xfer to H
   - Ben
-  - gas 4 red, sml nails, pnch, knif
   - Cth
   - action items from Dg
   - sell shlvs + chiot
