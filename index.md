@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Freds, groc, wash car, ArrCan
+  - Freds, wash car, ArrCan
   - xfer to H
   - Ben
-  - Cth
   - action items from Dg
   - sell shlvs + chiot
   - cx5: red bag, discrd locks
@@ -33,6 +32,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - cvr s table, remove hooks from rear of k shed
   - prging
   - fix trm: sml nails, pnch, knif
   - meas spoke
