@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - reply to Hil, Ros
+  - Cgo rtns
   - 3 items for m
   - order h2h (pur)
   - printer now
