@@ -2,7 +2,6 @@
 - G
   - r4
   - printer now
-  - items from M for D
   - xfer to H
   - Ben
   - action items from Dg
