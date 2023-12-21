@@ -32,7 +32,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - cvr s table, remove hooks from rear of k shed
   - prging
   - fix trm: sml nails, pnch, knif
   - meas spoke
