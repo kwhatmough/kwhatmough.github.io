@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - r4
-  - xfer to H
+  - soup, get together, chair, ins
   - Ben
   - action items from Dg
   - sell shlvs + chiot
