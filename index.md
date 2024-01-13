@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - scan
   - fit
   - Ben
   - action items from Dg
@@ -31,6 +32,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
+  - Horst
   - prging
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
@@ -80,3 +82,4 @@
 - front edge 12.25", rear edge 8.5" (57.75" o.c.)
 - tag T-5456
 - H: 15", K: 20"
+- engine OFF, hold intermittent for 2s
