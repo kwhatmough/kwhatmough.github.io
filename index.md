@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - T: rust chk, SunL tx slp, SG/PS, R4
+  - T: rust chk, SunL tx slp, R4
   - fit
   - Ben
   - action items from Dg
@@ -32,7 +32,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - Horst
+  - uv
   - prging
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
