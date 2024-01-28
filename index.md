@@ -32,7 +32,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - uv
+  - cash, uv
   - prging
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
