@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - T: rust chk, SunL tx slp, R4
+  - salt, T: rust chk, SunL tx slp, R4
   - fit
   - Ben
   - action items from Dg
