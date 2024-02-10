@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - salt, T: rust chk, SunL tx slp, R4
-  - fit
+  - cash, salt, T: rust chk, SunL tx slp
+  - fit, optom
   - Ben
   - action items from Dg
   - sell shlvs + chiot
@@ -33,6 +33,7 @@
   - dryer (Rob K)
 - C
   - cash, uv
+  - reg plb
   - prging
   - meas spoke
   - fix door, rte slink, install f ext, fix hse hk, install ups
