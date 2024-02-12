@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - frzn, otmlk, shks, cshws, pnut pdr, ScrbBub, pnr
+  - frzn, otmlk, shks, cshws, pnut pdr, ScrbBub, tp+pt, pnr
   - cash, T: rust chk, SunL tx slp
   - fit, optom
   - Ben
