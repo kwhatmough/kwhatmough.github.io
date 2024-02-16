@@ -2,7 +2,6 @@
 - G
   - fix cdn snr
   - dnld CS vids
-  - espp incr
   - pnut pdr, pnr
   - T: rust chk, SunL tx slp
   - fit, optom
