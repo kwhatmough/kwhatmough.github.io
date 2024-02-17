@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - tile
   - fix cdn snr
   - dnld CS vids
   - pnut pdr, pnr
@@ -35,11 +36,11 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - cash, uv
+  - uv, silic
   - reg plb
   - prging
   - meas spoke
-  - fix door, rte slink, install f ext, fix hse hk, install ups
+  - rte slink, install f ext, fix hse hk, install ups
   - TV
   - nail pops north side cabin
   - fix blinds
