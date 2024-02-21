@@ -1,8 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - ovn tbl
-  - tile
   - fix cdn snr
+  - tile
   - dnld CS vids
   - pnut pdr, pnr
   - T: rust chk, SunL tx slp
@@ -39,6 +38,7 @@
 - C
   - uv, silic
   - reg plb
+  - fix vpn
   - prging
   - meas spoke
   - rte slink, install f ext, fix hse hk, install ups
