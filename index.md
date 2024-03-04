@@ -34,8 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - wtr, 2 batts, uv, silic
-  - reg plb
+  - wtr, uv, silic
   - fix vpn
   - prging
   - meas spoke
