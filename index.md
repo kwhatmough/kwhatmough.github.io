@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - dep chq, tile, spsht, bin and paper for H
+  - spsht, bin and paper for H
   - dnld CS vids
   - T: rust chk, SunL tx slp
   - fit, optom
