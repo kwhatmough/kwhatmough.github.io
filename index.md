@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Tlly, fix cordless (see eml), fence lattice (cco), itx, clean vents, Mlfe re-link, gic, ldscp
-  - wtr
+  - Tlly, fix cordless (see eml), fence lattice (cco), itx, clean vents, Mlfe re-link, gic, ldscp, trx
   - dnld CS vids
-  - T: rust chk, SunL tx slp
+  - SunL tx slp
   - fit, optom
   - Ben
   - action items from Dg
@@ -36,6 +35,7 @@
   - dryer (Rob K)
 - C
   - wtr, uv, silic
+  - T roof, cbl lck
   - fix vpn
   - prging
   - meas spoke
