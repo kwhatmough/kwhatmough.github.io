@@ -36,6 +36,7 @@
 - C
   - wtr, uv, silic
   - T roof, cbl lck, msprt helmet and those gloves
+  - pal batt
   - fix vpn
   - prging
   - meas spoke
