@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - lattice, itx, clean a/c, Mlfe re-link, gic, ldscp, trx
+  - itx, C needs to link Mlfe, gic, ldscp, trx
   - dnld CS vids
-  - SunL tx slp
-  - fit, optom
+  - fit
   - Ben
   - action items from Dg
   - sell shlvs + chiot
