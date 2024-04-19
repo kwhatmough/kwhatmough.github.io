@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Mgdlna, itx, C needs to link Mlfe, gic, ldscp, trx, ktcn stl pads
+  - cards, cake, bins, Mgdlna, C needs to link Mlfe, gic, ldscp, trx, ktcn stl pads
   - dnld CS vids
   - fit
   - Ben
