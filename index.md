@@ -33,9 +33,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - wtr, uv, silic
-  - T roof, cbl lck, msprt helmet and those gloves
-  - pal batt
+  - up: wtr, 2x4, pdl, tbl, Thles
+  - dn: T roof, cbl lck, msprt helmet and those gloves
+  - pal batt, uv, silic
   - fix vpn
   - prging
   - meas spoke
