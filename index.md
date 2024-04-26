@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - nght tbl pads, own sldrs, Cs laptp
+  - own sldrs, Cs laptp
   - lrg bins, Mgdlna, C needs to link Mlfe, gic, ldscp, trx
   - dnld CS vids
   - fit
@@ -34,7 +34,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - up: wtr, 2x4, pdl, tbl, Thles
   - dn: T roof, cbl lck, msprt helmet and those gloves
   - pal batt, uv, silic
   - fix vpn
