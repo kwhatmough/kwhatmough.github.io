@@ -34,11 +34,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - dn: T roof, cbl lck, msprt helmet and those gloves
-  - pal batt, uv, silic
-  - fix vpn
+  - fix vpn, meas spoke, pal batt
+  - uv, silic
   - prging
-  - meas spoke
   - rte slink, install f ext, fix hse hk, install ups
   - TV
   - nail pops north side cabin
