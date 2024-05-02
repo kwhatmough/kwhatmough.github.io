@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - own sldrs, Cs laptp
-  - clnt, lrg bins, Mgdlna, C needs to link Mlfe, ldscp, trx
+  - coolnt, lrg bins, ppr nests, Mgdlna, C needs to link Mlfe, ldscp, trx
   - dnld CS vids
   - fit
   - Ben
