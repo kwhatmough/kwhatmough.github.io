@@ -1,8 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - book Mzda
   - own sldrs, Cs laptp
-  - lrg bins, Mgdlna, C needs to link Mlfe, ldscp, trx
+  - clnt, lrg bins, Mgdlna, C needs to link Mlfe, ldscp, trx
   - dnld CS vids
   - fit
   - Ben
@@ -35,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - aa and aaa, from: rpe
+  - to: aa and aaa, from: rpe, 4 covers
   - fix vpn
   - uv, silic
   - prging
