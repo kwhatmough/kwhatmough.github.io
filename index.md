@@ -34,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - to: aa aaa, tmahwk, helical auger type earth anchor
+  - to: aa aaa, tmahwk
   - from: rope, 4 covers
   - fix vpn
   - uv, silic
