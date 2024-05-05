@@ -88,3 +88,17 @@
 - tag T-5456
 - H: 15", K: 20"
 - engine OFF, hold intermittent for 2s
+- chklst
+  1. paddle
+  1. pfd
+  1. leash
+  1. eyewear
+  1. hat
+  1. dry clothes and footwear
+  1. towel
+  1. neoprene boots and gloves
+  1. stool
+  1. straps
+  1. rudder flag
+  1. floor mat
+  1. safe
