@@ -34,8 +34,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - to: tmahwk
-  - from: rope, 4 covers
+  - to: tmahwk, R4 roof kit incl 570
+  - from: rope
   - fix vpn
   - uv, silic
   - prging
