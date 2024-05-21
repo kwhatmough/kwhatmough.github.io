@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - rain barrel for C
+  - bk I, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
   - dnld CS vids
@@ -37,7 +37,7 @@
 - C
   - to: sml bkpk
   - from: rope
-  - fix vpn, tap
+  - fix vpn, tap, cam
   - uv, silic
   - prging
   - rte slink, install f ext, fix hse hk, install ups
