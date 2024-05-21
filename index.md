@@ -37,7 +37,7 @@
 - C
   - to: sml bkpk
   - from: rope
-  - fix vpn
+  - fix vpn, tap
   - uv, silic
   - prging
   - rte slink, install f ext, fix hse hk, install ups
