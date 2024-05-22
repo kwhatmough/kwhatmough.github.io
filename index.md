@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
   - wtr, sfnr slt, H lett, frg shlf, Gr
-  - bk I, rain barrel for C
+  - bk Kia, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
   - dnld CS vids
