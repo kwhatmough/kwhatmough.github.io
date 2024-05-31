@@ -1,7 +1,5 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - reply to M
-  - wtr, sfnr slt, stains
   - bk Kia, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
@@ -37,7 +35,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - to: sml bkpk
+  - from: trky
   - fix vpn, tap, cam
   - uv, silic
   - prging
