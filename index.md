@@ -35,7 +35,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - from: trky
+  - stain
   - fix vpn, tap, cam
   - uv, silic
   - prging
