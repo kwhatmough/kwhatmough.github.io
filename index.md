@@ -2,6 +2,7 @@
 - G
   - text Chad (add plnters and skrt), card, btk
   - bk I for Aug
+  - resto for Jul 14
   - fix frdge, J6, ac, bk Kia+Krn, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
