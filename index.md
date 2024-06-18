@@ -39,6 +39,7 @@
   - dryer (Rob K)
 - C
   - stain
+  - H: inflts, s table, anc, ham
   - fix vpn, tap
   - uv, silic
   - prging
