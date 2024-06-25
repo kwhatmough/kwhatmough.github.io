@@ -1,9 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Chad, Wil
-  - fit
-  - bk Kia+Krn
-  - drinks for J1 and J6
+  - cedar samp, Chad
+  - bk Kia
+  - Wil
+  - drinks for J6
   - fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
@@ -38,7 +38,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - stain
   - H: inflts, s table, anc, ham
   - fix vpn, tap
   - uv, silic
