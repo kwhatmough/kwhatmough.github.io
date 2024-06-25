@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - fbrd, zuc, pep, cuc, a mlk, tom sce
   - cedar smpl, Chad: skrt dsgn, access?
   - bk Kia
   - Wil
