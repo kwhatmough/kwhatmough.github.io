@@ -1,10 +1,9 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - fbrd, zuc, pep, cuc, a mlk, tom sce
+  - cans for I, pnt brsh, spri, drinks for J6
   - cedar smpl, Chad: skrt dsgn, access?
   - bk Kia
   - Wil
-  - drinks for J6
   - fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
