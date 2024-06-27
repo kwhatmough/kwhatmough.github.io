@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - cans for I, pnt brsh, spri, drinks for J6
+  - cans for I, pnt brsh, stcks, spri, drinks for J6
   - cedar smpl, Chad: skrt dsgn, access?
   - bk Kia
   - Wil
