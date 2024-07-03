@@ -37,7 +37,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - H: inflts, s table, anc, ham
+  - prpn(!)
   - fix vpn, tap
   - uv, silic
   - prging
