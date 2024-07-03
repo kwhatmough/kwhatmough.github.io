@@ -1,8 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - drl for D, cans for I, f rm for J6, bk I for J13/14
-  - Chad: skrt dsgn?
-  - bk Kia
+  - cans for I, f rm for J6
+  - Chad list + invc
   - Wil
   - fix frdge, rain barrel for C
   - own sldrs, Cs laptp
