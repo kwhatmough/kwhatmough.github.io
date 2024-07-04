@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - cans for I, f rm for J6,
+  - cans for I
   - from June 28: bk DC, read msgs from D
   - Chad list + invc
   - Wil
