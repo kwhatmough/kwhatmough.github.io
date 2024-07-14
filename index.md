@@ -1,10 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - cans for I
-  - rvws!
+  - weeds, Wilson
   - from June 28: **bk DC**, **read msgs from D**
-  - Chad list + invc
-  - Wil
+  - Wil ac
   - fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe, ldscp, trx
