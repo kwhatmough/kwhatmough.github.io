@@ -35,7 +35,7 @@
 - turn on bike light
 - drop-off transition bag and bike
 
-### Saturday 8:45am
+### Saturday 8:15am
 
 - wear eyewear, hat, Garmin, gloves, bib, timing chip, boots, PFD
 - turn on Garmin and start multisport
@@ -106,5 +106,5 @@
 
 ---
 
-- Kit Pickup 6:30 AM – 9:00 AM
-- Race Start 9:30 AM
+- Kit Pickup 7:00 AM
+- Race Start 9:00 AM
