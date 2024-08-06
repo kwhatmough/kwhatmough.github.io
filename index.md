@@ -34,7 +34,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - reply to Ch, bk cx, fix bk, final chrtr, rods, rollers
+  - Wilson, reply to Ch, bk cx, fix bk, final chrtr, rods, rollers
   - fix vpn, tap
   - uv, silic
   - prging
