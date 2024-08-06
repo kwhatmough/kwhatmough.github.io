@@ -84,6 +84,7 @@
 - leash
 - microfiber cloth
 - bib belt
+- zip ties
 - throw rope
 - shock pump
 
@@ -97,6 +98,7 @@
 - paddle cradle
 - cordless drill
 - screwdriver
+- cutters
 - long cable lock w/key
 - cable lock for cradle use
 - change tent
