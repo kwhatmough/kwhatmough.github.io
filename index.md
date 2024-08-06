@@ -34,7 +34,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - fix sup s, vpn, tap
+  - reply to Ch, bk cx, fix bk, final chrtr, rods, rollers
+  - fix vpn, tap
   - uv, silic
   - prging
   - rte slink, install f ext, fix hse hk, install ups
