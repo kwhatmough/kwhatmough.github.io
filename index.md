@@ -34,7 +34,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - discard gnd trky, rods, rollers
+  - clean shoes, discard gnd trky, ul crawlspace, clear porch, garbage from shed
+  - rods, rollers
   - water, rice, dwshr tabs
   - fix vpn, tap
   - uv, silic
