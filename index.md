@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
+  - Kia ltr, frzn sp + tnr ctge
   - renew I lic, XM, fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe
@@ -34,9 +35,9 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - clean shoes, discard gnd trky, ul crawlspace, clear porch, garbage from shed
+  - clean shoes/bk
+  - water, rice, pnck mix, dwshr tabs
   - rods, rollers
-  - water, rice, dwshr tabs
   - fix vpn, tap
   - uv, silic
   - prging
