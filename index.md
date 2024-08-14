@@ -36,7 +36,8 @@
   - dryer (Rob K)
 - C
   - clean shoes/bk
-  - water, rice, pnck mix, dwshr tabs
+  - water, rice, pnck mix, dwshr tabs (2), gar bags
+  - drinks, veg and dip, ?
   - rods, rollers
   - fix vpn, tap
   - uv, silic
