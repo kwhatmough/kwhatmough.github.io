@@ -1,6 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html)
 - G
-  - Kia ltr, tp
+  - wtr, tp brshs, I fd, cut grass, maps, fps, CCPP
+  - bk I bday
+  - Kia ltr
   - renew I lic, XM, fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe
