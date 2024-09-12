@@ -109,6 +109,5 @@ This is a test.
 
 $$
   \def\RR{{\bf R}}
-  \def\bold#1{{\bf #1}}
-  f(\bold{x}) = \RR \bold{x}^2
+  f(x) = \RR x^2
 $$
