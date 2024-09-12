@@ -111,3 +111,10 @@ $$
   \def\RR{{\bf R}}
   f(x) = \RR x^2
 $$
+
+This is a test $`E=mc^2`$.
+
+```math
+  \def\RR{{\bf R}}
+  f(x) = \RR x^2
+```
