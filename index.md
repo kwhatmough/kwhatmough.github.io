@@ -105,7 +105,7 @@
   1. floor mat
   1. safe
 
-This is a test.
+This is a test $E=mc^2$.
 
 $$
   \def\RR{{\bf R}}
