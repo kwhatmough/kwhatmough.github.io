@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - claims, H re wkend, SG
-  - Christina, condo, Kia
+  - claims, SG
+  - EMAILS
   - bk I bday
   - office window
   - renew I lic, XM, fix frdge, rain barrel for C
@@ -104,3 +104,11 @@
   1. rudder flag
   1. floor mat
   1. safe
+
+This is a test.
+
+$$
+  \def\RR{{\bf R}}
+  \def\bold#1{{\bf #1}}
+  f(\bold{x}) = \RR \bold{x}^2
+$$
