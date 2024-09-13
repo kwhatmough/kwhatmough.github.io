@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
+  - Elink, Marshall, forms, parking pass, H bday, lawn, rack, porch, cam, Kona, flties, septic
   - claims, SG
   - EMAILS
   - bk I bday
