@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - lawn, septic, porch light/box/cam, rack, cam, Kona, flties, shutoff
+  - sp, flties, shutoff
   - H bday
   - condo: blnkt box, brd games, frzr, hd board
   - claims, SG
@@ -40,7 +40,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rods, rollers
+  - rods, rollers, septic
   - fix vpn, tap
   - uv, silic
   - prging
