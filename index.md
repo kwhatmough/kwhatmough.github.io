@@ -1,7 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
+  - ads, vacuum
   - H bday
-  - condo: blnkt box, brd games, frzr, hd board
+  - condo: blnkt box, hd board, frzr
   - claims
   - EMAILS
   - office window
