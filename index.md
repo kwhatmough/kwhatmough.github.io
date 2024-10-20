@@ -39,8 +39,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rods, rollers, septic
-  - chrg prch cam
+  - rods, rollers
   - fix vpn, tap
   - uv, silic
   - prging
