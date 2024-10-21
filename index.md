@@ -39,7 +39,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rods, rollers
+  - shutoff tap, fill j cans, p oven, p chair, s fence, rods, rollers
   - fix vpn, tap
   - uv, silic
   - prging
