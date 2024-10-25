@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - groc, kc receipt, fps memb, 2fa (gh and okn), bk Mz
+  - groc, kc receipt, fps memb, 2fa (gh and okn), bk Mz, f fltrs, c fan
   - condo: blnkt box, hd board, frzr
   - claims
   - EMAILS
