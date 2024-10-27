@@ -39,7 +39,6 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - shutoff tap, bbq & p oven, p chair, unplg deh
   - rods, rollers
   - fix vpn, tap
   - uv, silic
