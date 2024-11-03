@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - kc receipt, c fan, fps memb, 2fa (gh and okn), f fltrs, sched w/Ben, chrg cam
   - condo: blnkt box, hd board, frzr
+  - kc receipt, c fan, fps memb, 2fa (gh and okn), sched w/Ben, b fdr
   - claims
   - EMAILS
   - office window
@@ -39,7 +39,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - rods, rollers
+  - f fltr, rods, rollers
   - fix vpn, tap
   - uv, silic
   - prging
