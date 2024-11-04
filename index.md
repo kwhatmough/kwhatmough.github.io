@@ -1,7 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
   - condo: blnkt box, hd board, frzr
-  - kc receipt, c fan, fps memb, 2fa (gh and okn), sched w/Ben, b fdr
+  - kc receipt, c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr
+  - sell shlvs + chiot
   - claims
   - EMAILS
   - office window
@@ -11,7 +12,6 @@
   - dnld CS vids
   - Ben
   - action items from Dg
-  - sell shlvs + chiot
   - cx5: red bag, discrd locks
   - D: maturs, crs-chk, new GIC, find advsr
   - install wheel (furniture) cups
