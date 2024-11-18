@@ -3,7 +3,7 @@
   - verify flor plan
   - prep carpet
   - condo: hd board, frzr, drsr, dsk
-  - kc receipt, c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, install wheel (furniture) cups
+  - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, install wheel (furniture) cups
   - sell shlvs + chiot
   - claims
   - EMAILS
