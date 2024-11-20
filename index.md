@@ -1,5 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
+  - prep lg nts, ph frzr, find coax and pwr bar, prep tbl and chrs, prep wall unit
   - s salt
   - verify flor plan
   - prep carpet
