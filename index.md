@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - s salt, wtr, H, ...
+  - s salt, shlf ppr, wtr, H, Scr Bbls, ...
   - verify flor plan
   - condo: hd board, etc
   - Tue: coax and pwr bar
