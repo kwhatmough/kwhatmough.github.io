@@ -1,12 +1,11 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - prep lg nts, ph frzr, find coax and pwr bar, prep tbl and chrs, prep wall unit
-  - s salt
+  - s salt, wtr, H, ...
   - verify flor plan
+  - condo: hd board, etc
+  - Tue: coax and pwr bar
   - prep carpet
-  - condo: hd board, frzr, drsr, dsk
   - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, install wheel (furniture) cups
-  - sell shlvs + chiot
   - claims
   - EMAILS
   - office window
