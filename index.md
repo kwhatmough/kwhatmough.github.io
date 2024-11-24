@@ -1,16 +1,15 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - prep chst and dsk
-  - s salt, shlf ppr, wtr, H, Scr Bbls, ...
-  - verify flor plan
-  - condo: hd board, etc
-  - Tue: coax and pwr bar
+  - chst and dsk
+  - coax and pwr bar
+  - s salt, tape, mrkrs, wtr, H, Scr Bbls, ...
+  - rtn spec box to C
   - prep carpet
-  - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, install wheel (furniture) cups
+  - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
   - claims
   - EMAILS
   - office window
-  - renew I lic, XM, fix frdge, rain barrel for C
+  - XM, fix frdge, rain barrel for C
   - own sldrs, Cs laptp
   - Mgdlna, C needs to link Mlfe
   - dnld CS vids
