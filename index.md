@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - C: cutlery tray, waste bins, drying rack, plates/glasses for H
+  - C: frzr food, cutlery tray, waste bins, drying rack, plates/glasses for H
   - tape, mrkrs
   - prep carpet
   - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
