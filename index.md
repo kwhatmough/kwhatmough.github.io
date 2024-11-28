@@ -2,6 +2,7 @@
 - G
   - return s crtn, find o-t-d hks, bring laptop, clear s lckr
   - MV: why invc to me?
+  - Diana/Selnes: concerns?
   - prep carpet
   - c fan, fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
   - claims
