@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - lptp, hks, pickup prescr, condo 6:30
-  - c fan
+  - lptps, hks, tv, safety shelvs
   - MV: why invc to me?
   - Diana/Selnes: concerns?
   - prep carpet
