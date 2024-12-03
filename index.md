@@ -2,7 +2,6 @@
 - G
   - hks
   - MV: why invc to me?
-  - Mz: p seat issue
   - prep carpet
   - fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
   - claims
