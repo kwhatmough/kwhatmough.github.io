@@ -1,9 +1,8 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - rf kit
-  - ggls, batt, hks
+  - hks
   - MV: why invc to me?
-  - Diana/Selnes: concerns?
+  - Mz: p seat issue
   - prep carpet
   - fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
   - claims
