@@ -92,6 +92,7 @@
 - tag T-5456
 - H: 15", K: 20"
 - engine OFF, hold intermittent for 2s
+- Mz: Rev + Nav + Mute
 - chklst
   1. paddle
   1. pfd
