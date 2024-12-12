@@ -39,7 +39,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - f fltr, rods, rollers
+  - f fltr, rods, rollers, rechrg cam
   - fix vpn, tap
   - uv, silic
   - prging
