@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - Wah, card, rtn Bell, Arohd, wrap
+  - rtn Bell, tp for M+D
+  - Wah, eXfer to C, Arohd, wrap
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
