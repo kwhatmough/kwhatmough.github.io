@@ -1,11 +1,11 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - rtn Bell, tp for M+D
-  - Wah, eXfer to C, Arohd, wrap
+  - Arohd, wrap
+  - sched w/Ben
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
-  - fps memb, 2fa (gh and okn), sched w/Ben, brd fdr, fix tlt vlvs, renew I lic
+  - fps memb, 2fa (gh and okn), brd fdr, fix tlt vlvs, renew I lic
   - claims
   - EMAILS
   - office window
