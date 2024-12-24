@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - timer for M+D, caa re H, Arohd, wrap
+  - timer for M+D, caa re H
   - sched w/Ben
   - MV: why invc to me?
   - wall hanging kit
@@ -41,7 +41,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - f fltr, rods, rollers, rechrg cam
+  - f fltr, rods, rollers, rechrg cam + arc
   - fix vpn, tap
   - uv, silic
   - prging
