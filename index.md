@@ -41,7 +41,7 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - p-in w htr, f fltr, rods, rollers, rechrg cam + arc
+  - p-in w htr, c fan(!), f fltr, rods, rollers, rechrg cams + arc
   - fix vpn, tap
   - uv, silic
   - prging
