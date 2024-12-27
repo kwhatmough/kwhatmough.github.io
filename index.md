@@ -41,7 +41,8 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - install f ext, c fan(!), p-in w htr, f fltr, rods, rollers, rechrg cams + arc
+  - install f ext, c fan(!), f fltr, rods, rollers, rechrg cams + arc
+  - fix w htr
   - fix vpn, tap
   - uv, silic
   - prging
