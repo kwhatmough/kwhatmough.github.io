@@ -41,11 +41,11 @@
   - Kort re records
   - dryer (Rob K)
 - C
-  - p-in w htr, c fan(!), f fltr, rods, rollers, rechrg cams + arc
+  - install f ext, p-in w htr, c fan(!), f fltr, rods, rollers, rechrg cams + arc
   - fix vpn, tap
   - uv, silic
   - prging
-  - rte slink, install f ext, fix hse hk, install ups
+  - rte slink, fix hse hk, install ups
   - TV
   - nail pops north side cabin
   - fix blinds
