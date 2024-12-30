@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - CP redir, sched w/Ben
-  - Who, bird fdr, 2 bulbs ovr tb
+  - fix phone, sched w/Ben
+  - Who, 2 bulbs ovr tb
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
