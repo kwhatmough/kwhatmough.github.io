@@ -3,7 +3,6 @@
   - fix phone, sched w/Ben
   - 2 bulbs ovr tb
   - repay(!)
-  - reg A5
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
