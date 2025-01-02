@@ -3,6 +3,7 @@
   - fix phone, sched w/Ben
   - 2 bulbs ovr tb
   - repay(!)
+  - reg A5
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
@@ -44,6 +45,7 @@
 - C
   - c fan bulbs
   - fix wl htr
+  - reg A5
   - fix roller blnds
   - fix vpn, tap
   - uv, silic
