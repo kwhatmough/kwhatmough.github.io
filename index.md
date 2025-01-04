@@ -8,9 +8,8 @@
   - MV: why invc to me?
   - wall hanging kit
   - prep carpet
-  - fps memb, 2fa (gh and okn), brd fdr, fix tlt vlvs, renew I lic
+  - 2fa (gh and okn), fix tlt vlvs
   - claims
-  - EMAILS
   - office window
   - XM, fix frdge, rain barrel for C
   - own sldrs, Cs laptp
