@@ -3,7 +3,6 @@
   - Next MV: bins (w-in clst)
   - sched w/Ben
   - 2 bulbs ovr tb
-  - repay(!)
   - bk T (DiaKt)
   - MV: why invc to me?
   - wall hanging kit
