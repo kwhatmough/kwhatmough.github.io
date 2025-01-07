@@ -1,6 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - Next MV: bins (w-in clst)
+  - prep tb, gar
+  - Next MV: mail, bins (w-in clst)
   - sched w/Ben
   - 2 bulbs ovr tb
   - bk T (DiaKt)
