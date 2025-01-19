@@ -1,6 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - sched w/Ben
+  - H ins wvr, icrs for D, d lic for I, sched w/Ben
   - 2 bulbs ovr tb
   - bk T (DiaKt)
   - MV: why invc to me?
