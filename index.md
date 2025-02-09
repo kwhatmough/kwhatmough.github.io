@@ -1,7 +1,7 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
   - sched w/Ben
-  - MV: mirror, fin
+  - MV: mirror, sofa
   - bk T (DiaKt)
   - MV: why invc to me?
   - wall hanging kit
