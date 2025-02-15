@@ -1,7 +1,6 @@
 - [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [skate](https://www.haltonhills.ca/simpletrack) [schedule](schedule.html) [fibon](fibon.html) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
   - sched w/Ben
-  - J+J
   - MV: mirror
   - bk T (DiaKt)
   - MV: why invc to me?
@@ -97,7 +96,7 @@
 - tag T-5456
 - H: 15", K: 20"
 - engine OFF, hold intermittent for 2s
-- Mz: Rev + Nav + Mute
+- Mz: Rev + Mute + Nav
 - chklst
   1. paddle
   1. pfd
