@@ -2,9 +2,8 @@
 - G
   - sched w/Ben
   - MV: mirror
-  - bk T (DiaKt)
-  - MV: why invc to me?
-  - wall hanging kit
+  - T: err msg
+  - iP: audio
   - prep carpet
   - 2fa (gh and okn), fix tlt vlvs
   - claims
