@@ -41,8 +41,8 @@
   - dryer (Rob K)
 - C
   - c fan bulbs
-  - fix wl htr
   - reg A5
+  - replave cvr (tear), fix dehum hose, tidy ht line, rechrg cam, add cam, alu foil, discard frdg
   - fix roller blnds
   - fix vpn, tap
   - uv, silic
