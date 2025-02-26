@@ -42,7 +42,7 @@
 - C
   - c fan bulbs
   - reg A5
-  - replave cvr (tear), fix dehum hose, tidy ht line, rechrg cam, add cam, alu foil, discard frdg
+  - replave cvr (tear), fix dehum hose, tidy ht line, alu foil, discard frdg
   - fix roller blnds
   - fix vpn, tap
   - uv, silic
