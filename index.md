@@ -2,6 +2,7 @@
 - G
   - sched w/Ben
   - do, foam
+  - for D: RTO contact, Med1/Med2/etc, add CIBC and run monthly
   - MV: mirror
   - T: err msg
   - iP: audio
