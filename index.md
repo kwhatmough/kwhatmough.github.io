@@ -2,7 +2,7 @@
 - G
   - sched w/Ben
   - add CIBC and run monthly, hang therm/carving/cott pics/loco tunnel
-  - MV: mirror
+  - MV: tabl
   - T: err msg
   - iP: audio
   - prep carpet
