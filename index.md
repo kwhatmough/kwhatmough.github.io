@@ -1,6 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - tp, cards, [MS 250](https://youtu.be/Y0yisz2oZk8?si=1nmosyC7ACh9XRyu&t=472) + air filter
+  - tp, cr a
   - GRC setup, Dev re contct info
   - hang therm/carving/cott pics/loco tunnel
   - T: err msg
