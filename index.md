@@ -1,8 +1,8 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - resp, tp, st g, ck/ss, pero, fps: meal variety scheme
+  - resp, order ck, pero
   - GRC setup, Dev re contct info
-  - hang therm/carving/cott pics/loco tunnel
+  - **nuts and bolts**, hang therm/carving/cott pics/loco tunnel
   - T: err msg
   - 2fa (gh and okn), fix tlt vlvs
   - claims
