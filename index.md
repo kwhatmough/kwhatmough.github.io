@@ -1,5 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
+  - renew MyMz
   - zip tie for M
   - GRC setup, Dev re contct info
   - **nuts and bolts**, hang therm/carving/cott pics/loco tunnel
