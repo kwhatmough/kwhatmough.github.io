@@ -81,6 +81,7 @@
 - H: 15", K: 20"
 - engine OFF, hold intermittent for 2s
 - Mz: First try just Mute + Nav, then if that doesn't work try Rev + Mute + Nav
+- L01=H-small, L02=K-large, L03=H-large, L04=Blu-back
 - chklst
   1. paddle
   1. pfd
