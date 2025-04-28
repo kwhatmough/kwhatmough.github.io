@@ -1,10 +1,9 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - water, TP
-  - shirts to M+D
-  - ~~renew MyMz~~ done
   - GRC setup for C
   - M shoes, **nuts and bolts**, hang therm/carving/cott pics/loco tunnel
+  - prep Nlo, water, TP
+  - ~~renew MyMz~~ done
   - T: err msg
   - 2fa (gh and okn), fix tlt vlvs
   - claims
