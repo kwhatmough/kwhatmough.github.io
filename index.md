@@ -24,6 +24,7 @@
 - C
   - c fan bulbs
   - replave cvr (tear), lighters
+  - silicone for exterior
   - fix roller blnds
   - fix vpn, tap
   - uv, silic
