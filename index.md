@@ -1,6 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - photo album, bx wd spray, lighters, butane, water, sftnr salt, Metro
+  - photo album, bx wd spray, butane, water, sftnr salt
   - resched J22, A25
   - bk bl ts
   - sprdsht
