@@ -1,8 +1,8 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - photo album, bx wd spray, butane, water, sftnr salt, bottom sweep for shower door, bottom sweep for shed door
-  - resched J22, A25
-  - bk bl ts, K
+  - gar, fix plntr, cut grs
+  - photo album, bx wd spray, butane, water, sftnr salt, bottom sweep for shower and shed doors
+  - resched A25
   - sprdsht
   - release for hvac and T
   - GRC setup for C
