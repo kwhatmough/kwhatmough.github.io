@@ -2,7 +2,7 @@
 - G
   - photo album, bx wd spray, butane, water, sftnr salt, bottom sweep for shower door, bottom sweep for shed door
   - resched J22, A25
-  - bk bl ts
+  - bk bl ts, K
   - sprdsht
   - release for hvac and T
   - GRC setup for C
