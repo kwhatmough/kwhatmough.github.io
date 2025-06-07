@@ -1,6 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - photo album, bx wd spray, r/u, butane, water, sftnr salt, bottom sweep for shower and shed doors
+  - bx wd spray, r/u, butane, water, sftnr salt, bottom sweep for shower and shed doors
   - sprdsht
   - release for hvac and T
   - GRC setup for C
@@ -24,6 +24,7 @@
   - wifi
   - Kort re records
 - C
+  - ferns, water plants
   - exterior caulk, bottom sweep for shed door
   - fix roller blnds
   - fix vpn, tap
