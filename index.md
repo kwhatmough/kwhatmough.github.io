@@ -25,7 +25,7 @@
   - wifi
   - Kort re records
 - C
-  - replace shoes+brm+wcns, gbg from shd, restore bike
+  - replace brm+wcn, gbg from shd, b ltce
   - exterior caulk, bottom sweep for shed door
   - fix roller blnds
   - fix vpn, tap
