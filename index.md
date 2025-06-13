@@ -25,7 +25,7 @@
   - wifi
   - Kort re records
 - C
-  - water plants
+  - replace shoes, restore bike
   - exterior caulk, bottom sweep for shed door
   - fix roller blnds
   - fix vpn, tap
