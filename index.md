@@ -1,7 +1,7 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - bx wd spray, water, sftnr salt, bottom sweep for shower and shed doors, wtr cans
-  - deo, dwn, water, Cr dtx, TP
+  - move tab and chs, remove garden hs
+  - bx wd spray
   - sprdsht
   - release for hvac and T
   - GRC setup for C
