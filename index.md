@@ -1,6 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - Ds bd
+  - bd card, wtr
   - bx wd spray
   - sprdsht
   - release for hvac and T
