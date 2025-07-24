@@ -1,6 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - statements, sprdsht, bin for M
+  - statements, sprdsht, prnt wvrs
   - bkes
   - bx wd spray
   - release for hvac and T
