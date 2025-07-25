@@ -1,7 +1,7 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
-  - statements, sprdsht
-  - wds, b ads, rf rck, bkes
+  - statements, sprdsht, Dg
+  - wds, rf rck, bkes
   - release for hvac and T
   - GRC setup for C
   - ~~renew MyMz~~ done
@@ -24,6 +24,8 @@
   - wifi
   - Kort re records
 - C
+  - recrg
+  - clear porch!
   - exterior caulk, bottom sweep for shed door
   - fix roller blnds
   - fix vpn, tap
