@@ -2,6 +2,7 @@
 - G
   - statements, sprdsht, Dg
   - wds, rf rck, bkes
+  - shrt for C(!)
   - release for hvac and T
   - GRC setup for C
   - ~~renew MyMz~~ done
