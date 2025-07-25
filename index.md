@@ -2,7 +2,6 @@
 - G
   - statements, sprdsht
   - wds, b ads, rf rck, bkes
-  - bx wd spray
   - release for hvac and T
   - GRC setup for C
   - ~~renew MyMz~~ done
