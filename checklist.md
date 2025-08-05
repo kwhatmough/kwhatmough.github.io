@@ -11,25 +11,27 @@
 - charge bike light and Garmin
 - clean eyewear
 
-### Saturday 5:00am
+### Saturday 5:45am
 
 - put bike light and Garmin in start line bag
 - load start line bag
 - tighten straps
-- load bikes
+- load bike
 
-### Saturday 6:00am
+### Saturday 6:45am
 
-- assemble cradle and cable lock
 - check bike tires and shocks
 - equip bike w/bike light, saddle bag, and water bottle
 
 ### Saturday 7:00am
 
 - pick up race kit
-- wear bib
-- apply stickers
-- position cradle and cable lock
+- wear bib (position on front using provided belt)
+  - 2nd bib on PFD
+- apply stickers/race plates
+  - 1 large sticker for boat
+  - 3 baggage tags for gear (paddle, PFD, bike helmet)
+  - 1 bike plate (front of bike)
 - set lockout and dropper
 - select starting gears
 - turn on bike light
@@ -97,12 +99,10 @@
 - boots
 - paddle cradle
 - cordless drill
-- screwdriver
-- cutters
+- toolbox (cutters, scissors)
 - long cable lock w/key
-- cable lock for cradle use
+- standard cable lock
 - change tent
-- boat cradle
 - footstool
 - bike pump
 
