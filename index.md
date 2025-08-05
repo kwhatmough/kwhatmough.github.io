@@ -1,7 +1,6 @@
 - [milockie](http://www.milockie.com/manual_1.html) [checklist](checklist.html) [tent](https://www.youtube.com/watch?v=CvNA0EYfeBc) [Cntry K9s](https://www.countrycaninesplaypark.com/)
 - G
   - statements, sprdsht, Dg
-  - ant pwdr and trps
   - shrt for C(!)
   - replacement line for trmr
   - release for hvac and T
@@ -26,8 +25,7 @@
   - wifi
   - Kort re records
 - C
-  - recrg
-  - clear porch!
+  - pwr bar/1:3, crdlss trmmr, mntr
   - exterior caulk, bottom sweep for shed door
   - fix roller blnds
   - fix vpn, tap
