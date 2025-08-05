@@ -27,7 +27,7 @@
 
 - pick up race kit
 - wear bib on front using provided belt
-- apply stickers/race plates
+- apply stickers etc:
   - second bib for PFD
   - 1 large sticker for boat
   - 3 baggage tags for gear (paddle, PFD, bike helmet)
