@@ -26,12 +26,12 @@
 ### Saturday 7:00am
 
 - pick up race kit
-- wear bib (position on front using provided belt)
-  - 2nd bib on PFD
+- wear bib on front using provided belt
 - apply stickers/race plates
+  - second bib for PFD
   - 1 large sticker for boat
   - 3 baggage tags for gear (paddle, PFD, bike helmet)
-  - 1 bike plate (front of bike)
+  - nylon-tie bike plate to front of bike
 - set lockout and dropper
 - select starting gears
 - turn on bike light
