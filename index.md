@@ -2,7 +2,7 @@
 - G
   - statements, sprdsht, Dg
   - shrt for C(!)
-  - replacement line for trmr
+  - C: Tde pwdr, Dwn, grbg bags
   - release for hvac and T
   - GRC setup for C
   - ~~renew MyMz~~ done
